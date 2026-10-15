@@ -1,0 +1,15 @@
+
+===== entregas/fernando_v1
+  OOF 1 oración      n=608 punt +0.368 AUROC 0.878 FP 137 FN 16
+  OOF >=2 oraciones  n= 23 punt +0.062 AUROC 0.571 FP 15 FN 0
+  OOF recall distorsion           0.97 (n=154)
+  OOF recall sobregeneralizacion  0.88 (n=86)
+  OOF recall no_respaldado        0.98 (n=48)
+  OOF recall contradiccion        1.00 (n=9)
+  2 resp. concatenadas: fieles marcadas  83.0% (n=88) · con 1 alucinación detectadas  96.6% (n=88)
+  3 resp. concatenadas: fieles marcadas  95.5% (n=88) · con 1 alucinación detectadas  98.9% (n=88)
+  4 resp. concatenadas: fieles marcadas 100.0% (n=67) · con 1 alucinación detectadas 100.0% (n=88)
+  referencia 1 resp.: fieles marcadas  43.4% (dentro de muestra)
+  train-H      n=631 marcados  67.8%  deciles:  7.0  6.3  1.4  5.4 12.0  5.9 10.6  6.5 12.0 32.8
+  test_publico n=440 marcados  60.9%  deciles: 10.5  4.8  1.6 10.0 12.3  5.7 11.8  8.0  8.2 27.3
+  excepciones: 0 · contador interno del bot: 0

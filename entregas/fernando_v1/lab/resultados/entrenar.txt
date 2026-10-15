@@ -1,0 +1,82 @@
+logreg:C=0.03:pen=l2:noh=0       +0.334 ± 0.096  AUROC 0.877 ± 0.026  FP 32.3 FN 3.1
+logreg:C=0.03:pen=l2:noh=0.3     +0.287 ± 0.139  AUROC 0.869 ± 0.027  FP 27.4 FN 5.1
+logreg:C=0.03:pen=l2:noh=1       +0.179 ± 0.161  AUROC 0.863 ± 0.029  FP 21.5 FN 8.3
+logreg:C=0.03:pen=l1:noh=0       +0.314 ± 0.083  AUROC 0.880 ± 0.030  FP 40.0 FN 1.5
+logreg:C=0.03:pen=l1:noh=0.3     +0.317 ± 0.149  AUROC 0.874 ± 0.030  FP 23.7 FN 5.5
+logreg:C=0.03:pen=l1:noh=1       +0.211 ± 0.189  AUROC 0.862 ± 0.031  FP 22.3 FN 7.6
+logreg:C=0.1:pen=l2:noh=0        +0.348 ± 0.095  AUROC 0.873 ± 0.027  FP 31.3 FN 3.1
+logreg:C=0.1:pen=l2:noh=0.3      +0.297 ± 0.145  AUROC 0.868 ± 0.028  FP 25.9 FN 5.3
+logreg:C=0.1:pen=l2:noh=1        +0.182 ± 0.184  AUROC 0.863 ± 0.029  FP 20.8 FN 8.5
+logreg:C=0.1:pen=l1:noh=0        +0.355 ± 0.109  AUROC 0.877 ± 0.028  FP 31.6 FN 2.9
+logreg:C=0.1:pen=l1:noh=0.3      +0.320 ± 0.147  AUROC 0.871 ± 0.030  FP 24.9 FN 5.1
+logreg:C=0.1:pen=l1:noh=1        +0.193 ± 0.200  AUROC 0.863 ± 0.030  FP 20.8 FN 8.3
+logreg:C=0.3:pen=l2:noh=0        +0.362 ± 0.095  AUROC 0.872 ± 0.027  FP 30.4 FN 3.1
+logreg:C=0.3:pen=l2:noh=0.3      +0.297 ± 0.146  AUROC 0.867 ± 0.029  FP 25.6 FN 5.3
+logreg:C=0.3:pen=l2:noh=1        +0.183 ± 0.190  AUROC 0.863 ± 0.029  FP 20.5 FN 8.5
+logreg:C=0.3:pen=l1:noh=0        +0.357 ± 0.099  AUROC 0.873 ± 0.026  FP 30.5 FN 3.1
+logreg:C=0.3:pen=l1:noh=0.3      +0.319 ± 0.126  AUROC 0.869 ± 0.029  FP 25.2 FN 5.1
+logreg:C=0.3:pen=l1:noh=1        +0.189 ± 0.191  AUROC 0.863 ± 0.029  FP 20.3 FN 8.5
+logreg:C=1.0:pen=l2:noh=0        +0.361 ± 0.103  AUROC 0.872 ± 0.027  FP 30.2 FN 3.1
+logreg:C=1.0:pen=l2:noh=0.3      +0.293 ± 0.149  AUROC 0.867 ± 0.029  FP 25.3 FN 5.5
+logreg:C=1.0:pen=l2:noh=1        +0.187 ± 0.193  AUROC 0.863 ± 0.029  FP 20.2 FN 8.5
+logreg:C=1.0:pen=l1:noh=0        +0.361 ± 0.101  AUROC 0.873 ± 0.026  FP 30.2 FN 3.1
+logreg:C=1.0:pen=l1:noh=0.3      +0.302 ± 0.143  AUROC 0.867 ± 0.029  FP 25.3 FN 5.3
+logreg:C=1.0:pen=l1:noh=1        +0.191 ± 0.192  AUROC 0.863 ± 0.029  FP 20.2 FN 8.5
+hgb:depth=2:noh=0                +0.341 ± 0.135  AUROC 0.872 ± 0.033  FP 27.8 FN 4.1
+hgb:depth=2:noh=0.3              +0.295 ± 0.161  AUROC 0.872 ± 0.032  FP 23.9 FN 5.8
+hgb:depth=2:noh=1                +0.208 ± 0.173  AUROC 0.869 ± 0.029  FP 20.0 FN 8.2
+hgb:depth=3:noh=0                +0.339 ± 0.133  AUROC 0.872 ± 0.032  FP 25.7 FN 4.6
+hgb:depth=3:noh=0.3              +0.270 ± 0.156  AUROC 0.874 ± 0.029  FP 23.4 FN 6.3
+hgb:depth=3:noh=1                +0.219 ± 0.150  AUROC 0.870 ± 0.028  FP 19.3 FN 8.2
+Mejor media: logreg:C=0.3:pen=l2:noh=0 +0.362 (EE 0.025); 8 variantes a menos de 1 EE
+
+Elegida: logreg:C=0.3:pen=l2:noh=0  (CV +0.362 ± 0.095)
+Corte óptimo sobre las predicciones de VALIDACIÓN (media de semillas): 0.58 (puntuación +0.383) frente a 0,50 (+0.353)
+Variante logreg:C=0.3:pen=l2:noh=0
+Corte fijo 0,5          : +0.362 ± 0.095
+Umbral elegido anidado  : +0.359 ± 0.092   umbrales [0.5, 0.5, 0.59, 0.5, 0.55, 0.5, 0.57, 0.5, 0.56, 0.5, 0.5, 0.5, 0.55, 0.5, 0.5]
+Diferencia por partición: media -0.003, mejora en 2/15, empeora en 3/15
+Umbral final: 0.50 (anidado +0.359 frente a fijo +0.362)
+Modelo final: {
+ "tipo": "logreg",
+ "nombres": [
+  "llm_conf_min",
+  "num_derivado_local",
+  "nli_mejor_min_frag",
+  "frag_sin_respaldo",
+  "modal_perdido_citada",
+  "matiz_alcance_perdido",
+  "num_ausente"
+ ],
+ "media": [
+  0.962027833001988,
+  0.21073558648111332,
+  0.5360417495029821,
+  0.22359178263750829,
+  0.08946322067594434,
+  0.09741550695825049,
+  0.0636182902584493
+ ],
+ "escala": [
+  0.041834940506624216,
+  0.40783096875001357,
+  0.3826953434406719,
+  0.3405028823069756,
+  0.2854111995388962,
+  0.2965227241921225,
+  0.24407171774509434
+ ],
+ "coef": [
+  -0.8355425750883818,
+  -1.13732207036814,
+  -0.36689251544101814,
+  0.12784608545061907,
+  0.48693533998227484,
+  0.3407881339945539,
+  0.2953816074128715
+ ],
+ "sesgo": 0.4595743101400806,
+ "umbral": 0.5,
+ "variante": "logreg:C=0.3:pen=l2:noh=0"
+}
+Escrito en C:\INGENIERO\malackaton\Gartic2.0\entregas\fernando_v1\mi_bot.py

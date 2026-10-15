@@ -1,0 +1,4 @@
+Variante logreg:C=0.3:pen=l2:noh=0
+Corte fijo 0,5          : +0.362 ± 0.095
+Umbral elegido anidado  : +0.359 ± 0.092   umbrales [0.5, 0.5, 0.59, 0.5, 0.55, 0.5, 0.57, 0.5, 0.56, 0.5, 0.5, 0.5, 0.55, 0.5, 0.5]
+Diferencia por partición: media -0.003, mejora en 2/15, empeora en 3/15

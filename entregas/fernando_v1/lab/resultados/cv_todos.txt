@@ -1,0 +1,8 @@
+bot                                         puntuación         AUROC          FP          FN       %marc  glob/semilla     ms exc
+entregas/candela_v1                    +0.278 ± 0.173  0.874 ± 0.036  30.5 ± 3.5   4.4 ± 2.9  67.8 ± 3.3        +0.279   0.64 0
+entregas/fernando_v1                   +0.362 ± 0.095  0.872 ± 0.027  30.4 ± 3.8   3.1 ± 1.4  68.7 ± 2.8        +0.361   1.22 0
+entregas/joseca_v1                     +0.281 ± 0.124  0.879 ± 0.030  33.2 ± 4.5   3.7 ± 2.4  70.5 ± 4.1        +0.279   1.36 0
+entregas/joseca_v2                     +0.300 ± 0.094  0.878 ± 0.026  32.7 ± 3.8   3.5 ± 2.0  70.2 ± 3.6        +0.299   1.56 0
+entregas/joseca_v3                     +0.381 ± 0.141  0.905 ± 0.027  28.9 ± 4.2   3.1 ± 2.5  67.5 ± 4.0        +0.380   1.52 0
+kit/ejemplo_bot.py                     -0.445 ± 0.214  0.675 ± 0.041  34.0 ± 5.1  15.6 ± 3.2  61.5 ± 5.2        -0.443   0.00 0
+* = pesos embebidos entrenados con todo el train: su CV es optimista (no se pudo apartar la partición).

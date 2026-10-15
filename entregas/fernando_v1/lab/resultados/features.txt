@@ -1,0 +1,44 @@
+H: 631 casos (297 alucinan). Zona gris: 503 (179 alucinan)
+| feature | signo esperado | AUROC H | AUROC zona gris | media (gris) | VIF (todas) | peso (std) | peso/escala |
+|---|---|---|---|---|---|---|---|
+| llm_conf_min | -1 | 0.286 | 0.287 | 0.962 | 1.2 | -0.836 | -19.97 |
+| llm_null | +1 | 0.502 | 0.503 | 0.002 | 1.2 | — | — |
+| llm_sin_fuente | +1 | 0.500 | 0.497 | 0.004 | 1.0 | — | — |
+| nli_citada_min | -1 | 0.351 | 0.409 | 0.348 | 1.9 | — | — |
+| nli_todas_min_orac | -1 | 0.395 | 0.481 | 0.393 | 2.5 | — | — |
+| nli_todas_min_frag | -1 | 0.383 | 0.443 | 0.346 | 2.8 | — | — |
+| nli_mejor_min_frag | -1 | 0.328 | 0.379 | 0.536 | 4.5 | -0.367 | -0.96 |
+| nli_comb_min_frag | -1 | 0.339 | 0.394 | 0.632 | 8.8 | — | — |
+| nli_contra_max | +1 | 0.473 | 0.419 | 0.742 | 1.4 | — | — |
+| sim_min_frag | -1 | 0.563 | 0.561 | 0.540 | 1.3 | — | — |
+| frag_sin_respaldo | +1 | 0.627 | 0.583 | 0.224 | 4.0 | +0.128 | +0.38 |
+| num_cruzada | +1 | 0.483 | 0.478 | 0.145 | 1.5 | — | — |
+| num_cruzada_llm | +1 | 0.501 | 0.475 | 0.312 | 1.7 | — | — |
+| num_ausente | +1 | 0.526 | 0.542 | 0.064 | 1.5 | +0.295 | +1.21 |
+| num_no_derivable_local | +1 | 0.522 | 0.550 | 0.193 | 3.0 | — | — |
+| num_derivado_local | -1 | 0.366 | 0.358 | 0.211 | 2.6 | -1.137 | -2.79 |
+| num_prop_fuera | +1 | 0.382 | 0.400 | 0.198 | 3.2 | — | — |
+| matiz_num_perdido | +1 | 0.503 | 0.512 | 0.030 | 1.1 | — | — |
+| matiz_modal_perdido | +1 | 0.570 | 0.576 | 0.159 | 2.4 | — | — |
+| matiz_alcance_perdido | +1 | 0.549 | 0.550 | 0.097 | 4.8 | +0.341 | +1.15 |
+| alcance_perdido_citada | +1 | 0.537 | 0.541 | 0.076 | 4.8 | — | — |
+| modal_perdido_citada | +1 | 0.573 | 0.582 | 0.089 | 2.6 | +0.487 | +1.71 |
+| universal_anadido | +1 | 0.498 | 0.496 | 0.016 | 1.1 | — | — |
+| causal_anadido | +1 | 0.517 | 0.503 | 0.036 | 1.1 | — | — |
+| comparativa_anadida | +1 | 0.461 | 0.473 | 0.107 | 1.2 | — | — |
+| prop_raices_nuevas | +1 | 0.373 | 0.369 | 0.182 | 1.1 | — | — |
+| nombre_nuevo | +1 | 0.502 | 0.503 | 0.002 | 1.0 | — | — |
+
+Pares con |r| > 0,8 (zona gris):
+  nli_mejor_min_frag ~ nli_comb_min_frag: r = +0.838
+  nli_comb_min_frag ~ frag_sin_respaldo: r = -0.832
+  matiz_alcance_perdido ~ alcance_perdido_citada: r = +0.870
+
+Modelo final (logreg:C=0.3:pen=l2:noh=0, umbral 0.5): max |r| entre sus features = 0.697
+  VIF llm_conf_min: 1.04
+  VIF num_derivado_local: 1.11
+  VIF nli_mejor_min_frag: 2.02
+  VIF frag_sin_respaldo: 2.01
+  VIF modal_perdido_citada: 1.11
+  VIF matiz_alcance_perdido: 1.04
+  VIF num_ausente: 1.05

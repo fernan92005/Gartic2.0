@@ -1,0 +1,75 @@
+
+===== entregas/joseca_v1
+  OOF 1 oración      n=608 punt +0.267 AUROC 0.877 FP 145 FN 22
+  OOF >=2 oraciones  n= 23 punt +0.438 AUROC 0.866 FP 9 FN 0
+  OOF recall distorsion           0.93 (n=154)
+  OOF recall sobregeneralizacion  0.90 (n=86)
+  OOF recall no_respaldado        0.96 (n=48)
+  OOF recall contradiccion        1.00 (n=9)
+  2 resp. concatenadas: fieles marcadas  45.5% (n=88) · con 1 alucinación detectadas  76.1% (n=88)
+  3 resp. concatenadas: fieles marcadas  31.8% (n=88) · con 1 alucinación detectadas  61.4% (n=88)
+  4 resp. concatenadas: fieles marcadas  16.4% (n=67) · con 1 alucinación detectadas  48.9% (n=88)
+  referencia 1 resp.: fieles marcadas  51.8% (dentro de muestra)
+  train-H      n=631 marcados  72.4%  deciles:  5.5  7.1  5.7  4.4  4.8 19.0 11.3  8.6  8.1 25.5
+  test_publico n=440 marcados  67.0%  deciles:  8.9  7.3  5.5  5.5  5.9 21.8 10.2  7.7  7.5 19.8
+  excepciones: 0
+
+===== entregas/joseca_v2
+  OOF 1 oración      n=608 punt +0.261 AUROC 0.878 FP 139 FN 24
+  OOF >=2 oraciones  n= 23 punt +0.562 AUROC 0.812 FP 7 FN 0
+  OOF recall distorsion           0.92 (n=154)
+  OOF recall sobregeneralizacion  0.90 (n=86)
+  OOF recall no_respaldado        0.96 (n=48)
+  OOF recall contradiccion        0.89 (n=9)
+  2 resp. concatenadas: fieles marcadas  39.8% (n=88) · con 1 alucinación detectadas  73.9% (n=88)
+  3 resp. concatenadas: fieles marcadas  21.6% (n=88) · con 1 alucinación detectadas  59.1% (n=88)
+  4 resp. concatenadas: fieles marcadas   7.5% (n=67) · con 1 alucinación detectadas  42.0% (n=88)
+  referencia 1 resp.: fieles marcadas  47.9% (dentro de muestra)
+  train-H      n=631 marcados  70.8%  deciles:  7.9  4.9  6.2  4.8  5.4 16.8 11.3  9.0  9.0 24.7
+  test_publico n=440 marcados  65.2%  deciles: 11.1  6.1  6.4  5.0  6.1 20.2  9.8  8.2  6.8 20.2
+  excepciones: 0
+
+===== entregas/joseca_v3
+  OOF 1 oración      n=608 punt +0.374 AUROC 0.909 FP 123 FN 19
+  OOF >=2 oraciones  n= 23 punt +0.312 AUROC 0.804 FP 11 FN 0
+  OOF recall distorsion           0.92 (n=154)
+  OOF recall sobregeneralizacion  0.93 (n=86)
+  OOF recall no_respaldado        0.98 (n=48)
+  OOF recall contradiccion        1.00 (n=9)
+  2 resp. concatenadas: fieles marcadas  50.0% (n=88) · con 1 alucinación detectadas  89.8% (n=88)
+  3 resp. concatenadas: fieles marcadas  34.1% (n=88) · con 1 alucinación detectadas  80.7% (n=88)
+  4 resp. concatenadas: fieles marcadas  28.4% (n=67) · con 1 alucinación detectadas  81.8% (n=88)
+  referencia 1 resp.: fieles marcadas  36.8% (dentro de muestra)
+  train-H      n=631 marcados  66.1%  deciles:  4.8  9.2 11.3  4.4  4.3 14.1  7.3  7.6  9.7 27.4
+  test_publico n=440 marcados  58.6%  deciles:  9.1 10.2  9.1  7.7  5.2 14.1  8.6  6.1  7.7 22.0
+  excepciones: 0
+
+===== entregas/candela_v1
+  OOF 1 oración      n=608 punt +0.289 AUROC 0.879 FP 118 FN 27
+  OOF >=2 oraciones  n= 23 punt +0.125 AUROC 0.732 FP 6 FN 2
+  OOF recall distorsion           0.92 (n=154)
+  OOF recall sobregeneralizacion  0.83 (n=86)
+  OOF recall no_respaldado        0.98 (n=48)
+  OOF recall contradiccion        1.00 (n=9)
+  2 resp. concatenadas: fieles marcadas  64.8% (n=88) · con 1 alucinación detectadas  97.7% (n=88)
+  3 resp. concatenadas: fieles marcadas  62.5% (n=88) · con 1 alucinación detectadas  94.3% (n=88)
+  4 resp. concatenadas: fieles marcadas  67.2% (n=67) · con 1 alucinación detectadas  93.2% (n=88)
+  referencia 1 resp.: fieles marcadas  40.1% (dentro de muestra)
+  train-H      n=631 marcados  67.0%  deciles:  1.1  9.2  9.0  7.6  6.0 16.5  7.6  7.6  9.4 26.0
+  test_publico n=440 marcados  57.7%  deciles:  2.0 12.0 12.5  9.1  6.6 15.7  8.4  7.5  5.2 20.9
+  excepciones: 0
+
+===== kit/ejemplo_bot.py
+  OOF 1 oración      n=608 punt -0.475 AUROC 0.677 FP 165 FN 76
+  OOF >=2 oraciones  n= 23 punt +0.188 AUROC 0.714 FP 5 FN 2
+  OOF recall distorsion           0.79 (n=154)
+  OOF recall sobregeneralizacion  0.51 (n=86)
+  OOF recall no_respaldado        0.96 (n=48)
+  OOF recall contradiccion        0.78 (n=9)
+  2 resp. concatenadas: fieles marcadas  85.2% (n=88) · con 1 alucinación detectadas  81.8% (n=88)
+  3 resp. concatenadas: fieles marcadas  94.3% (n=88) · con 1 alucinación detectadas  97.7% (n=88)
+  4 resp. concatenadas: fieles marcadas  98.5% (n=67) · con 1 alucinación detectadas 100.0% (n=88)
+  referencia 1 resp.: fieles marcadas  50.9% (dentro de muestra)
+  train-H      n=631 marcados  61.6%  deciles: 22.7  5.5  3.0  3.3  3.8  3.5  4.0  7.9 10.5 35.8
+  test_publico n=440 marcados  54.3%  deciles: 29.3  5.7  3.4  3.2  4.1  2.0  5.0  5.2  9.5 32.5
+  excepciones: 0

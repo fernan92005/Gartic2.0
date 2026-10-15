@@ -1,0 +1,72 @@
+Calculando características de 1707 casos (C:\INGENIERO\malackaton\Gartic2.0\kit\train.jsonl)...
+Casos H: 631 · casos de varias oraciones (proxy del giro): 117
+
+=== Validación por familias (3 repeticiones, casos nunca vistos) ===
+Regresión logística (v2)          : H +0.398 (AUROC 0.908) · varias oraciones +0.293 (AUROC 0.947) · corte 0.10
+GB 200 árboles prof=3 lr=0.05 : H +0.551 (AUROC 0.941) · varias oraciones +0.680 (AUROC 0.979) · corte 0.21
+GB 300 árboles prof=3 lr=0.03 : H +0.551 (AUROC 0.939) · varias oraciones +0.680 (AUROC 0.978) · corte 0.22
+GB 200 árboles prof=4 lr=0.05 : H +0.552 (AUROC 0.941) · varias oraciones +0.714 (AUROC 0.982) · corte 0.18
+
+Elegido: gradient boosting {'n_estimators': 200, 'max_depth': 4, 'learning_rate': 0.05} · UMBRAL=0.18
+
+=== ¿Qué se escapa? (alucinaciones H no detectadas, por tipo) ===
+  distorsion           se escapan   7 de 154  (5 %)
+  sobregeneralizacion  se escapan   7 de  86  (8 %)
+  no_respaldado        se escapan   1 de  48  (2 %)
+  contradiccion        se escapan   0 de   9  (0 %)
+  Falsas alarmas: 98 de 334 fieles
+
+=== Escapes más «seguros» (el bot dice fiel con más convicción) ===
+  [0.01] H117::r3 (distorsion): El fútbol sala y el baloncesto sumaron entre los dos 1.980 inscritos.
+         señales: num_derivado_local=1, num_cuenta_falsa=1, num_hay_cifras=1
+  [0.03] H314::r2 (distorsion): El 3G se apagará primero en las provincias del norte, el 30 de junio de 2027, y nueve meses después en el resto del país.
+         señales: num_derivado_anclado=1, num_hay_cifras=1, fecha_plazo_falso=1
+  [0.04] H422::r2 (sobregeneralizacion): Los municipios de la comarca perdieron población entre 2015 y 2025, y Peñagrís bajó hasta los 13.410 habitantes.
+         señales: num_hay_cifras=1
+  [0.05] H401::r8 (sobregeneralizacion): Los municipios de la comarca de Valdesorbe ganaron población en 2025; Torralcina, por ejemplo, pasó de 17.960 a 18.420 habitantes.
+         señales: num_hay_cifras=1
+  [0.06] H206::r2 (sobregeneralizacion): La póliza de Mutua Tolvera protege los frutales de la explotación frente al granizo, la helada y el viento huracanado.
+  [0.07] H411::r2 (distorsion): Unidos por Gandarela obtendrá el 36,4 % de los votos en 2027 y entre 9 y 10 de los 21 concejales, insuficientes para gobernar en solitario.
+         señales: num_hay_cifras=1, entidad_ajena=1, entidad_ajena_fuerte=1, matiz_perdido_fuente_condicional=1
+  [0.08] H412::r3 (sobregeneralizacion): Los coches eléctricos tendrán una rebaja del 75 % en el impuesto de vehículos.
+         señales: num_hay_cifras=1
+  [0.09] H310::r3 (sobregeneralizacion): Las personas sordas pueden avisar al 112 mediante la aplicación AlertaRV, que gestionó 1.240 avisos en 2025.
+         señales: num_hay_cifras=1
+
+=== Falsas alarmas más «seguras» ===
+  [0.98] H422::r8 (fiel): Sierra Rasa perdió el 9 % de sus habitantes en esa década, un porcentaje menor que el de Peñagrís.
+         señales: llm_contradicha=1, num_hay_cifras=1, llm_contra_sin_apoyo=0.554
+  [0.97] H119::r3 (fiel): El coste por escolar fue de 84 euros, pagados en su totalidad por el ayuntamiento.
+         señales: llm_no_respaldada=1, num_derivado_casual=1, num_sospechosos_grandes=1, num_hay_cifras=1, anadido_universal=1
+  [0.95] H221::r3 (fiel): Un préstamo de 10.000 euros paga 60 euros de comisión de apertura, porque el 0,5 % no llega al mínimo.
+         señales: llm_contradicha=1, num_derivado_anclado=1, num_hay_cifras=1, anadido_causal=1, anadido_causal_todas=1, llm_contra_sin_apoyo=0.802
+  [0.95] H420::r7 (fiel): Para alcanzar el umbral de 1.500 usos diarios, la bicicleta compartida necesitaría unos 350 usos más al día.
+         señales: num_sospechosos_grandes=1, num_cuenta_falsa=1, num_hay_cifras=1, matiz_perdido_fuente_restrictivo=1
+  [0.89] H204::r9 (fiel): Superó en 1.500 personas al programa Finanzas en Casa, que atendió a 1.900 en la provincia en 2025.
+         señales: num_derivado_casual=1, num_sospechosos_grandes=1, num_hay_cifras=1
+  [0.88] H109::r1 (fiel): El 15 % de los alimentos repartidos se compró con fondos públicos.
+         señales: llm_contradicha=1, num_derivado_local=1, num_hay_cifras=1, llm_contra_sin_apoyo=0.301
+  [0.87] H210::r7 (fiel): El seguro de olivar no cubre en ningún caso la pérdida de cosecha por sequía.
+         señales: llm_no_respaldada=1, matiz_perdido_tramo_restrictivo=1, matiz_perdido_fuente_restrictivo=1, matiz_oracion_perdido=1, anadido_universal=1
+  [0.85] H311::r8 (fiel): El plan cuenta con 9 quitanieves y 4.800 toneladas de sal. En nivel amarillo, las cadenas o neumáticos de invierno solo son obligatorios entre los kil
+         señales: num_hay_cifras=1, matiz_perdido_fuente_aproximado=1, matiz_oracion_perdido=1
+
+=== Características más usadas por los árboles (importancia) ===
+  0.324  llm_conf_min_respaldada
+  0.073  llmok_num_hay_cifras
+  0.070  palabras_nuevas_frac
+  0.067  frag_respaldo_min
+  0.045  matiz_oracion_perdido
+  0.036  nli_contr_todas_max_frag
+  0.032  num_cuenta_correcta
+  0.029  nli_mejor_fuente_min_orac
+  0.028  num_sospechosos_grandes
+  0.021  nli_contr_fuente_max_frag
+  0.021  nli_resp_todas_min_frag
+  0.019  frag_respaldo_2o
+  0.019  num_derivado_local
+  0.017  num_derivado_anclado
+  0.016  frag_similitud_min
+
+Árboles escritos en C:/INGENIERO/malackaton/Gartic2.0/entregas/fernando_v2/lab/repro_v4/mi_bot.py (200 árboles)
+Diferencia máxima bot (Python puro) vs scikit-learn: 1.65e-07

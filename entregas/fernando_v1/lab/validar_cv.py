@@ -146,6 +146,10 @@ class Joseca(Estatico):
         # embebidos con todo el train): v1 peso_h=5 l2=10; v2 peso_h=5 l2=3;
         # v3 GradientBoosting(300 árboles, prof. 3, lr 0,03, subsample 0,8, hoja>=20), peso_h=5
         self.gb = hasattr(self.mod, "ARBOLES")
+        if self.gb:  # profundidad leída de los propios árboles embebidos (v3: 3, v4: 4)
+            def prof(t, n=0):
+                return 0 if t[2][n] == -1 else 1 + max(prof(t, t[2][n]), prof(t, t[3][n]))
+            self.prof = max(prof(t) for t in self.mod.ARBOLES)
         defecto = "5,3" if "joseca_v2" in ruta.replace("\\", "/") else "5,10"
         self.peso_h, self.l2 = (float(v) for v in (variante or defecto).split(","))
 
@@ -163,7 +167,7 @@ class Joseca(Estatico):
         if self.gb:
             from sklearn.ensemble import GradientBoostingClassifier
             self.modelo = GradientBoostingClassifier(
-                n_estimators=len(self.mod.ARBOLES), max_depth=3, learning_rate=self.mod.TASA,
+                n_estimators=len(self.mod.ARBOLES), max_depth=self.prof, learning_rate=self.mod.TASA,
                 subsample=0.8, min_samples_leaf=20, random_state=0).fit(self.X[idx], self.y[idx], sample_weight=w)
         else:
             self.modelo = self.ent.ajustar(self.X[idx], self.y[idx], w, self.l2)

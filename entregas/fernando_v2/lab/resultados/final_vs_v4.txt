@@ -1,0 +1,2 @@
+test_publico.jsonl cambian 22 de 440 (5.0%) marcado v2 52.7% v4 51.4% 
+giro_publico.jsonl cambian 19 de 220 (8.6%) marcado v2 54.5% v4 55.9% | 3/4 or. v2 42.6%/83.1% v4 44.5%/83.1%

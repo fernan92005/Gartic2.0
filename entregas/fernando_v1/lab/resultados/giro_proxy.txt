@@ -1,0 +1,39 @@
+Prevalencia supuesta en el giro: 40% (la del test). Fuera de muestra, 5x3 particiones.
+bot             test-like (1 oración) | giro: modo   falsas al.  recall  puntuación giro | combinada*
+fernando_v1    +0.362 ± 0.095        | completo         89.7%   90.7%    -0.145 ± 0.120 |     +0.193
+fernando_v1    +0.362 ± 0.095        | por_oracion      90.0%   98.4%    +0.056 ± 0.059 |     +0.260
+    corte del máximo 0.50: falsas al. 90.0% recall 98.4% -> +0.056
+    corte del máximo 0.55: falsas al. 85.1% recall 97.3% -> +0.077
+    corte del máximo 0.60: falsas al. 79.1% recall 95.6% -> +0.092
+    corte del máximo 0.65: falsas al. 70.7% recall 93.3% -> +0.114
+    corte del máximo 0.70: falsas al. 63.0% recall 90.2% -> +0.108
+    corte del máximo 0.75: falsas al. 55.1% recall 87.3% -> +0.111
+    corte del máximo 0.80: falsas al. 50.9% recall 84.1% -> +0.066
+    corte del máximo 0.85: falsas al. 41.8% recall 75.4% -> -0.072
+    corte del máximo 0.90: falsas al. 34.1% recall 67.4% -> -0.210
+    corte del máximo 0.95: falsas al. 11.0% recall 16.9% -> -1.326
+joseca_v3      +0.381 ± 0.141        | completo         44.9%   71.1%    -0.218 ± 0.196 |     +0.182
+joseca_v3      +0.381 ± 0.141        | por_oracion      86.6%   95.8%    +0.022 ± 0.088 |     +0.261
+    corte del máximo 0.50: falsas al. 86.6% recall 95.8% -> +0.022
+    corte del máximo 0.55: falsas al. 73.9% recall 91.8% -> +0.043
+    corte del máximo 0.60: falsas al. 61.5% recall 87.3% -> +0.048
+    corte del máximo 0.65: falsas al. 51.7% recall 81.7% -> -0.006
+    corte del máximo 0.70: falsas al. 43.3% recall 76.7% -> -0.054
+    corte del máximo 0.75: falsas al. 34.6% recall 70.9% -> -0.123
+    corte del máximo 0.80: falsas al. 29.3% recall 65.5% -> -0.214
+    corte del máximo 0.85: falsas al. 24.8% recall 57.7% -> -0.377
+    corte del máximo 0.90: falsas al. 16.4% recall 48.6% -> -0.533
+    corte del máximo 0.95: falsas al.  9.8% recall 35.8% -> -0.810
+joseca_v4      +0.550 ± 0.136        | completo         28.2%   59.7%    -0.357 ± 0.186 |     +0.248
+joseca_v4      +0.550 ± 0.136        | por_oracion      70.6%   92.8%    +0.102 ± 0.122 |     +0.401
+    corte del máximo 0.50: falsas al. 70.6% recall 92.8% -> +0.102
+    corte del máximo 0.55: falsas al. 60.7% recall 89.1% -> +0.102
+    corte del máximo 0.60: falsas al. 52.8% recall 84.6% -> +0.063
+    corte del máximo 0.65: falsas al. 46.0% recall 80.7% -> +0.024
+    corte del máximo 0.70: falsas al. 40.5% recall 76.1% -> -0.044
+    corte del máximo 0.75: falsas al. 35.8% recall 72.3% -> -0.098
+    corte del máximo 0.80: falsas al. 29.0% recall 66.0% -> -0.197
+    corte del máximo 0.85: falsas al. 22.6% recall 61.0% -> -0.266
+    corte del máximo 0.90: falsas al. 18.3% recall 54.4% -> -0.399
+    corte del máximo 0.95: falsas al. 12.3% recall 43.4% -> -0.633
+* combinada = media ponderada por nº de fieles: test (265 fieles) + giro (~132 si pi = 0,40).

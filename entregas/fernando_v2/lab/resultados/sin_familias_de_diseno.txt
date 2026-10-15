@@ -1,0 +1,4 @@
+CV sin familias de diseño (5 en el 80 %): dif. pareada +0.029 ± 0.082, ganadas 8, empates 3, perdidas 4
+  por semilla: [np.float64(0.025), np.float64(0.001), np.float64(0.062)]
+hold-out completo   v4 (0.5074626865671642, 17, 4)  A1 (0.582089552238806, 16, 3)
+hold-out sin H204/H320 (n=112) v4 (0.5593220338983051, 14, 3)  A1 (0.6101694915254237, 15, 2)

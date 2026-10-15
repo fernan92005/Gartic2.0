@@ -1,0 +1,7 @@
+HOLD-OUT v4: n=128 punt +0.507 AUROC 0.929 FP 17 FN 4
+HOLD-OUT A1: n=128 punt +0.582 AUROC 0.937 FP 16 FN 3
+decisiones que cambian en hold-out: 4 de 128
+  H204::r9 etiqueta 0 v4 0.88 A1 0.14
+  H318::r2 etiqueta 1 v4 0.48 A1 0.53
+  H320::r8 etiqueta 0 v4 0.59 A1 0.42
+  H415::r1 etiqueta 0 v4 0.41 A1 0.51

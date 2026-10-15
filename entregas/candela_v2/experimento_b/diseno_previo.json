@@ -1,0 +1,96 @@
+{
+  "config": {
+    "n_estimators": 300,
+    "max_depth": 3,
+    "learning_rate": 0.03,
+    "subsample": 0.8,
+    "min_samples_leaf": 20,
+    "random_state": 0
+  },
+  "feature_sha256": "0edcff6ccb5f85a80145b48ae888e80f767ff42f01f587cd155c6b089174e0f6",
+  "variants": {
+    "B0": [],
+    "B1": [
+      "matiz_clausula_restrictivo",
+      "matiz_clausula_condicional",
+      "matiz_clausula_aproximado",
+      "matiz_clausula_parcial"
+    ],
+    "B2": [
+      "matiz_parafrasis_preservado",
+      "matiz_parafrasis_perdido",
+      "matiz_equivalencia_incierta"
+    ],
+    "B3": [
+      "cobertura_mejor_fuente",
+      "cobertura_union",
+      "ganancia_cobertura_union",
+      "numero_fuentes_complementarias"
+    ],
+    "B4": [
+      "sujeto_generalizado",
+      "sujeto_generalizado_confianza"
+    ],
+    "B5": [
+      "matiz_clausula_restrictivo",
+      "matiz_clausula_condicional",
+      "matiz_clausula_aproximado",
+      "matiz_clausula_parcial",
+      "matiz_parafrasis_preservado",
+      "matiz_parafrasis_perdido",
+      "matiz_equivalencia_incierta"
+    ],
+    "B6": [
+      "matiz_clausula_restrictivo",
+      "matiz_clausula_condicional",
+      "matiz_clausula_aproximado",
+      "matiz_clausula_parcial",
+      "matiz_parafrasis_preservado",
+      "matiz_parafrasis_perdido",
+      "matiz_equivalencia_incierta",
+      "cobertura_mejor_fuente",
+      "cobertura_union",
+      "ganancia_cobertura_union",
+      "numero_fuentes_complementarias"
+    ],
+    "B7": [
+      "matiz_clausula_restrictivo",
+      "matiz_clausula_condicional",
+      "matiz_clausula_aproximado",
+      "matiz_clausula_parcial",
+      "matiz_parafrasis_preservado",
+      "matiz_parafrasis_perdido",
+      "matiz_equivalencia_incierta",
+      "cobertura_mejor_fuente",
+      "cobertura_union",
+      "ganancia_cobertura_union",
+      "numero_fuentes_complementarias",
+      "sujeto_generalizado",
+      "sujeto_generalizado_confianza"
+    ],
+    "B1_norm": [
+      "matiz_clausula_ratio_restrictivo",
+      "matiz_clausula_ratio_condicional",
+      "matiz_clausula_ratio_aproximado",
+      "matiz_clausula_ratio_parcial"
+    ],
+    "B0_sin_NLI": [],
+    "B3_sin_NLI": [
+      "cobertura_mejor_fuente",
+      "cobertura_union",
+      "ganancia_cobertura_union",
+      "numero_fuentes_complementarias"
+    ],
+    "B5_sustituye_matices": [
+      "matiz_clausula_restrictivo",
+      "matiz_clausula_condicional",
+      "matiz_clausula_aproximado",
+      "matiz_clausula_parcial",
+      "matiz_parafrasis_preservado",
+      "matiz_parafrasis_perdido",
+      "matiz_equivalencia_incierta"
+    ]
+  },
+  "primary_gate": "3/4 folds H positivos, IC simultáneo7 inferior>0, repetición H positiva, AUROC H no baja, costes global/multi y FN sobregeneralización H no suben",
+  "revision": "B4 amplía sujeto singular a subconjuntos numerados según el encargo; primera ejecución conservada en piloto_sujeto_singular. Revisión posterior a inspeccionar resultados: estudio exploratorio, no confirmatorio."
+}

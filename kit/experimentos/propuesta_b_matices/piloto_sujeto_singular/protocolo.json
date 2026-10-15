@@ -1,0 +1,33 @@
+{
+  "config": {
+    "n_estimators": 300,
+    "max_depth": 3,
+    "learning_rate": 0.03,
+    "subsample": 0.8,
+    "min_samples_leaf": 20,
+    "random_state": 0
+  },
+  "peso_h": 5,
+  "threshold_selection": "Score oficial H, rejilla 0.02:0.80 paso 0.01, dentro de cada entrenamiento externo",
+  "folds_source": "kit/experimentos/fase4_diagnostico/folds_detalle.json",
+  "folds_source_sha256": "4436e65551b4e01b0cf108180eb7e18ba41209ea406f4d6ecd50860c3a4d0e0d",
+  "historical_groups_source_sha256": "3e33f690aa1a8a94a77207a7d069cf4d354d410bda2c1fb2f73e6b038d88a85c",
+  "primary_variants": [
+    "B0",
+    "B1",
+    "B2",
+    "B3",
+    "B4",
+    "B5",
+    "B6",
+    "B7"
+  ],
+  "gate": "Δscore H>0 en al menos 3/4 folds principales; IC95% pareado Bonferroni7 H con límite inferior>0; Δscore H repetición 2>0; ΔAUROC H>=0 en ambas repeticiones; coste global y multi no aumentan; FN sobregeneralización H no aumentan. Sin cambiar condiciones tras ver resultados.",
+  "environment": {
+    "python": "3.13.15 (main, Aug  5 2026, 12:25:43) [Clang 21.0.0 (clang-2100.1.1.101)]",
+    "numpy": "2.5.4",
+    "sklearn": "1.9.1"
+  },
+  "feature_sha256": "e9a6418c5bcc98723ad72e15a6c15d575787b172b460ba9106c532bbc021c322",
+  "elapsed_seconds": 79.54476380348206
+}

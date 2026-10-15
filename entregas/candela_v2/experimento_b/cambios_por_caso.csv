@@ -1,0 +1,920 @@
+variant,id,domain,tipo,etiqueta,b0_pred,new_pred,effect,respuesta
+B1,e17,no-H,fiel,0,1,0,FP_eliminado,El salario mínimo subió a 1.134 euros en 2024.
+B1,e17::par,no-H,fiel,0,1,0,FP_eliminado,En 2024 el sueldo mínimo quedó fijado en mil ciento treinta y cuatro euros.
+B1,e32,no-H,fiel,0,1,0,FP_eliminado,El corazón humano late unas 70 veces por minuto en reposo.
+B1,e43::par,no-H,fiel,0,1,0,FP_eliminado,El relato alude a una docena de trabajos del héroe.
+B1,e47::par,no-H,fiel,0,1,0,FP_eliminado,El Sahara ocupa cerca de 9 millones de kilómetros cuadrados.
+B1,e49,no-H,fiel,0,1,0,FP_eliminado,El cable soporta velocidades de 10 gigabits por segundo.
+B1,e76,no-H,fiel,0,1,0,FP_eliminado,La luz del Sol tarda unos 8 minutos en llegar a la Tierra.
+B1,e85,no-H,fiel,0,1,0,FP_eliminado,La fosa alcanza unos 11.000 metros de profundidad.
+B1,e85::par,no-H,fiel,0,1,0,FP_eliminado,La fosa llega a cerca de 11.000 metros de hondo.
+B1,s01::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con una muestra de 1.800 personas, el fármaco bajó la tensión un doce por ciento y apenas causó efectos adversos."
+B1,s09::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 18 goles de su delantero y solo 29 encajados, el conjunto terminó en tercera posición."
+B1,s26::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Sus 40 aerogeneradores producen 120 megavatios, suficientes para 90.000 hogares."
+B1,s32::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 10 aviones nuevos y 300 empleos, la compañía estrenará 6 rutas hacia el sur de Europa."
+B1,N09::r2,no-H,fiel,0,1,0,FP_eliminado,"El Sur respondió de media en 9 segundos, dos más que el Norte, y atendió un tres por ciento menos de llamadas que en 2024."
+B1,T09::r1,no-H,fiel,0,1,0,FP_eliminado,"Con 21 triunfos y 9 derrotas, dos victorias más que el Morón."
+B1,T13::r2,no-H,fiel,0,1,0,FP_eliminado,"Vendió 1.200 entradas más que en la edición anterior, hasta 9.800."
+B1,T21::r1,no-H,fiel,0,1,0,FP_eliminado,"Los alumnos de primero y segundo de ESO que suspendieron Matemáticas el curso anterior reciben dos horas de refuerzo a la semana, en grupos de ocho como mucho."
+B1,G06::r1,no-H,fiel,0,1,0,FP_eliminado,"Durante la campaña de rebajas del 7 de enero, la tienda funcionó peor entre las 11:00 y las 11:40. En ese tramo, la página de producto tardaba de media 6,8 segundos en cargar, cuando lo normal es 0,9. El inicio y el carrito siguieron respondiendo con normalidad. El autoescalado del catálogo intentó sumar seis instancias, pero se topó con el máximo de 12. A las 11:15 se subió ese límite a mano hasta 24 y, a las 11:40, la página de producto ya cargaba en 1,1 segundos."
+B1,G06::r2,no-H,fiel,0,1,0,FP_eliminado,"En esa franja entraron 2.140 pedidos, frente a los 3.900 del día anterior a la misma hora."
+B1,G12::r1,no-H,fiel,0,1,0,FP_eliminado,"En el trimestre hubo dos accidentes con baja, uno en envasado y otro en el almacén, y cinco sin baja. El comité aprobó colocar barreras fotoeléctricas en las dos prensas de la línea 3, con fecha límite el 31 de julio. Durante junio, el turno de noche recibirá formación en manejo de cargas, que el de mañana ya hizo en abril. A petición de la delegada de prevención, un servicio externo medirá el ruido en la nave B."
+B1,G17::r1,no-H,fiel,0,1,0,FP_eliminado,"Tras el alta, el paciente debe tomar un comprimido de amoxicilina con clavulánico de 875/125 mg cada ocho horas durante una semana. Además, se pondrá una inyección subcutánea diaria de enoxaparina de 40 mg durante diez días, siempre a la misma hora. Mientras dure el antibiótico tomará también omeprazol de 20 mg en ayunas. El paracetamol de 1 gramo se tomará cada ocho horas únicamente si hay dolor, sin superar 3 gramos al día."
+B1,R02::r1,no-H,fiel,0,1,0,FP_eliminado,"El espesor máximo del invierno 2023-2024, 94 centímetros, quedó 66 centímetros por debajo de la media de 1991-2020."
+B1,H102::r1,H,fiel,0,1,0,FP_eliminado,"Se vendieron 61.300 tapas, 6.500 más que en la edición de 2025."
+B1,H108::r8,H,fiel,0,1,0,FP_eliminado,"Seis de cada diez camiones de reparto del centro usan diésel y los demás, gas natural."
+B1,H112::r4,H,fiel,0,1,0,FP_eliminado,"Además de la visita de cada semana, desde octubre de 2025 se llama a diario a los 60 usuarios con más riesgo de aislamiento."
+B1,H113::r9,H,fiel,0,1,0,FP_eliminado,"Herminia Saldaña conduce «Despierta Vallebrío», el matinal de la emisora, que tiene 21.000 oyentes."
+B1,H114::r9,H,fiel,0,1,0,FP_eliminado,"En 2025 se incorporaron 6 periodistas a la redacción, todos en la sección de datos."
+B1,H118::r4,H,fiel,0,1,0,FP_eliminado,"De sus 31 entrenadores, 19 no tienen el título de nivel II."
+B1,H120::r9,H,fiel,0,1,0,FP_eliminado,No hay actas de 1937 a 1939 porque se perdieron en el incendio del ayuntamiento de 1938.
+B1,H213::r2,H,fiel,0,1,0,FP_eliminado,La dirección justifica el ERTE por la caída del 23 % de los pedidos de su principal cliente.
+B1,H216::r7,H,fiel,0,0,1,FP_nuevo,En 2027 habrá 30 becas más que en la convocatoria de 2026.
+B1,H303::r6,H,fiel,0,1,0,FP_eliminado,"Tendrá 14 salas de vistas, dos de ellas preparadas para menores y víctimas vulnerables. Sustituirá a las tres sedes judiciales actuales, y el viejo edificio de la calle Mercaderes pasará a ser archivo judicial. La obra la ejecutará Hormigones Teixal, que se la adjudicó en mayo de 2026."
+B1,H303::r7,H,no_respaldado,1,1,0,FN_nuevo,"Concentrará en un único edificio las tres sedes judiciales actuales para ahorrar en alquileres, con 14 salas de vistas."
+B1,H313::r8,H,fiel,0,1,0,FP_eliminado,"Más de dos tercios de la inversión, 19,2 de los 27,4 millones, procede de fondos europeos."
+B1,H316::r1,H,fiel,0,0,1,FP_nuevo,"De las 46 antenas actuales del municipio, 27 no están en azoteas de edificios residenciales."
+B1,H412::r9,H,fiel,0,1,0,FP_eliminado,"Con el 0,52 %, el tipo del IBI de Lerinda queda 0,09 puntos por debajo del de Montesorio."
+B1,g04,no-H,fiel,0,0,1,FP_nuevo,La sonda despegó en marzo y tardó siete meses en llegar a su destino. Orbitó el planeta durante dos años. A lo largo de la misión envió más de 30.000 imágenes a la Tierra.
+B2,e17,no-H,fiel,0,1,0,FP_eliminado,El salario mínimo subió a 1.134 euros en 2024.
+B2,e17::par,no-H,fiel,0,1,0,FP_eliminado,En 2024 el sueldo mínimo quedó fijado en mil ciento treinta y cuatro euros.
+B2,e32,no-H,fiel,0,1,0,FP_eliminado,El corazón humano late unas 70 veces por minuto en reposo.
+B2,e47::par,no-H,fiel,0,1,0,FP_eliminado,El Sahara ocupa cerca de 9 millones de kilómetros cuadrados.
+B2,e49,no-H,fiel,0,1,0,FP_eliminado,El cable soporta velocidades de 10 gigabits por segundo.
+B2,e76,no-H,fiel,0,1,0,FP_eliminado,La luz del Sol tarda unos 8 minutos en llegar a la Tierra.
+B2,e85,no-H,fiel,0,1,0,FP_eliminado,La fosa alcanza unos 11.000 metros de profundidad.
+B2,e88,no-H,fiel,0,0,1,FP_nuevo,"En crecida, el río llega a 2.000 metros cúbicos por segundo."
+B2,s01::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con una muestra de 1.800 personas, el fármaco bajó la tensión un doce por ciento y apenas causó efectos adversos."
+B2,s26::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Sus 40 aerogeneradores producen 120 megavatios, suficientes para 90.000 hogares."
+B2,s29::fiel1,no-H,fiel,0,0,1,FP_nuevo,"Con 2 millones de usuarios en ocho países y 60 empleados, la empresa captó 15 millones."
+B2,s32::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 10 aviones nuevos y 300 empleos, la compañía estrenará 6 rutas hacia el sur de Europa."
+B2,N09::r2,no-H,fiel,0,1,0,FP_eliminado,"El Sur respondió de media en 9 segundos, dos más que el Norte, y atendió un tres por ciento menos de llamadas que en 2024."
+B2,T02::r6,no-H,fiel,0,0,1,FP_nuevo,"Las sociedades constituidas pasaron de 1.720 a 1.940 y las disoluciones bajaron de 610 a 540, es decir, setenta menos que el año anterior."
+B2,T11::r1,no-H,fiel,0,1,0,FP_eliminado,"Rubén Gil ganó en 9 horas y 12 minutos y Nerea Ochoa, en 10 horas y 47."
+B2,T13::r2,no-H,fiel,0,1,0,FP_eliminado,"Vendió 1.200 entradas más que en la edición anterior, hasta 9.800."
+B2,T22::r5,no-H,fiel,0,0,1,FP_nuevo,"La línea 7 subió un 12 %, hasta 3,2 millones de viajeros, mientras la 3 perdió un 2 %; desde marzo, la 7 pasa cada 8 minutos en hora punta en lugar de cada 12."
+B2,G06::r2,no-H,fiel,0,1,0,FP_eliminado,"En esa franja entraron 2.140 pedidos, frente a los 3.900 del día anterior a la misma hora."
+B2,G12::r1,no-H,fiel,0,1,0,FP_eliminado,"En el trimestre hubo dos accidentes con baja, uno en envasado y otro en el almacén, y cinco sin baja. El comité aprobó colocar barreras fotoeléctricas en las dos prensas de la línea 3, con fecha límite el 31 de julio. Durante junio, el turno de noche recibirá formación en manejo de cargas, que el de mañana ya hizo en abril. A petición de la delegada de prevención, un servicio externo medirá el ruido en la nave B."
+B2,G13::r1,no-H,fiel,0,0,1,FP_nuevo,"La póliza asegura el continente por 150.000 euros y el contenido por 30.000. Si hay daños por agua, se cubren hasta 3.000 euros por siniestro, con una franquicia de 150. En caso de robo en la vivienda, la cobertura alcanza el 20 % del contenido, es decir, 6.000 euros, con un tope de 1.500 para las joyas. La responsabilidad civil familiar está cubierta hasta 300.000 euros."
+B2,G15::r1,no-H,fiel,0,1,0,FP_eliminado,"Con esta póliza se paga un copago por cada acto médico: 5 euros en medicina general, 12 en especialista y 20 en urgencias. En total, cada asegurado pagará como mucho 300 euros al año en copagos. Para hospitalizarse u operarse hay que esperar seis meses, para el parto diez y para las pruebas diagnósticas de alta tecnología tres. Las urgencias vitales se atienden sin carencia alguna."
+B2,G17::r1,no-H,fiel,0,1,0,FP_eliminado,"Tras el alta, el paciente debe tomar un comprimido de amoxicilina con clavulánico de 875/125 mg cada ocho horas durante una semana. Además, se pondrá una inyección subcutánea diaria de enoxaparina de 40 mg durante diez días, siempre a la misma hora. Mientras dure el antibiótico tomará también omeprazol de 20 mg en ayunas. El paracetamol de 1 gramo se tomará cada ocho horas únicamente si hay dolor, sin superar 3 gramos al día."
+B2,R02::r1,no-H,fiel,0,1,0,FP_eliminado,"El espesor máximo del invierno 2023-2024, 94 centímetros, quedó 66 centímetros por debajo de la media de 1991-2020."
+B2,H102::r1,H,fiel,0,1,0,FP_eliminado,"Se vendieron 61.300 tapas, 6.500 más que en la edición de 2025."
+B2,H108::r8,H,fiel,0,1,0,FP_eliminado,"Seis de cada diez camiones de reparto del centro usan diésel y los demás, gas natural."
+B2,H109::r9,H,fiel,0,0,1,FP_nuevo,"Además de cuatro trabajadores en plantilla, el banco tiene 85 voluntarios estables, en su mayoría jubilados."
+B2,H111::r2,H,fiel,0,0,1,FP_nuevo,"Los donantes particulares aportaron el 30 % de los 690.000 euros, es decir, 207.000 euros."
+B2,H112::r4,H,fiel,0,1,0,FP_eliminado,"Además de la visita de cada semana, desde octubre de 2025 se llama a diario a los 60 usuarios con más riesgo de aislamiento."
+B2,H112::r8,H,fiel,0,0,1,FP_nuevo,"212 voluntarios, con 3 horas semanales de media cada uno, acompañaron en 2025 a 340 mayores de 75 años que viven solos; la lista de espera bajó a 95 personas y el 72 % de los 180 encuestados se sentía menos solo a los seis meses."
+B2,H113::r9,H,fiel,0,1,0,FP_eliminado,"Herminia Saldaña conduce «Despierta Vallebrío», el matinal de la emisora, que tiene 21.000 oyentes."
+B2,H114::r9,H,fiel,0,1,0,FP_eliminado,"En 2025 se incorporaron 6 periodistas a la redacción, todos en la sección de datos."
+B2,H118::r4,H,fiel,0,1,0,FP_eliminado,"De sus 31 entrenadores, 19 no tienen el título de nivel II."
+B2,H120::r9,H,fiel,0,1,0,FP_eliminado,No hay actas de 1937 a 1939 porque se perdieron en el incendio del ayuntamiento de 1938.
+B2,H202::r1,H,fiel,0,1,0,FP_eliminado,La Hipoteca Joven financia hasta el 95 % del valor de tasación a menores de 36 años si la vivienda va a ser su residencia habitual.
+B2,H206::r1,H,fiel,0,1,0,FP_eliminado,"Cubre granizo, helada y viento huracanado en melocotón, pera y manzana."
+B2,H215::r3,H,fiel,0,0,1,FP_nuevo,"Según el ayuntamiento de Grisel, el descenso se debe a las obras de la nueva variante."
+B2,H216::r7,H,fiel,0,0,1,FP_nuevo,En 2027 habrá 30 becas más que en la convocatoria de 2026.
+B2,H218::r7,H,fiel,0,0,1,FP_nuevo,"En 2025, 83 de las 214 pymes participantes no lograron ninguna venta exterior en los doce meses siguientes."
+B2,H222::r4,H,fiel,0,0,1,FP_nuevo,Más de siete de cada diez pares fabricados en 2025 se exportaron.
+B2,H303::r6,H,fiel,0,1,0,FP_eliminado,"Tendrá 14 salas de vistas, dos de ellas preparadas para menores y víctimas vulnerables. Sustituirá a las tres sedes judiciales actuales, y el viejo edificio de la calle Mercaderes pasará a ser archivo judicial. La obra la ejecutará Hormigones Teixal, que se la adjudicó en mayo de 2026."
+B2,H306::r7,H,fiel,0,0,1,FP_nuevo,"De los 2.140 juicios celebrados en 2025, 1.380 no fueron por despido."
+B2,H312::r1,H,fiel,0,0,1,FP_nuevo,"Abrió 18 refugios, siete más que en 2025."
+B2,H313::r8,H,fiel,0,1,0,FP_eliminado,"Más de dos tercios de la inversión, 19,2 de los 27,4 millones, procede de fondos europeos."
+B2,H316::r1,H,fiel,0,0,1,FP_nuevo,"De las 46 antenas actuales del municipio, 27 no están en azoteas de edificios residenciales."
+B2,H408::r5,H,distorsion,1,1,0,FN_nuevo,La Universidad de Ribafría hizo el trabajo de campo y la encuesta se repetirá en 2028.
+B2,H412::r9,H,fiel,0,1,0,FP_eliminado,"Con el 0,52 %, el tipo del IBI de Lerinda queda 0,09 puntos por debajo del de Montesorio."
+B2,H413::r3,H,distorsion,1,0,1,FN_eliminado,"Entre el distrito Centro (70,2 %) y Las Canteras (44,9 %) hubo una diferencia de participación de 15,3 puntos."
+B2,H416::r2,H,sobregeneralizacion,1,1,0,FN_nuevo,Los municipios de menos de 1.000 habitantes reciben como mínimo 90.000 euros cada uno.
+B2,H417::r1,H,fiel,0,1,0,FP_eliminado,"La participación de 2019 había sido del 70,9 %."
+B2,g04,no-H,fiel,0,0,1,FP_nuevo,La sonda despegó en marzo y tardó siete meses en llegar a su destino. Orbitó el planeta durante dos años. A lo largo de la misión envió más de 30.000 imágenes a la Tierra.
+B3,e14::par,no-H,fiel,0,1,0,FP_eliminado,La norma comenzó a aplicarse el 1 de enero y alcanza a diversas comunidades.
+B3,e17,no-H,fiel,0,1,0,FP_eliminado,El salario mínimo subió a 1.134 euros en 2024.
+B3,e17::par,no-H,fiel,0,1,0,FP_eliminado,En 2024 el sueldo mínimo quedó fijado en mil ciento treinta y cuatro euros.
+B3,e27::par,no-H,fiel,0,1,0,FP_eliminado,La terapia rebajó la sintomatología en cuatro de cada diez pacientes.
+B3,e32,no-H,fiel,0,1,0,FP_eliminado,El corazón humano late unas 70 veces por minuto en reposo.
+B3,e47::par,no-H,fiel,0,1,0,FP_eliminado,El Sahara ocupa cerca de 9 millones de kilómetros cuadrados.
+B3,e49,no-H,fiel,0,1,0,FP_eliminado,El cable soporta velocidades de 10 gigabits por segundo.
+B3,e74::par,no-H,fiel,0,1,0,FP_eliminado,La recomendación es ingerir un par de litros de agua a diario.
+B3,e76,no-H,fiel,0,1,0,FP_eliminado,La luz del Sol tarda unos 8 minutos en llegar a la Tierra.
+B3,e83::par,no-H,fiel,0,1,0,FP_eliminado,"El paro se extendió a lo largo de más de una semana, ocho días."
+B3,e85,no-H,fiel,0,1,0,FP_eliminado,La fosa alcanza unos 11.000 metros de profundidad.
+B3,e85::par,no-H,fiel,0,1,0,FP_eliminado,La fosa llega a cerca de 11.000 metros de hondo.
+B3,e98::par,no-H,fiel,0,1,0,FP_eliminado,Octubre dejó 120 litros por metro cuadrado de lluvia.
+B3,s01,no-H,fiel,0,1,0,FP_eliminado,"El ensayo, con 1.800 participantes, halló que el fármaco reduce la presión un 12 % con efectos adversos leves."
+B3,s01::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con una muestra de 1.800 personas, el fármaco bajó la tensión un doce por ciento y apenas causó efectos adversos."
+B3,s03,no-H,fiel,0,1,0,FP_eliminado,"La empresa facturó 42 millones el último ejercicio, mantuvo su plantilla de 310 empleados y abrió dos nuevas sedes."
+B3,s03::inf3,no-H,no_respaldado,1,1,0,FN_nuevo,"La empresa, líder de su sector, facturó 42 millones con 310 empleados."
+B3,s04,no-H,fiel,0,1,0,FP_eliminado,"La sonda tardó siete meses en llegar, orbitó el planeta dos años y envió más de 30.000 imágenes."
+B3,s04::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Tras un viaje de siete meses, la nave pasó dos años en órbita y mandó más de 30.000 fotografías."
+B3,s11::fiel1,no-H,fiel,0,1,0,FP_eliminado,El mes dejó 120 litros por metro cuadrado repartidos en doce jornadas lluviosas y 16 grados de media.
+B3,s15::fiel1,no-H,fiel,0,1,0,FP_eliminado,"En sus 500 hectáreas, el humedal alberga 90 especies de aves y sirve de paso a las migratorias."
+B3,s24::fiel1,no-H,fiel,0,1,0,FP_eliminado,Con 400.000 dosis se inmunizó al 85 % de la población diana y los casos graves se redujeron a la mitad.
+B3,s25::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 20 playas de arena y un parque natural, la isla de clima templado se alcanza en ferry."
+B3,s26::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Sus 40 aerogeneradores producen 120 megavatios, suficientes para 90.000 hogares."
+B3,s28,no-H,fiel,0,1,0,FP_eliminado,La exposición reunió 150 obras de diez museos y recibió 200.000 visitantes en seis meses.
+B3,s30,no-H,fiel,0,1,0,FP_eliminado,"Tras peatonalizar el centro, el tráfico cayó un 18 %, el transporte público ganó un 25 % de usuarios y se crearon 10 kilómetros de carril bici."
+B3,s30::fiel1,no-H,fiel,0,1,0,FP_eliminado,"La peatonalización redujo el tráfico un 18 %, sumó un 25 % de usuarios al transporte público y añadió 10 kilómetros de carril bici."
+B3,s32::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 10 aviones nuevos y 300 empleos, la compañía estrenará 6 rutas hacia el sur de Europa."
+B3,s33,no-H,fiel,0,1,0,FP_eliminado,"El festival proyectó 120 películas ante 50.000 asistentes durante diez días, y premió una ópera prima."
+B3,s33::fiel1,no-H,fiel,0,1,0,FP_eliminado,"A lo largo de diez días, el certamen mostró 120 filmes a 50.000 personas y galardonó una ópera prima."
+B3,s34,no-H,fiel,0,1,0,FP_eliminado,"La biblioteca, con 25.000 socios y un fondo de 150.000 volúmenes, prestó 90.000 libros y organizó 200 actividades."
+B3,s34::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 25.000 socios, el centro prestó 90.000 libros de sus 150.000 volúmenes y programó 200 actividades."
+B3,s37::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 600 millones en cuatro años, el plan levantará 5.000 viviendas protegidas para jóvenes y familias."
+B3,s38,no-H,fiel,0,1,0,FP_eliminado,"La cooperativa, con 400 socios, facturó 30 millones y exportó aceite a 15 países, con un sello de calidad."
+B3,s40,no-H,fiel,0,1,0,FP_eliminado,"El programa concedió 1.200 becas por 4 millones en 80 municipios, y el 95 % de los becados aprobó."
+B3,s40::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 4 millones, el programa dio 1.200 becas en 80 municipios y aprobó el 95 % de sus beneficiarios."
+B3,N05::r1,no-H,fiel,0,1,0,FP_eliminado,"Pasa una vez por quincena por 38 pueblos de menos de mil habitantes, y se puede encargar un libro por teléfono para recogerlo en la visita siguiente."
+B3,N06::r1,no-H,fiel,0,1,0,FP_eliminado,"La catalogación de los 4.600 libros, 230 cartas y 12 cuadernos del legado concluyó en junio de 2025, tras once meses."
+B3,N11::r1,no-H,fiel,0,1,0,FP_eliminado,"Durante febrero y marzo de 2026 pararán 34 arrastreros, mientras las barcas de artes menores podrán seguir faenando."
+B3,N12::r1,no-H,fiel,0,1,0,FP_eliminado,"Cuando acabe la ampliación, el puerto tendrá 600 metros de muelle."
+B3,N28::r1,no-H,fiel,0,1,0,FP_eliminado,"Entre ambas oficinas gestionaron 238 rodajes, 49 de ellos largometrajes."
+B3,T08::r3,no-H,fiel,0,1,0,FP_eliminado,"En ciudad la media bajó un minuto respecto a 2024, hasta los 14 minutos."
+B3,T13::r2,no-H,fiel,0,1,0,FP_eliminado,"Vendió 1.200 entradas más que en la edición anterior, hasta 9.800."
+B3,T18::r2,no-H,fiel,0,1,0,FP_eliminado,"4.870, frente a los 3.100 de 2024, cuando tenía siete cámaras menos."
+B3,T19::r5,no-H,no_respaldado,1,1,0,FN_nuevo,"Un 78 % trabajaba a los seis meses de acabar, lo que explica que el ciclo recibiera 112 solicitudes para sus 40 plazas."
+B3,T21::r3,no-H,fiel,0,0,1,FP_nuevo,"Atiende a 2.900 alumnos y se financia con 3,1 millones del Fondo Social Europeo."
+B3,T29::r1,no-H,fiel,0,1,0,FP_eliminado,"Recogió 41 millones de kilos de aceituna, 12 millones más que la campaña anterior."
+B3,T30::r1,no-H,fiel,0,1,0,FP_eliminado,"El agua usada por hectárea ha caído un 27 %, pero el consumo de electricidad se ha multiplicado por tres a causa del bombeo."
+B3,T32::r1,no-H,fiel,0,1,0,FP_eliminado,"3,1 millones de turistas, que pasaron allí 8,4 noches de media."
+B3,G06::r2,no-H,fiel,0,1,0,FP_eliminado,"En esa franja entraron 2.140 pedidos, frente a los 3.900 del día anterior a la misma hora."
+B3,G12::r1,no-H,fiel,0,1,0,FP_eliminado,"En el trimestre hubo dos accidentes con baja, uno en envasado y otro en el almacén, y cinco sin baja. El comité aprobó colocar barreras fotoeléctricas en las dos prensas de la línea 3, con fecha límite el 31 de julio. Durante junio, el turno de noche recibirá formación en manejo de cargas, que el de mañana ya hizo en abril. A petición de la delegada de prevención, un servicio externo medirá el ruido en la nave B."
+B3,G15::r1,no-H,fiel,0,1,0,FP_eliminado,"Con esta póliza se paga un copago por cada acto médico: 5 euros en medicina general, 12 en especialista y 20 en urgencias. En total, cada asegurado pagará como mucho 300 euros al año en copagos. Para hospitalizarse u operarse hay que esperar seis meses, para el parto diez y para las pruebas diagnósticas de alta tecnología tres. Las urgencias vitales se atienden sin carencia alguna."
+B3,G16::r1,no-H,fiel,0,1,0,FP_eliminado,"Calmidol es ibuprofeno en suspensión, con 100 mg por cada 5 ml, y se usa para la fiebre y el dolor leve o moderado. A los niños de 3 a 6 años, de entre 15 y 20 kilos, se les dan 5 ml cada ocho horas. Entre los 7 y los 9 años la dosis sube a 7,5 ml, y de los 10 a los 12, a 10 ml, siempre con el mismo intervalo. Es preferible tomarlo con comida o leche para reducir las molestias de estómago, y hay que agitar el frasco antes de usarlo."
+B3,G16::r2,no-H,fiel,0,1,0,FP_eliminado,"No se debe dar Calmidol más de tres días seguidos sin consultar al médico, y una vez abierto el frasco se conserva seis meses."
+B3,G17::r1,no-H,fiel,0,1,0,FP_eliminado,"Tras el alta, el paciente debe tomar un comprimido de amoxicilina con clavulánico de 875/125 mg cada ocho horas durante una semana. Además, se pondrá una inyección subcutánea diaria de enoxaparina de 40 mg durante diez días, siempre a la misma hora. Mientras dure el antibiótico tomará también omeprazol de 20 mg en ayunas. El paracetamol de 1 gramo se tomará cada ocho horas únicamente si hay dolor, sin superar 3 gramos al día."
+B3,R05::r2,no-H,fiel,0,1,0,FP_eliminado,"En los dos juzgados, algo más de un tercio de los asuntos fueron despidos, y la memoria plantea un refuerzo temporal para el n.º 4."
+B3,R07::r3,no-H,fiel,0,1,0,FP_eliminado,Por ahora no se ha recuperado ningún fragmento.
+B3,R11::r1,no-H,fiel,0,0,1,FP_nuevo,"De las 142 funciones, 112 no fueron de ópera, y la ocupación media de la temporada fue del 78 %."
+B3,R11::r4,no-H,no_respaldado,1,1,0,FN_nuevo,"Para atraer a un público más joven, el teatro lanzó entradas a 5 euros para menores de 26 años y vendió 6.300 por esa vía."
+B3,R13::r1,no-H,fiel,0,1,0,FP_eliminado,"El procedimiento clasifica las vulnerabilidades por su puntuación CVSS en crítica, alta, media y baja. Para las críticas distingue según la exposición: 72 horas si el sistema está expuesto a internet y 7 días naturales si es interno. Las altas tienen 30 días naturales y las medias, 90; las bajas pasan al mantenimiento ordinario. Si el parche no puede aplicarse a tiempo, el responsable del sistema puede pedir una excepción al comité de seguridad, justificada por escrito y con medidas compensatorias. Esa excepción dura como mucho 60 días y solo admite una renovación."
+B3,H101::r6,H,fiel,0,0,1,FP_nuevo,"Peñalisa, que produce unas 18 toneladas de queso al año, menos que las 25 de Monteagrio, se impuso en la categoría de curados."
+B3,H101::r9,H,fiel,0,1,0,FP_eliminado,"Un jurado de nueve catadores, con Olvido Carranzal al frente, dio a Peñalisa el máximo galardón de los curados; Monteagrio fue segunda en esa categoría."
+B3,H103::r8,H,fiel,0,1,0,FP_eliminado,"Los alimentos los suministran 19 productores de la comarca, todos con certificación ecológica."
+B3,H111::r8,H,fiel,0,0,1,FP_nuevo,"Levantó 23 pozos en Tambaru en 2025, siete menos de los 30 que tenía previstos."
+B3,H112::r4,H,fiel,0,1,0,FP_eliminado,"Además de la visita de cada semana, desde octubre de 2025 se llama a diario a los 60 usuarios con más riesgo de aislamiento."
+B3,H113::r9,H,fiel,0,1,0,FP_eliminado,"Herminia Saldaña conduce «Despierta Vallebrío», el matinal de la emisora, que tiene 21.000 oyentes."
+B3,H114::r9,H,fiel,0,1,0,FP_eliminado,"En 2025 se incorporaron 6 periodistas a la redacción, todos en la sección de datos."
+B3,H115::r2,H,distorsion,1,1,0,FN_nuevo,"Entre falsos y engañosos, Comprobado detectó 1.100 contenidos en 2025."
+B3,H116::r3,H,fiel,0,1,0,FP_eliminado,Los otros dos pódcast de la red acumularon 81.000 reproducciones.
+B3,H118::r1,H,fiel,0,1,0,FP_eliminado,"Tiene 18 equipos de base, tres más que la temporada pasada, y 260 jugadores de 7 a 18 años; su cadete femenino fue campeón autonómico en abril y su cadete masculino, subcampeón."
+B3,H201::r5,H,sobregeneralizacion,1,1,0,FN_nuevo,"Durante los seis primeros meses, cualquier saldo depositado en la Cuenta Horizonte se remunera al 2,1 % TAE."
+B3,H202::r1,H,fiel,0,1,0,FP_eliminado,La Hipoteca Joven financia hasta el 95 % del valor de tasación a menores de 36 años si la vivienda va a ser su residencia habitual.
+B3,H202::r7,H,fiel,0,1,0,FP_eliminado,"Para menores de 36 años la financiación llega al 95 % de la tasación, frente al 80 % para el resto de clientes; el diferencial es del 0,69 % sobre el euríbor desde marzo de 2026 y el importe medio firmado en 2026 ha sido de 168.000 euros."
+B3,H206::r1,H,fiel,0,1,0,FP_eliminado,"Cubre granizo, helada y viento huracanado en melocotón, pera y manzana."
+B3,H206::r2,H,sobregeneralizacion,1,1,0,FN_nuevo,"La póliza de Mutua Tolvera protege los frutales de la explotación frente al granizo, la helada y el viento huracanado."
+B3,H209::r7,H,fiel,0,1,0,FP_eliminado,"La prima base sube un 6 %, hasta 410 euros por hectárea, y en 2025 estaban aseguradas 3.100 hectáreas, menos de un tercio de las 9.800 de invernadero del Campo de Tervela."
+B3,H213::r2,H,fiel,0,1,0,FP_eliminado,La dirección justifica el ERTE por la caída del 23 % de los pedidos de su principal cliente.
+B3,H213::r9,H,fiel,0,1,0,FP_eliminado,"El ERTE, firmado el 3 de febrero de 2026, afecta a 260 empleados de Vilanzo durante un máximo de 90 días por persona hasta el 31 de julio, con un complemento hasta el 85 % del salario bruto; la planta de Soterraña queda excluida."
+B3,H302::r8,H,fiel,0,1,0,FP_eliminado,"Lo coordina la mediadora Itziar Galdóns y en 2025 atendió 412 procedimientos de familia, de los que 64 terminaron con acuerdo parcial."
+B3,H303::r6,H,fiel,0,1,0,FP_eliminado,"Tendrá 14 salas de vistas, dos de ellas preparadas para menores y víctimas vulnerables. Sustituirá a las tres sedes judiciales actuales, y el viejo edificio de la calle Mercaderes pasará a ser archivo judicial. La obra la ejecutará Hormigones Teixal, que se la adjudicó en mayo de 2026."
+B3,H308::r5,H,no_respaldado,1,1,0,FN_nuevo,"El dispositivo crece en 38 efectivos, hasta 412, para responder a las 1.870 hectáreas quemadas en 2025."
+B3,H308::r8,H,fiel,0,1,0,FP_eliminado,"La campaña irá del 1 de junio a mediados de octubre, en concreto hasta el día 15, con seis medios aéreos."
+B3,H309::r2,H,distorsion,1,1,0,FN_nuevo,"Las sirenas sonaron a las 10:05 y el confinamiento de los colegios se completó en 18 minutos, cuatro menos que en 2024."
+B3,H312::r1,H,fiel,0,0,1,FP_nuevo,"Abrió 18 refugios, siete más que en 2025."
+B3,H316::r9,H,fiel,0,1,0,FP_eliminado,"Cuando ya haya otra torre a menos de 250 metros, las operadoras tendrán que compartirla si es técnicamente viable. Además, las nuevas antenas tendrán que guardar más de 100 metros con colegios y centros de salud, excepto las pequeñas que vayan en fachadas."
+B3,H322::r1,H,fiel,0,1,0,FP_eliminado,"Los fondos europeos aportan 1,96 millones de los 2,8 millones del proyecto."
+B3,H404::r4,H,fiel,0,1,0,FP_eliminado,"AVT ganó con 2.651 votos y 7 concejales, dos más que en 2019, y su candidata, Clotilde Olivenza, fue investida con el apoyo de Unión Serrana; el Partido Ribereño bajó de 7 a 5 ediles."
+B3,H408::r3,H,fiel,0,1,0,FP_eliminado,Menos de cuatro de cada diez víctimas presentaron denuncia.
+B3,H408::r5,H,distorsion,1,1,0,FN_nuevo,La Universidad de Ribafría hizo el trabajo de campo y la encuesta se repetirá en 2028.
+B3,H412::r9,H,fiel,0,1,0,FP_eliminado,"Con el 0,52 %, el tipo del IBI de Lerinda queda 0,09 puntos por debajo del de Montesorio."
+B3,H413::r3,H,distorsion,1,0,1,FN_eliminado,"Entre el distrito Centro (70,2 %) y Las Canteras (44,9 %) hubo una diferencia de participación de 15,3 puntos."
+B3,H417::r3,H,fiel,0,0,1,FP_nuevo,"Con el acuerdo de junio de 2024, Futuro Ribagorza y Los Verdes del Esla suman 8 de los 13 concejales."
+B3,H418::r1,H,fiel,0,1,0,FP_eliminado,En 2025 las defunciones superaron a los nacimientos en 382 en la isla.
+B3,H421::r3,H,fiel,0,1,0,FP_eliminado,"Ciudadanos por Lezna y Tierra Comunera sumarían 6 de los 11 concejales, la mayoría absoluta."
+B4,e17,no-H,fiel,0,1,0,FP_eliminado,El salario mínimo subió a 1.134 euros en 2024.
+B4,e17::par,no-H,fiel,0,1,0,FP_eliminado,En 2024 el sueldo mínimo quedó fijado en mil ciento treinta y cuatro euros.
+B4,e32,no-H,fiel,0,1,0,FP_eliminado,El corazón humano late unas 70 veces por minuto en reposo.
+B4,e43::par,no-H,fiel,0,1,0,FP_eliminado,El relato alude a una docena de trabajos del héroe.
+B4,e47::par,no-H,fiel,0,1,0,FP_eliminado,El Sahara ocupa cerca de 9 millones de kilómetros cuadrados.
+B4,e49,no-H,fiel,0,1,0,FP_eliminado,El cable soporta velocidades de 10 gigabits por segundo.
+B4,e76,no-H,fiel,0,1,0,FP_eliminado,La luz del Sol tarda unos 8 minutos en llegar a la Tierra.
+B4,e85,no-H,fiel,0,1,0,FP_eliminado,La fosa alcanza unos 11.000 metros de profundidad.
+B4,e85::par,no-H,fiel,0,1,0,FP_eliminado,La fosa llega a cerca de 11.000 metros de hondo.
+B4,s01::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con una muestra de 1.800 personas, el fármaco bajó la tensión un doce por ciento y apenas causó efectos adversos."
+B4,s09::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 18 goles de su delantero y solo 29 encajados, el conjunto terminó en tercera posición."
+B4,s26::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Sus 40 aerogeneradores producen 120 megavatios, suficientes para 90.000 hogares."
+B4,s32::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 10 aviones nuevos y 300 empleos, la compañía estrenará 6 rutas hacia el sur de Europa."
+B4,s34::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 25.000 socios, el centro prestó 90.000 libros de sus 150.000 volúmenes y programó 200 actividades."
+B4,N09::r2,no-H,fiel,0,1,0,FP_eliminado,"El Sur respondió de media en 9 segundos, dos más que el Norte, y atendió un tres por ciento menos de llamadas que en 2024."
+B4,T09::r1,no-H,fiel,0,1,0,FP_eliminado,"Con 21 triunfos y 9 derrotas, dos victorias más que el Morón."
+B4,T13::r2,no-H,fiel,0,1,0,FP_eliminado,"Vendió 1.200 entradas más que en la edición anterior, hasta 9.800."
+B4,T21::r1,no-H,fiel,0,1,0,FP_eliminado,"Los alumnos de primero y segundo de ESO que suspendieron Matemáticas el curso anterior reciben dos horas de refuerzo a la semana, en grupos de ocho como mucho."
+B4,G06::r1,no-H,fiel,0,1,0,FP_eliminado,"Durante la campaña de rebajas del 7 de enero, la tienda funcionó peor entre las 11:00 y las 11:40. En ese tramo, la página de producto tardaba de media 6,8 segundos en cargar, cuando lo normal es 0,9. El inicio y el carrito siguieron respondiendo con normalidad. El autoescalado del catálogo intentó sumar seis instancias, pero se topó con el máximo de 12. A las 11:15 se subió ese límite a mano hasta 24 y, a las 11:40, la página de producto ya cargaba en 1,1 segundos."
+B4,G06::r2,no-H,fiel,0,1,0,FP_eliminado,"En esa franja entraron 2.140 pedidos, frente a los 3.900 del día anterior a la misma hora."
+B4,G12::r1,no-H,fiel,0,1,0,FP_eliminado,"En el trimestre hubo dos accidentes con baja, uno en envasado y otro en el almacén, y cinco sin baja. El comité aprobó colocar barreras fotoeléctricas en las dos prensas de la línea 3, con fecha límite el 31 de julio. Durante junio, el turno de noche recibirá formación en manejo de cargas, que el de mañana ya hizo en abril. A petición de la delegada de prevención, un servicio externo medirá el ruido en la nave B."
+B4,G17::r1,no-H,fiel,0,1,0,FP_eliminado,"Tras el alta, el paciente debe tomar un comprimido de amoxicilina con clavulánico de 875/125 mg cada ocho horas durante una semana. Además, se pondrá una inyección subcutánea diaria de enoxaparina de 40 mg durante diez días, siempre a la misma hora. Mientras dure el antibiótico tomará también omeprazol de 20 mg en ayunas. El paracetamol de 1 gramo se tomará cada ocho horas únicamente si hay dolor, sin superar 3 gramos al día."
+B4,R02::r1,no-H,fiel,0,1,0,FP_eliminado,"El espesor máximo del invierno 2023-2024, 94 centímetros, quedó 66 centímetros por debajo de la media de 1991-2020."
+B4,R07::r3,no-H,fiel,0,1,0,FP_eliminado,Por ahora no se ha recuperado ningún fragmento.
+B4,H102::r1,H,fiel,0,1,0,FP_eliminado,"Se vendieron 61.300 tapas, 6.500 más que en la edición de 2025."
+B4,H108::r8,H,fiel,0,1,0,FP_eliminado,"Seis de cada diez camiones de reparto del centro usan diésel y los demás, gas natural."
+B4,H113::r9,H,fiel,0,1,0,FP_eliminado,"Herminia Saldaña conduce «Despierta Vallebrío», el matinal de la emisora, que tiene 21.000 oyentes."
+B4,H114::r9,H,fiel,0,1,0,FP_eliminado,"En 2025 se incorporaron 6 periodistas a la redacción, todos en la sección de datos."
+B4,H118::r4,H,fiel,0,1,0,FP_eliminado,"De sus 31 entrenadores, 19 no tienen el título de nivel II."
+B4,H120::r9,H,fiel,0,1,0,FP_eliminado,No hay actas de 1937 a 1939 porque se perdieron en el incendio del ayuntamiento de 1938.
+B4,H222::r4,H,fiel,0,0,1,FP_nuevo,Más de siete de cada diez pares fabricados en 2025 se exportaron.
+B4,H303::r7,H,no_respaldado,1,1,0,FN_nuevo,"Concentrará en un único edificio las tres sedes judiciales actuales para ahorrar en alquileres, con 14 salas de vistas."
+B4,H313::r8,H,fiel,0,1,0,FP_eliminado,"Más de dos tercios de la inversión, 19,2 de los 27,4 millones, procede de fondos europeos."
+B4,H412::r9,H,fiel,0,1,0,FP_eliminado,"Con el 0,52 %, el tipo del IBI de Lerinda queda 0,09 puntos por debajo del de Montesorio."
+B4,H417::r1,H,fiel,0,1,0,FP_eliminado,"La participación de 2019 había sido del 70,9 %."
+B4,H417::r3,H,fiel,0,0,1,FP_nuevo,"Con el acuerdo de junio de 2024, Futuro Ribagorza y Los Verdes del Esla suman 8 de los 13 concejales."
+B5,e14::par,no-H,fiel,0,1,0,FP_eliminado,La norma comenzó a aplicarse el 1 de enero y alcanza a diversas comunidades.
+B5,e17,no-H,fiel,0,1,0,FP_eliminado,El salario mínimo subió a 1.134 euros en 2024.
+B5,e17::par,no-H,fiel,0,1,0,FP_eliminado,En 2024 el sueldo mínimo quedó fijado en mil ciento treinta y cuatro euros.
+B5,e22::sutil,no-H,no_respaldado,1,1,0,FN_nuevo,El multitudinario maratón recorre 42 kilómetros por el centro de la ciudad.
+B5,e32,no-H,fiel,0,1,0,FP_eliminado,El corazón humano late unas 70 veces por minuto en reposo.
+B5,e47::par,no-H,fiel,0,1,0,FP_eliminado,El Sahara ocupa cerca de 9 millones de kilómetros cuadrados.
+B5,e49,no-H,fiel,0,1,0,FP_eliminado,El cable soporta velocidades de 10 gigabits por segundo.
+B5,e68::par,no-H,fiel,0,0,1,FP_nuevo,La autoridad monetaria elevó el precio del dinero hasta el cuatro por ciento.
+B5,e76,no-H,fiel,0,1,0,FP_eliminado,La luz del Sol tarda unos 8 minutos en llegar a la Tierra.
+B5,e85,no-H,fiel,0,1,0,FP_eliminado,La fosa alcanza unos 11.000 metros de profundidad.
+B5,e88,no-H,fiel,0,0,1,FP_nuevo,"En crecida, el río llega a 2.000 metros cúbicos por segundo."
+B5,e88::par,no-H,fiel,0,0,1,FP_nuevo,"Durante las crecidas, el río alcanza los 2.000 metros cúbicos por segundo."
+B5,s01::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con una muestra de 1.800 personas, el fármaco bajó la tensión un doce por ciento y apenas causó efectos adversos."
+B5,s10::fiel1,no-H,fiel,0,0,1,FP_nuevo,"La norma baja la jornada a 37,5 horas semanales, con entrada escalonada hasta 2026 para plantillas de más de 50 personas."
+B5,s26::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Sus 40 aerogeneradores producen 120 megavatios, suficientes para 90.000 hogares."
+B5,s32::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 10 aviones nuevos y 300 empleos, la compañía estrenará 6 rutas hacia el sur de Europa."
+B5,s33,no-H,fiel,0,1,0,FP_eliminado,"El festival proyectó 120 películas ante 50.000 asistentes durante diez días, y premió una ópera prima."
+B5,s33::fiel1,no-H,fiel,0,1,0,FP_eliminado,"A lo largo de diez días, el certamen mostró 120 filmes a 50.000 personas y galardonó una ópera prima."
+B5,s34,no-H,fiel,0,1,0,FP_eliminado,"La biblioteca, con 25.000 socios y un fondo de 150.000 volúmenes, prestó 90.000 libros y organizó 200 actividades."
+B5,s34::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 25.000 socios, el centro prestó 90.000 libros de sus 150.000 volúmenes y programó 200 actividades."
+B5,s37::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 600 millones en cuatro años, el plan levantará 5.000 viviendas protegidas para jóvenes y familias."
+B5,N06::r1,no-H,fiel,0,1,0,FP_eliminado,"La catalogación de los 4.600 libros, 230 cartas y 12 cuadernos del legado concluyó en junio de 2025, tras once meses."
+B5,N09::r2,no-H,fiel,0,1,0,FP_eliminado,"El Sur respondió de media en 9 segundos, dos más que el Norte, y atendió un tres por ciento menos de llamadas que en 2024."
+B5,T11::r1,no-H,fiel,0,1,0,FP_eliminado,"Rubén Gil ganó en 9 horas y 12 minutos y Nerea Ochoa, en 10 horas y 47."
+B5,T13::r2,no-H,fiel,0,1,0,FP_eliminado,"Vendió 1.200 entradas más que en la edición anterior, hasta 9.800."
+B5,T22::r5,no-H,fiel,0,0,1,FP_nuevo,"La línea 7 subió un 12 %, hasta 3,2 millones de viajeros, mientras la 3 perdió un 2 %; desde marzo, la 7 pasa cada 8 minutos en hora punta en lugar de cada 12."
+B5,T30::r1,no-H,fiel,0,1,0,FP_eliminado,"El agua usada por hectárea ha caído un 27 %, pero el consumo de electricidad se ha multiplicado por tres a causa del bombeo."
+B5,G03::r2,no-H,fiel,0,1,0,FP_eliminado,"Las carretillas se entregarán en las instalaciones del comprador, en Zaragoza, como mucho 45 días naturales después de la firma. Si la entrega se retrasa, se aplica una penalización del 0,5 % del precio total por cada semana de retraso."
+B5,G06::r2,no-H,fiel,0,1,0,FP_eliminado,"En esa franja entraron 2.140 pedidos, frente a los 3.900 del día anterior a la misma hora."
+B5,G12::r1,no-H,fiel,0,1,0,FP_eliminado,"En el trimestre hubo dos accidentes con baja, uno en envasado y otro en el almacén, y cinco sin baja. El comité aprobó colocar barreras fotoeléctricas en las dos prensas de la línea 3, con fecha límite el 31 de julio. Durante junio, el turno de noche recibirá formación en manejo de cargas, que el de mañana ya hizo en abril. A petición de la delegada de prevención, un servicio externo medirá el ruido en la nave B."
+B5,G17::r1,no-H,fiel,0,1,0,FP_eliminado,"Tras el alta, el paciente debe tomar un comprimido de amoxicilina con clavulánico de 875/125 mg cada ocho horas durante una semana. Además, se pondrá una inyección subcutánea diaria de enoxaparina de 40 mg durante diez días, siempre a la misma hora. Mientras dure el antibiótico tomará también omeprazol de 20 mg en ayunas. El paracetamol de 1 gramo se tomará cada ocho horas únicamente si hay dolor, sin superar 3 gramos al día."
+B5,R02::r1,no-H,fiel,0,1,0,FP_eliminado,"El espesor máximo del invierno 2023-2024, 94 centímetros, quedó 66 centímetros por debajo de la media de 1991-2020."
+B5,R04::r1,no-H,fiel,0,1,0,FP_eliminado,"Pueden pedirlas edificios con más de un cuarto de siglo para aislar fachadas, cambiar ventanas o sustituir calderas, y la ayuda llega hasta el 40 % del coste."
+B5,R07::r3,no-H,fiel,0,1,0,FP_eliminado,Por ahora no se ha recuperado ningún fragmento.
+B5,R13::r1,no-H,fiel,0,1,0,FP_eliminado,"El procedimiento clasifica las vulnerabilidades por su puntuación CVSS en crítica, alta, media y baja. Para las críticas distingue según la exposición: 72 horas si el sistema está expuesto a internet y 7 días naturales si es interno. Las altas tienen 30 días naturales y las medias, 90; las bajas pasan al mantenimiento ordinario. Si el parche no puede aplicarse a tiempo, el responsable del sistema puede pedir una excepción al comité de seguridad, justificada por escrito y con medidas compensatorias. Esa excepción dura como mucho 60 días y solo admite una renovación."
+B5,H101::r9,H,fiel,0,1,0,FP_eliminado,"Un jurado de nueve catadores, con Olvido Carranzal al frente, dio a Peñalisa el máximo galardón de los curados; Monteagrio fue segunda en esa categoría."
+B5,H102::r1,H,fiel,0,1,0,FP_eliminado,"Se vendieron 61.300 tapas, 6.500 más que en la edición de 2025."
+B5,H108::r8,H,fiel,0,1,0,FP_eliminado,"Seis de cada diez camiones de reparto del centro usan diésel y los demás, gas natural."
+B5,H111::r2,H,fiel,0,0,1,FP_nuevo,"Los donantes particulares aportaron el 30 % de los 690.000 euros, es decir, 207.000 euros."
+B5,H112::r8,H,fiel,0,0,1,FP_nuevo,"212 voluntarios, con 3 horas semanales de media cada uno, acompañaron en 2025 a 340 mayores de 75 años que viven solos; la lista de espera bajó a 95 personas y el 72 % de los 180 encuestados se sentía menos solo a los seis meses."
+B5,H113::r9,H,fiel,0,1,0,FP_eliminado,"Herminia Saldaña conduce «Despierta Vallebrío», el matinal de la emisora, que tiene 21.000 oyentes."
+B5,H114::r9,H,fiel,0,1,0,FP_eliminado,"En 2025 se incorporaron 6 periodistas a la redacción, todos en la sección de datos."
+B5,H118::r4,H,fiel,0,1,0,FP_eliminado,"De sus 31 entrenadores, 19 no tienen el título de nivel II."
+B5,H120::r9,H,fiel,0,1,0,FP_eliminado,No hay actas de 1937 a 1939 porque se perdieron en el incendio del ayuntamiento de 1938.
+B5,H202::r1,H,fiel,0,1,0,FP_eliminado,La Hipoteca Joven financia hasta el 95 % del valor de tasación a menores de 36 años si la vivienda va a ser su residencia habitual.
+B5,H216::r7,H,fiel,0,0,1,FP_nuevo,En 2027 habrá 30 becas más que en la convocatoria de 2026.
+B5,H218::r1,H,fiel,0,1,0,FP_eliminado,"Primer Mercado cubre el 70 % de los gastos de la primera exportación de una pyme, hasta 12.000 euros por empresa."
+B5,H218::r7,H,fiel,0,0,1,FP_nuevo,"En 2025, 83 de las 214 pymes participantes no lograron ninguna venta exterior en los doce meses siguientes."
+B5,H222::r4,H,fiel,0,0,1,FP_nuevo,Más de siete de cada diez pares fabricados en 2025 se exportaron.
+B5,H303::r6,H,fiel,0,1,0,FP_eliminado,"Tendrá 14 salas de vistas, dos de ellas preparadas para menores y víctimas vulnerables. Sustituirá a las tres sedes judiciales actuales, y el viejo edificio de la calle Mercaderes pasará a ser archivo judicial. La obra la ejecutará Hormigones Teixal, que se la adjudicó en mayo de 2026."
+B5,H306::r7,H,fiel,0,0,1,FP_nuevo,"De los 2.140 juicios celebrados en 2025, 1.380 no fueron por despido."
+B5,H306::r8,H,fiel,0,1,0,FP_eliminado,"En 2025 se celebraron 760 juicios por despido y la espera media fue de 7 meses, dos más que en Vegaprieta."
+B5,H308::r8,H,fiel,0,1,0,FP_eliminado,"La campaña irá del 1 de junio a mediados de octubre, en concreto hasta el día 15, con seis medios aéreos."
+B5,H312::r3,H,fiel,0,1,0,FP_eliminado,Seis de los 18 refugios estaban en polideportivos y el resto en bibliotecas y centros cívicos.
+B5,H313::r8,H,fiel,0,1,0,FP_eliminado,"Más de dos tercios de la inversión, 19,2 de los 27,4 millones, procede de fondos europeos."
+B5,H316::r1,H,fiel,0,0,1,FP_nuevo,"De las 46 antenas actuales del municipio, 27 no están en azoteas de edificios residenciales."
+B5,H412::r9,H,fiel,0,1,0,FP_eliminado,"Con el 0,52 %, el tipo del IBI de Lerinda queda 0,09 puntos por debajo del de Montesorio."
+B5,H416::r2,H,sobregeneralizacion,1,1,0,FN_nuevo,Los municipios de menos de 1.000 habitantes reciben como mínimo 90.000 euros cada uno.
+B5,H417::r3,H,fiel,0,0,1,FP_nuevo,"Con el acuerdo de junio de 2024, Futuro Ribagorza y Los Verdes del Esla suman 8 de los 13 concejales."
+B5,H422::r6,H,fiel,0,0,1,FP_nuevo,"De las 231 personas beneficiarias del programa, 133 son adultas."
+B5,g04,no-H,fiel,0,0,1,FP_nuevo,La sonda despegó en marzo y tardó siete meses en llegar a su destino. Orbitó el planeta durante dos años. A lo largo de la misión envió más de 30.000 imágenes a la Tierra.
+B6,e09::par,no-H,fiel,0,0,1,FP_nuevo,"En sus 1.200 hectáreas, el parque resguarda diversas especies de aves."
+B6,e14::par,no-H,fiel,0,1,0,FP_eliminado,La norma comenzó a aplicarse el 1 de enero y alcanza a diversas comunidades.
+B6,e17,no-H,fiel,0,1,0,FP_eliminado,El salario mínimo subió a 1.134 euros en 2024.
+B6,e17::par,no-H,fiel,0,1,0,FP_eliminado,En 2024 el sueldo mínimo quedó fijado en mil ciento treinta y cuatro euros.
+B6,e32,no-H,fiel,0,1,0,FP_eliminado,El corazón humano late unas 70 veces por minuto en reposo.
+B6,e47::par,no-H,fiel,0,1,0,FP_eliminado,El Sahara ocupa cerca de 9 millones de kilómetros cuadrados.
+B6,e49,no-H,fiel,0,1,0,FP_eliminado,El cable soporta velocidades de 10 gigabits por segundo.
+B6,e76,no-H,fiel,0,1,0,FP_eliminado,La luz del Sol tarda unos 8 minutos en llegar a la Tierra.
+B6,e83::par,no-H,fiel,0,1,0,FP_eliminado,"El paro se extendió a lo largo de más de una semana, ocho días."
+B6,e85,no-H,fiel,0,1,0,FP_eliminado,La fosa alcanza unos 11.000 metros de profundidad.
+B6,e85::par,no-H,fiel,0,1,0,FP_eliminado,La fosa llega a cerca de 11.000 metros de hondo.
+B6,s01,no-H,fiel,0,1,0,FP_eliminado,"El ensayo, con 1.800 participantes, halló que el fármaco reduce la presión un 12 % con efectos adversos leves."
+B6,s01::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con una muestra de 1.800 personas, el fármaco bajó la tensión un doce por ciento y apenas causó efectos adversos."
+B6,s04,no-H,fiel,0,1,0,FP_eliminado,"La sonda tardó siete meses en llegar, orbitó el planeta dos años y envió más de 30.000 imágenes."
+B6,s04::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Tras un viaje de siete meses, la nave pasó dos años en órbita y mandó más de 30.000 fotografías."
+B6,s09::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 18 goles de su delantero y solo 29 encajados, el conjunto terminó en tercera posición."
+B6,s11::fiel1,no-H,fiel,0,1,0,FP_eliminado,El mes dejó 120 litros por metro cuadrado repartidos en doce jornadas lluviosas y 16 grados de media.
+B6,s15::fiel1,no-H,fiel,0,1,0,FP_eliminado,"En sus 500 hectáreas, el humedal alberga 90 especies de aves y sirve de paso a las migratorias."
+B6,s24::fiel1,no-H,fiel,0,1,0,FP_eliminado,Con 400.000 dosis se inmunizó al 85 % de la población diana y los casos graves se redujeron a la mitad.
+B6,s25::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 20 playas de arena y un parque natural, la isla de clima templado se alcanza en ferry."
+B6,s26::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Sus 40 aerogeneradores producen 120 megavatios, suficientes para 90.000 hogares."
+B6,s28,no-H,fiel,0,1,0,FP_eliminado,La exposición reunió 150 obras de diez museos y recibió 200.000 visitantes en seis meses.
+B6,s30,no-H,fiel,0,1,0,FP_eliminado,"Tras peatonalizar el centro, el tráfico cayó un 18 %, el transporte público ganó un 25 % de usuarios y se crearon 10 kilómetros de carril bici."
+B6,s30::fiel1,no-H,fiel,0,1,0,FP_eliminado,"La peatonalización redujo el tráfico un 18 %, sumó un 25 % de usuarios al transporte público y añadió 10 kilómetros de carril bici."
+B6,s32,no-H,fiel,0,1,0,FP_eliminado,"La aerolínea abrirá 6 rutas nuevas al sur de Europa, incorporará 10 aviones y creará 300 empleos."
+B6,s32::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 10 aviones nuevos y 300 empleos, la compañía estrenará 6 rutas hacia el sur de Europa."
+B6,s33,no-H,fiel,0,1,0,FP_eliminado,"El festival proyectó 120 películas ante 50.000 asistentes durante diez días, y premió una ópera prima."
+B6,s33::fiel1,no-H,fiel,0,1,0,FP_eliminado,"A lo largo de diez días, el certamen mostró 120 filmes a 50.000 personas y galardonó una ópera prima."
+B6,s34,no-H,fiel,0,1,0,FP_eliminado,"La biblioteca, con 25.000 socios y un fondo de 150.000 volúmenes, prestó 90.000 libros y organizó 200 actividades."
+B6,s34::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 25.000 socios, el centro prestó 90.000 libros de sus 150.000 volúmenes y programó 200 actividades."
+B6,s37::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 600 millones en cuatro años, el plan levantará 5.000 viviendas protegidas para jóvenes y familias."
+B6,s38,no-H,fiel,0,1,0,FP_eliminado,"La cooperativa, con 400 socios, facturó 30 millones y exportó aceite a 15 países, con un sello de calidad."
+B6,s40::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 4 millones, el programa dio 1.200 becas en 80 municipios y aprobó el 95 % de sus beneficiarios."
+B6,N06::r1,no-H,fiel,0,1,0,FP_eliminado,"La catalogación de los 4.600 libros, 230 cartas y 12 cuadernos del legado concluyó en junio de 2025, tras once meses."
+B6,N09::r1,no-H,fiel,0,1,0,FP_eliminado,"Entre los dos centros atendieron 326.000 llamadas, y en ambos tres de cada diez no eran urgentes."
+B6,N26::r4,no-H,contradiccion,1,1,0,FN_nuevo,"La mayor parte de los alimentos repartidos procedió de donaciones de supermercados, que aportaron el 45 % de las 610 toneladas."
+B6,N28::r1,no-H,fiel,0,1,0,FP_eliminado,"Entre ambas oficinas gestionaron 238 rodajes, 49 de ellos largometrajes."
+B6,T02::r6,no-H,fiel,0,0,1,FP_nuevo,"Las sociedades constituidas pasaron de 1.720 a 1.940 y las disoluciones bajaron de 610 a 540, es decir, setenta menos que el año anterior."
+B6,T08::r3,no-H,fiel,0,1,0,FP_eliminado,"En ciudad la media bajó un minuto respecto a 2024, hasta los 14 minutos."
+B6,T09::r4,no-H,no_respaldado,1,1,0,FN_nuevo,"Terminó con un balance de 21-9, lo que le da el factor cancha en la semifinal ante el Morón."
+B6,T09::r5,no-H,fiel,0,1,0,FP_eliminado,"Acabó 21-9, con 81,4 puntos por partido, y se medirá al Morón en semifinales."
+B6,T13::r2,no-H,fiel,0,1,0,FP_eliminado,"Vendió 1.200 entradas más que en la edición anterior, hasta 9.800."
+B6,T13::r4,no-H,sobregeneralizacion,1,1,0,FN_nuevo,Las funciones del festival fueron gratuitas y reunieron a unas 15.000 personas.
+B6,T18::r2,no-H,fiel,0,1,0,FP_eliminado,"4.870, frente a los 3.100 de 2024, cuando tenía siete cámaras menos."
+B6,T19::r5,no-H,no_respaldado,1,1,0,FN_nuevo,"Un 78 % trabajaba a los seis meses de acabar, lo que explica que el ciclo recibiera 112 solicitudes para sus 40 plazas."
+B6,T21::r1,no-H,fiel,0,1,0,FP_eliminado,"Los alumnos de primero y segundo de ESO que suspendieron Matemáticas el curso anterior reciben dos horas de refuerzo a la semana, en grupos de ocho como mucho."
+B6,T29::r1,no-H,fiel,0,1,0,FP_eliminado,"Recogió 41 millones de kilos de aceituna, 12 millones más que la campaña anterior."
+B6,T30::r1,no-H,fiel,0,1,0,FP_eliminado,"El agua usada por hectárea ha caído un 27 %, pero el consumo de electricidad se ha multiplicado por tres a causa del bombeo."
+B6,T32::r1,no-H,fiel,0,1,0,FP_eliminado,"3,1 millones de turistas, que pasaron allí 8,4 noches de media."
+B6,T32::r6,no-H,fiel,0,1,0,FP_eliminado,"Cada turista gastó de media 1.380 euros por viaje, y el 41 % de los visitantes de la isla fueron británicos."
+B6,G03::r2,no-H,fiel,0,1,0,FP_eliminado,"Las carretillas se entregarán en las instalaciones del comprador, en Zaragoza, como mucho 45 días naturales después de la firma. Si la entrega se retrasa, se aplica una penalización del 0,5 % del precio total por cada semana de retraso."
+B6,G06::r2,no-H,fiel,0,1,0,FP_eliminado,"En esa franja entraron 2.140 pedidos, frente a los 3.900 del día anterior a la misma hora."
+B6,G12::r1,no-H,fiel,0,1,0,FP_eliminado,"En el trimestre hubo dos accidentes con baja, uno en envasado y otro en el almacén, y cinco sin baja. El comité aprobó colocar barreras fotoeléctricas en las dos prensas de la línea 3, con fecha límite el 31 de julio. Durante junio, el turno de noche recibirá formación en manejo de cargas, que el de mañana ya hizo en abril. A petición de la delegada de prevención, un servicio externo medirá el ruido en la nave B."
+B6,G16::r2,no-H,fiel,0,1,0,FP_eliminado,"No se debe dar Calmidol más de tres días seguidos sin consultar al médico, y una vez abierto el frasco se conserva seis meses."
+B6,G17::r1,no-H,fiel,0,1,0,FP_eliminado,"Tras el alta, el paciente debe tomar un comprimido de amoxicilina con clavulánico de 875/125 mg cada ocho horas durante una semana. Además, se pondrá una inyección subcutánea diaria de enoxaparina de 40 mg durante diez días, siempre a la misma hora. Mientras dure el antibiótico tomará también omeprazol de 20 mg en ayunas. El paracetamol de 1 gramo se tomará cada ocho horas únicamente si hay dolor, sin superar 3 gramos al día."
+B6,R02::r1,no-H,fiel,0,1,0,FP_eliminado,"El espesor máximo del invierno 2023-2024, 94 centímetros, quedó 66 centímetros por debajo de la media de 1991-2020."
+B6,R05::r2,no-H,fiel,0,1,0,FP_eliminado,"En los dos juzgados, algo más de un tercio de los asuntos fueron despidos, y la memoria plantea un refuerzo temporal para el n.º 4."
+B6,R07::r3,no-H,fiel,0,1,0,FP_eliminado,Por ahora no se ha recuperado ningún fragmento.
+B6,R11::r1,no-H,fiel,0,0,1,FP_nuevo,"De las 142 funciones, 112 no fueron de ópera, y la ocupación media de la temporada fue del 78 %."
+B6,R13::r1,no-H,fiel,0,1,0,FP_eliminado,"El procedimiento clasifica las vulnerabilidades por su puntuación CVSS en crítica, alta, media y baja. Para las críticas distingue según la exposición: 72 horas si el sistema está expuesto a internet y 7 días naturales si es interno. Las altas tienen 30 días naturales y las medias, 90; las bajas pasan al mantenimiento ordinario. Si el parche no puede aplicarse a tiempo, el responsable del sistema puede pedir una excepción al comité de seguridad, justificada por escrito y con medidas compensatorias. Esa excepción dura como mucho 60 días y solo admite una renovación."
+B6,R15::r2,no-H,fiel,0,1,0,FP_eliminado,"Las dos modalidades se diferencian en velocidad y en el router: Hogar 600 trae wifi 5 y Hogar 1G, wifi 6. En Hogar 1G la mínima garantizada por cable es el 70 % de lo contratado. La instalación es gratuita con 12 meses de permanencia o cuesta 95 euros sin ella. Lo que llegue por wifi queda sin garantía."
+B6,H101::r6,H,fiel,0,0,1,FP_nuevo,"Peñalisa, que produce unas 18 toneladas de queso al año, menos que las 25 de Monteagrio, se impuso en la categoría de curados."
+B6,H101::r9,H,fiel,0,1,0,FP_eliminado,"Un jurado de nueve catadores, con Olvido Carranzal al frente, dio a Peñalisa el máximo galardón de los curados; Monteagrio fue segunda en esa categoría."
+B6,H102::r1,H,fiel,0,1,0,FP_eliminado,"Se vendieron 61.300 tapas, 6.500 más que en la edición de 2025."
+B6,H108::r1,H,fiel,0,1,0,FP_eliminado,"Abrió en abril de 2026, ocupa 48.000 metros cuadrados y da servicio a 130 tiendas."
+B6,H108::r8,H,fiel,0,1,0,FP_eliminado,"Seis de cada diez camiones de reparto del centro usan diésel y los demás, gas natural."
+B6,H111::r8,H,fiel,0,0,1,FP_nuevo,"Levantó 23 pozos en Tambaru en 2025, siete menos de los 30 que tenía previstos."
+B6,H112::r4,H,fiel,0,1,0,FP_eliminado,"Además de la visita de cada semana, desde octubre de 2025 se llama a diario a los 60 usuarios con más riesgo de aislamiento."
+B6,H113::r9,H,fiel,0,1,0,FP_eliminado,"Herminia Saldaña conduce «Despierta Vallebrío», el matinal de la emisora, que tiene 21.000 oyentes."
+B6,H114::r1,H,fiel,0,1,0,FP_eliminado,"Sumó 2.800 suscriptores digitales en 2025, hasta llegar a 12.600."
+B6,H114::r9,H,fiel,0,1,0,FP_eliminado,"En 2025 se incorporaron 6 periodistas a la redacción, todos en la sección de datos."
+B6,H115::r2,H,distorsion,1,1,0,FN_nuevo,"Entre falsos y engañosos, Comprobado detectó 1.100 contenidos en 2025."
+B6,H116::r3,H,fiel,0,1,0,FP_eliminado,Los otros dos pódcast de la red acumularon 81.000 reproducciones.
+B6,H117::r2,H,fiel,0,1,0,FP_eliminado,Entre la Diputación y los ayuntamientos aportaron 205.000 euros.
+B6,H118::r1,H,fiel,0,1,0,FP_eliminado,"Tiene 18 equipos de base, tres más que la temporada pasada, y 260 jugadores de 7 a 18 años; su cadete femenino fue campeón autonómico en abril y su cadete masculino, subcampeón."
+B6,H118::r4,H,fiel,0,1,0,FP_eliminado,"De sus 31 entrenadores, 19 no tienen el título de nivel II."
+B6,H120::r9,H,fiel,0,1,0,FP_eliminado,No hay actas de 1937 a 1939 porque se perdieron en el incendio del ayuntamiento de 1938.
+B6,H202::r1,H,fiel,0,1,0,FP_eliminado,La Hipoteca Joven financia hasta el 95 % del valor de tasación a menores de 36 años si la vivienda va a ser su residencia habitual.
+B6,H202::r7,H,fiel,0,1,0,FP_eliminado,"Para menores de 36 años la financiación llega al 95 % de la tasación, frente al 80 % para el resto de clientes; el diferencial es del 0,69 % sobre el euríbor desde marzo de 2026 y el importe medio firmado en 2026 ha sido de 168.000 euros."
+B6,H206::r1,H,fiel,0,1,0,FP_eliminado,"Cubre granizo, helada y viento huracanado en melocotón, pera y manzana."
+B6,H206::r2,H,sobregeneralizacion,1,1,0,FN_nuevo,"La póliza de Mutua Tolvera protege los frutales de la explotación frente al granizo, la helada y el viento huracanado."
+B6,H212::r3,H,fiel,0,1,0,FP_eliminado,Cinco de los 14 ciclos que ofrece el centro no se imparten en modalidad dual.
+B6,H213::r2,H,fiel,0,1,0,FP_eliminado,La dirección justifica el ERTE por la caída del 23 % de los pedidos de su principal cliente.
+B6,H213::r9,H,fiel,0,1,0,FP_eliminado,"El ERTE, firmado el 3 de febrero de 2026, afecta a 260 empleados de Vilanzo durante un máximo de 90 días por persona hasta el 31 de julio, con un complemento hasta el 85 % del salario bruto; la planta de Soterraña queda excluida."
+B6,H216::r7,H,fiel,0,0,1,FP_nuevo,En 2027 habrá 30 becas más que en la convocatoria de 2026.
+B6,H218::r7,H,fiel,0,0,1,FP_nuevo,"En 2025, 83 de las 214 pymes participantes no lograron ninguna venta exterior en los doce meses siguientes."
+B6,H302::r8,H,fiel,0,1,0,FP_eliminado,"Lo coordina la mediadora Itziar Galdóns y en 2025 atendió 412 procedimientos de familia, de los que 64 terminaron con acuerdo parcial."
+B6,H303::r6,H,fiel,0,1,0,FP_eliminado,"Tendrá 14 salas de vistas, dos de ellas preparadas para menores y víctimas vulnerables. Sustituirá a las tres sedes judiciales actuales, y el viejo edificio de la calle Mercaderes pasará a ser archivo judicial. La obra la ejecutará Hormigones Teixal, que se la adjudicó en mayo de 2026."
+B6,H306::r7,H,fiel,0,0,1,FP_nuevo,"De los 2.140 juicios celebrados en 2025, 1.380 no fueron por despido."
+B6,H308::r5,H,no_respaldado,1,1,0,FN_nuevo,"El dispositivo crece en 38 efectivos, hasta 412, para responder a las 1.870 hectáreas quemadas en 2025."
+B6,H308::r8,H,fiel,0,1,0,FP_eliminado,"La campaña irá del 1 de junio a mediados de octubre, en concreto hasta el día 15, con seis medios aéreos."
+B6,H309::r2,H,distorsion,1,1,0,FN_nuevo,"Las sirenas sonaron a las 10:05 y el confinamiento de los colegios se completó en 18 minutos, cuatro menos que en 2024."
+B6,H312::r1,H,fiel,0,0,1,FP_nuevo,"Abrió 18 refugios, siete más que en 2025."
+B6,H313::r3,H,fiel,0,1,0,FP_eliminado,"Para no sufrir penalizaciones, Redes Ábrego tendrá que haber conectado al menos 172 de los 214 núcleos en diciembre de 2027."
+B6,H313::r8,H,fiel,0,1,0,FP_eliminado,"Más de dos tercios de la inversión, 19,2 de los 27,4 millones, procede de fondos europeos."
+B6,H316::r9,H,fiel,0,1,0,FP_eliminado,"Cuando ya haya otra torre a menos de 250 metros, las operadoras tendrán que compartirla si es técnicamente viable. Además, las nuevas antenas tendrán que guardar más de 100 metros con colegios y centros de salud, excepto las pequeñas que vayan en fachadas."
+B6,H322::r1,H,fiel,0,1,0,FP_eliminado,"Los fondos europeos aportan 1,96 millones de los 2,8 millones del proyecto."
+B6,H401::r8,H,sobregeneralizacion,1,1,0,FN_nuevo,"Los municipios de la comarca de Valdesorbe ganaron población en 2025; Torralcina, por ejemplo, pasó de 17.960 a 18.420 habitantes."
+B6,H404::r4,H,fiel,0,1,0,FP_eliminado,"AVT ganó con 2.651 votos y 7 concejales, dos más que en 2019, y su candidata, Clotilde Olivenza, fue investida con el apoyo de Unión Serrana; el Partido Ribereño bajó de 7 a 5 ediles."
+B6,H408::r3,H,fiel,0,1,0,FP_eliminado,Menos de cuatro de cada diez víctimas presentaron denuncia.
+B6,H408::r5,H,distorsion,1,1,0,FN_nuevo,La Universidad de Ribafría hizo el trabajo de campo y la encuesta se repetirá en 2028.
+B6,H412::r9,H,fiel,0,1,0,FP_eliminado,"Con el 0,52 %, el tipo del IBI de Lerinda queda 0,09 puntos por debajo del de Montesorio."
+B6,H413::r3,H,distorsion,1,0,1,FN_eliminado,"Entre el distrito Centro (70,2 %) y Las Canteras (44,9 %) hubo una diferencia de participación de 15,3 puntos."
+B6,H416::r2,H,sobregeneralizacion,1,1,0,FN_nuevo,Los municipios de menos de 1.000 habitantes reciben como mínimo 90.000 euros cada uno.
+B6,H417::r3,H,fiel,0,0,1,FP_nuevo,"Con el acuerdo de junio de 2024, Futuro Ribagorza y Los Verdes del Esla suman 8 de los 13 concejales."
+B6,H418::r1,H,fiel,0,1,0,FP_eliminado,En 2025 las defunciones superaron a los nacimientos en 382 en la isla.
+B6,g07,no-H,fiel,0,1,0,FP_eliminado,"La reforma reduce la jornada laboral a 37,5 horas semanales. Entrará en vigor de forma gradual hasta 2026. Afecta a las empresas de más de 50 empleados."
+B7,e09::par,no-H,fiel,0,0,1,FP_nuevo,"En sus 1.200 hectáreas, el parque resguarda diversas especies de aves."
+B7,e14::par,no-H,fiel,0,1,0,FP_eliminado,La norma comenzó a aplicarse el 1 de enero y alcanza a diversas comunidades.
+B7,e17,no-H,fiel,0,1,0,FP_eliminado,El salario mínimo subió a 1.134 euros en 2024.
+B7,e17::par,no-H,fiel,0,1,0,FP_eliminado,En 2024 el sueldo mínimo quedó fijado en mil ciento treinta y cuatro euros.
+B7,e32,no-H,fiel,0,1,0,FP_eliminado,El corazón humano late unas 70 veces por minuto en reposo.
+B7,e47::par,no-H,fiel,0,1,0,FP_eliminado,El Sahara ocupa cerca de 9 millones de kilómetros cuadrados.
+B7,e49,no-H,fiel,0,1,0,FP_eliminado,El cable soporta velocidades de 10 gigabits por segundo.
+B7,e76,no-H,fiel,0,1,0,FP_eliminado,La luz del Sol tarda unos 8 minutos en llegar a la Tierra.
+B7,e83::par,no-H,fiel,0,1,0,FP_eliminado,"El paro se extendió a lo largo de más de una semana, ocho días."
+B7,e85,no-H,fiel,0,1,0,FP_eliminado,La fosa alcanza unos 11.000 metros de profundidad.
+B7,e85::par,no-H,fiel,0,1,0,FP_eliminado,La fosa llega a cerca de 11.000 metros de hondo.
+B7,e88,no-H,fiel,0,0,1,FP_nuevo,"En crecida, el río llega a 2.000 metros cúbicos por segundo."
+B7,s01,no-H,fiel,0,1,0,FP_eliminado,"El ensayo, con 1.800 participantes, halló que el fármaco reduce la presión un 12 % con efectos adversos leves."
+B7,s01::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con una muestra de 1.800 personas, el fármaco bajó la tensión un doce por ciento y apenas causó efectos adversos."
+B7,s04,no-H,fiel,0,1,0,FP_eliminado,"La sonda tardó siete meses en llegar, orbitó el planeta dos años y envió más de 30.000 imágenes."
+B7,s04::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Tras un viaje de siete meses, la nave pasó dos años en órbita y mandó más de 30.000 fotografías."
+B7,s09::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 18 goles de su delantero y solo 29 encajados, el conjunto terminó en tercera posición."
+B7,s11,no-H,fiel,0,1,0,FP_eliminado,"En octubre cayeron 120 litros por metro cuadrado en doce días de lluvia, con una media de 16 grados."
+B7,s11::fiel1,no-H,fiel,0,1,0,FP_eliminado,El mes dejó 120 litros por metro cuadrado repartidos en doce jornadas lluviosas y 16 grados de media.
+B7,s15::fiel1,no-H,fiel,0,1,0,FP_eliminado,"En sus 500 hectáreas, el humedal alberga 90 especies de aves y sirve de paso a las migratorias."
+B7,s24::fiel1,no-H,fiel,0,1,0,FP_eliminado,Con 400.000 dosis se inmunizó al 85 % de la población diana y los casos graves se redujeron a la mitad.
+B7,s25::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 20 playas de arena y un parque natural, la isla de clima templado se alcanza en ferry."
+B7,s26::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Sus 40 aerogeneradores producen 120 megavatios, suficientes para 90.000 hogares."
+B7,s27,no-H,fiel,0,1,0,FP_eliminado,"La nueva variedad rinde 6 toneladas por hectárea, resiste mejor la sequía y usa menos fertilizante."
+B7,s28,no-H,fiel,0,1,0,FP_eliminado,La exposición reunió 150 obras de diez museos y recibió 200.000 visitantes en seis meses.
+B7,s30,no-H,fiel,0,1,0,FP_eliminado,"Tras peatonalizar el centro, el tráfico cayó un 18 %, el transporte público ganó un 25 % de usuarios y se crearon 10 kilómetros de carril bici."
+B7,s30::fiel1,no-H,fiel,0,1,0,FP_eliminado,"La peatonalización redujo el tráfico un 18 %, sumó un 25 % de usuarios al transporte público y añadió 10 kilómetros de carril bici."
+B7,s32,no-H,fiel,0,1,0,FP_eliminado,"La aerolínea abrirá 6 rutas nuevas al sur de Europa, incorporará 10 aviones y creará 300 empleos."
+B7,s32::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 10 aviones nuevos y 300 empleos, la compañía estrenará 6 rutas hacia el sur de Europa."
+B7,s33,no-H,fiel,0,1,0,FP_eliminado,"El festival proyectó 120 películas ante 50.000 asistentes durante diez días, y premió una ópera prima."
+B7,s33::fiel1,no-H,fiel,0,1,0,FP_eliminado,"A lo largo de diez días, el certamen mostró 120 filmes a 50.000 personas y galardonó una ópera prima."
+B7,s34,no-H,fiel,0,1,0,FP_eliminado,"La biblioteca, con 25.000 socios y un fondo de 150.000 volúmenes, prestó 90.000 libros y organizó 200 actividades."
+B7,s34::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 25.000 socios, el centro prestó 90.000 libros de sus 150.000 volúmenes y programó 200 actividades."
+B7,s37::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 600 millones en cuatro años, el plan levantará 5.000 viviendas protegidas para jóvenes y familias."
+B7,s38,no-H,fiel,0,1,0,FP_eliminado,"La cooperativa, con 400 socios, facturó 30 millones y exportó aceite a 15 países, con un sello de calidad."
+B7,s40::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 4 millones, el programa dio 1.200 becas en 80 municipios y aprobó el 95 % de sus beneficiarios."
+B7,N06::r1,no-H,fiel,0,1,0,FP_eliminado,"La catalogación de los 4.600 libros, 230 cartas y 12 cuadernos del legado concluyó en junio de 2025, tras once meses."
+B7,N09::r1,no-H,fiel,0,1,0,FP_eliminado,"Entre los dos centros atendieron 326.000 llamadas, y en ambos tres de cada diez no eran urgentes."
+B7,N09::r2,no-H,fiel,0,1,0,FP_eliminado,"El Sur respondió de media en 9 segundos, dos más que el Norte, y atendió un tres por ciento menos de llamadas que en 2024."
+B7,N14::r2,no-H,fiel,0,0,1,FP_nuevo,"La primera fase, un filtro de mangas nuevo, ya terminó en 2025."
+B7,N26::r4,no-H,contradiccion,1,1,0,FN_nuevo,"La mayor parte de los alimentos repartidos procedió de donaciones de supermercados, que aportaron el 45 % de las 610 toneladas."
+B7,T08::r3,no-H,fiel,0,1,0,FP_eliminado,"En ciudad la media bajó un minuto respecto a 2024, hasta los 14 minutos."
+B7,T09::r1,no-H,fiel,0,1,0,FP_eliminado,"Con 21 triunfos y 9 derrotas, dos victorias más que el Morón."
+B7,T09::r4,no-H,no_respaldado,1,1,0,FN_nuevo,"Terminó con un balance de 21-9, lo que le da el factor cancha en la semifinal ante el Morón."
+B7,T09::r5,no-H,fiel,0,1,0,FP_eliminado,"Acabó 21-9, con 81,4 puntos por partido, y se medirá al Morón en semifinales."
+B7,T13::r2,no-H,fiel,0,1,0,FP_eliminado,"Vendió 1.200 entradas más que en la edición anterior, hasta 9.800."
+B7,T13::r4,no-H,sobregeneralizacion,1,1,0,FN_nuevo,Las funciones del festival fueron gratuitas y reunieron a unas 15.000 personas.
+B7,T18::r2,no-H,fiel,0,1,0,FP_eliminado,"4.870, frente a los 3.100 de 2024, cuando tenía siete cámaras menos."
+B7,T19::r5,no-H,no_respaldado,1,1,0,FN_nuevo,"Un 78 % trabajaba a los seis meses de acabar, lo que explica que el ciclo recibiera 112 solicitudes para sus 40 plazas."
+B7,T21::r1,no-H,fiel,0,1,0,FP_eliminado,"Los alumnos de primero y segundo de ESO que suspendieron Matemáticas el curso anterior reciben dos horas de refuerzo a la semana, en grupos de ocho como mucho."
+B7,T22::r6,no-H,fiel,0,0,1,FP_nuevo,Desde marzo de 2025 pasa cada 8 minutos en hora punta.
+B7,T29::r1,no-H,fiel,0,1,0,FP_eliminado,"Recogió 41 millones de kilos de aceituna, 12 millones más que la campaña anterior."
+B7,T30::r1,no-H,fiel,0,1,0,FP_eliminado,"El agua usada por hectárea ha caído un 27 %, pero el consumo de electricidad se ha multiplicado por tres a causa del bombeo."
+B7,T32::r1,no-H,fiel,0,1,0,FP_eliminado,"3,1 millones de turistas, que pasaron allí 8,4 noches de media."
+B7,T32::r6,no-H,fiel,0,1,0,FP_eliminado,"Cada turista gastó de media 1.380 euros por viaje, y el 41 % de los visitantes de la isla fueron británicos."
+B7,G03::r2,no-H,fiel,0,1,0,FP_eliminado,"Las carretillas se entregarán en las instalaciones del comprador, en Zaragoza, como mucho 45 días naturales después de la firma. Si la entrega se retrasa, se aplica una penalización del 0,5 % del precio total por cada semana de retraso."
+B7,G06::r2,no-H,fiel,0,1,0,FP_eliminado,"En esa franja entraron 2.140 pedidos, frente a los 3.900 del día anterior a la misma hora."
+B7,G12::r1,no-H,fiel,0,1,0,FP_eliminado,"En el trimestre hubo dos accidentes con baja, uno en envasado y otro en el almacén, y cinco sin baja. El comité aprobó colocar barreras fotoeléctricas en las dos prensas de la línea 3, con fecha límite el 31 de julio. Durante junio, el turno de noche recibirá formación en manejo de cargas, que el de mañana ya hizo en abril. A petición de la delegada de prevención, un servicio externo medirá el ruido en la nave B."
+B7,G17::r1,no-H,fiel,0,1,0,FP_eliminado,"Tras el alta, el paciente debe tomar un comprimido de amoxicilina con clavulánico de 875/125 mg cada ocho horas durante una semana. Además, se pondrá una inyección subcutánea diaria de enoxaparina de 40 mg durante diez días, siempre a la misma hora. Mientras dure el antibiótico tomará también omeprazol de 20 mg en ayunas. El paracetamol de 1 gramo se tomará cada ocho horas únicamente si hay dolor, sin superar 3 gramos al día."
+B7,R02::r1,no-H,fiel,0,1,0,FP_eliminado,"El espesor máximo del invierno 2023-2024, 94 centímetros, quedó 66 centímetros por debajo de la media de 1991-2020."
+B7,R06::r2,no-H,fiel,0,1,0,FP_eliminado,"Los dos cometas los captó el telescopio de 1,2 metros del observatorio, en febrero y en mayo de 2024."
+B7,R07::r3,no-H,fiel,0,1,0,FP_eliminado,Por ahora no se ha recuperado ningún fragmento.
+B7,R11::r1,no-H,fiel,0,0,1,FP_nuevo,"De las 142 funciones, 112 no fueron de ópera, y la ocupación media de la temporada fue del 78 %."
+B7,R13::r1,no-H,fiel,0,1,0,FP_eliminado,"El procedimiento clasifica las vulnerabilidades por su puntuación CVSS en crítica, alta, media y baja. Para las críticas distingue según la exposición: 72 horas si el sistema está expuesto a internet y 7 días naturales si es interno. Las altas tienen 30 días naturales y las medias, 90; las bajas pasan al mantenimiento ordinario. Si el parche no puede aplicarse a tiempo, el responsable del sistema puede pedir una excepción al comité de seguridad, justificada por escrito y con medidas compensatorias. Esa excepción dura como mucho 60 días y solo admite una renovación."
+B7,R15::r2,no-H,fiel,0,1,0,FP_eliminado,"Las dos modalidades se diferencian en velocidad y en el router: Hogar 600 trae wifi 5 y Hogar 1G, wifi 6. En Hogar 1G la mínima garantizada por cable es el 70 % de lo contratado. La instalación es gratuita con 12 meses de permanencia o cuesta 95 euros sin ella. Lo que llegue por wifi queda sin garantía."
+B7,H101::r6,H,fiel,0,0,1,FP_nuevo,"Peñalisa, que produce unas 18 toneladas de queso al año, menos que las 25 de Monteagrio, se impuso en la categoría de curados."
+B7,H101::r9,H,fiel,0,1,0,FP_eliminado,"Un jurado de nueve catadores, con Olvido Carranzal al frente, dio a Peñalisa el máximo galardón de los curados; Monteagrio fue segunda en esa categoría."
+B7,H102::r1,H,fiel,0,1,0,FP_eliminado,"Se vendieron 61.300 tapas, 6.500 más que en la edición de 2025."
+B7,H108::r1,H,fiel,0,1,0,FP_eliminado,"Abrió en abril de 2026, ocupa 48.000 metros cuadrados y da servicio a 130 tiendas."
+B7,H108::r8,H,fiel,0,1,0,FP_eliminado,"Seis de cada diez camiones de reparto del centro usan diésel y los demás, gas natural."
+B7,H111::r2,H,fiel,0,0,1,FP_nuevo,"Los donantes particulares aportaron el 30 % de los 690.000 euros, es decir, 207.000 euros."
+B7,H111::r8,H,fiel,0,0,1,FP_nuevo,"Levantó 23 pozos en Tambaru en 2025, siete menos de los 30 que tenía previstos."
+B7,H112::r4,H,fiel,0,1,0,FP_eliminado,"Además de la visita de cada semana, desde octubre de 2025 se llama a diario a los 60 usuarios con más riesgo de aislamiento."
+B7,H113::r9,H,fiel,0,1,0,FP_eliminado,"Herminia Saldaña conduce «Despierta Vallebrío», el matinal de la emisora, que tiene 21.000 oyentes."
+B7,H114::r1,H,fiel,0,1,0,FP_eliminado,"Sumó 2.800 suscriptores digitales en 2025, hasta llegar a 12.600."
+B7,H114::r9,H,fiel,0,1,0,FP_eliminado,"En 2025 se incorporaron 6 periodistas a la redacción, todos en la sección de datos."
+B7,H115::r2,H,distorsion,1,1,0,FN_nuevo,"Entre falsos y engañosos, Comprobado detectó 1.100 contenidos en 2025."
+B7,H116::r3,H,fiel,0,1,0,FP_eliminado,Los otros dos pódcast de la red acumularon 81.000 reproducciones.
+B7,H117::r2,H,fiel,0,1,0,FP_eliminado,Entre la Diputación y los ayuntamientos aportaron 205.000 euros.
+B7,H118::r1,H,fiel,0,1,0,FP_eliminado,"Tiene 18 equipos de base, tres más que la temporada pasada, y 260 jugadores de 7 a 18 años; su cadete femenino fue campeón autonómico en abril y su cadete masculino, subcampeón."
+B7,H118::r4,H,fiel,0,1,0,FP_eliminado,"De sus 31 entrenadores, 19 no tienen el título de nivel II."
+B7,H120::r9,H,fiel,0,1,0,FP_eliminado,No hay actas de 1937 a 1939 porque se perdieron en el incendio del ayuntamiento de 1938.
+B7,H201::r1,H,fiel,0,1,0,FP_eliminado,"La Cuenta Horizonte paga un 2,1 % TAE los primeros seis meses y un 1,2 % TAE desde el séptimo mes."
+B7,H202::r1,H,fiel,0,1,0,FP_eliminado,La Hipoteca Joven financia hasta el 95 % del valor de tasación a menores de 36 años si la vivienda va a ser su residencia habitual.
+B7,H202::r7,H,fiel,0,1,0,FP_eliminado,"Para menores de 36 años la financiación llega al 95 % de la tasación, frente al 80 % para el resto de clientes; el diferencial es del 0,69 % sobre el euríbor desde marzo de 2026 y el importe medio firmado en 2026 ha sido de 168.000 euros."
+B7,H212::r3,H,fiel,0,1,0,FP_eliminado,Cinco de los 14 ciclos que ofrece el centro no se imparten en modalidad dual.
+B7,H213::r2,H,fiel,0,1,0,FP_eliminado,La dirección justifica el ERTE por la caída del 23 % de los pedidos de su principal cliente.
+B7,H213::r9,H,fiel,0,1,0,FP_eliminado,"El ERTE, firmado el 3 de febrero de 2026, afecta a 260 empleados de Vilanzo durante un máximo de 90 días por persona hasta el 31 de julio, con un complemento hasta el 85 % del salario bruto; la planta de Soterraña queda excluida."
+B7,H216::r7,H,fiel,0,0,1,FP_nuevo,En 2027 habrá 30 becas más que en la convocatoria de 2026.
+B7,H218::r7,H,fiel,0,0,1,FP_nuevo,"En 2025, 83 de las 214 pymes participantes no lograron ninguna venta exterior en los doce meses siguientes."
+B7,H302::r8,H,fiel,0,1,0,FP_eliminado,"Lo coordina la mediadora Itziar Galdóns y en 2025 atendió 412 procedimientos de familia, de los que 64 terminaron con acuerdo parcial."
+B7,H303::r6,H,fiel,0,1,0,FP_eliminado,"Tendrá 14 salas de vistas, dos de ellas preparadas para menores y víctimas vulnerables. Sustituirá a las tres sedes judiciales actuales, y el viejo edificio de la calle Mercaderes pasará a ser archivo judicial. La obra la ejecutará Hormigones Teixal, que se la adjudicó en mayo de 2026."
+B7,H306::r7,H,fiel,0,0,1,FP_nuevo,"De los 2.140 juicios celebrados en 2025, 1.380 no fueron por despido."
+B7,H308::r5,H,no_respaldado,1,1,0,FN_nuevo,"El dispositivo crece en 38 efectivos, hasta 412, para responder a las 1.870 hectáreas quemadas en 2025."
+B7,H308::r8,H,fiel,0,1,0,FP_eliminado,"La campaña irá del 1 de junio a mediados de octubre, en concreto hasta el día 15, con seis medios aéreos."
+B7,H312::r1,H,fiel,0,0,1,FP_nuevo,"Abrió 18 refugios, siete más que en 2025."
+B7,H313::r3,H,fiel,0,1,0,FP_eliminado,"Para no sufrir penalizaciones, Redes Ábrego tendrá que haber conectado al menos 172 de los 214 núcleos en diciembre de 2027."
+B7,H313::r8,H,fiel,0,1,0,FP_eliminado,"Más de dos tercios de la inversión, 19,2 de los 27,4 millones, procede de fondos europeos."
+B7,H316::r9,H,fiel,0,1,0,FP_eliminado,"Cuando ya haya otra torre a menos de 250 metros, las operadoras tendrán que compartirla si es técnicamente viable. Además, las nuevas antenas tendrán que guardar más de 100 metros con colegios y centros de salud, excepto las pequeñas que vayan en fachadas."
+B7,H322::r1,H,fiel,0,1,0,FP_eliminado,"Los fondos europeos aportan 1,96 millones de los 2,8 millones del proyecto."
+B7,H401::r8,H,sobregeneralizacion,1,1,0,FN_nuevo,"Los municipios de la comarca de Valdesorbe ganaron población en 2025; Torralcina, por ejemplo, pasó de 17.960 a 18.420 habitantes."
+B7,H404::r4,H,fiel,0,1,0,FP_eliminado,"AVT ganó con 2.651 votos y 7 concejales, dos más que en 2019, y su candidata, Clotilde Olivenza, fue investida con el apoyo de Unión Serrana; el Partido Ribereño bajó de 7 a 5 ediles."
+B7,H408::r3,H,fiel,0,1,0,FP_eliminado,Menos de cuatro de cada diez víctimas presentaron denuncia.
+B7,H408::r5,H,distorsion,1,1,0,FN_nuevo,La Universidad de Ribafría hizo el trabajo de campo y la encuesta se repetirá en 2028.
+B7,H412::r9,H,fiel,0,1,0,FP_eliminado,"Con el 0,52 %, el tipo del IBI de Lerinda queda 0,09 puntos por debajo del de Montesorio."
+B7,H413::r3,H,distorsion,1,0,1,FN_eliminado,"Entre el distrito Centro (70,2 %) y Las Canteras (44,9 %) hubo una diferencia de participación de 15,3 puntos."
+B7,H417::r3,H,fiel,0,0,1,FP_nuevo,"Con el acuerdo de junio de 2024, Futuro Ribagorza y Los Verdes del Esla suman 8 de los 13 concejales."
+B7,H418::r1,H,fiel,0,1,0,FP_eliminado,En 2025 las defunciones superaron a los nacimientos en 382 en la isla.
+B7,g07,no-H,fiel,0,1,0,FP_eliminado,"La reforma reduce la jornada laboral a 37,5 horas semanales. Entrará en vigor de forma gradual hasta 2026. Afecta a las empresas de más de 50 empleados."
+B1_norm,e17,no-H,fiel,0,1,0,FP_eliminado,El salario mínimo subió a 1.134 euros en 2024.
+B1_norm,e17::par,no-H,fiel,0,1,0,FP_eliminado,En 2024 el sueldo mínimo quedó fijado en mil ciento treinta y cuatro euros.
+B1_norm,e32,no-H,fiel,0,1,0,FP_eliminado,El corazón humano late unas 70 veces por minuto en reposo.
+B1_norm,e43::par,no-H,fiel,0,1,0,FP_eliminado,El relato alude a una docena de trabajos del héroe.
+B1_norm,e47::par,no-H,fiel,0,1,0,FP_eliminado,El Sahara ocupa cerca de 9 millones de kilómetros cuadrados.
+B1_norm,e49,no-H,fiel,0,1,0,FP_eliminado,El cable soporta velocidades de 10 gigabits por segundo.
+B1_norm,e76,no-H,fiel,0,1,0,FP_eliminado,La luz del Sol tarda unos 8 minutos en llegar a la Tierra.
+B1_norm,e85,no-H,fiel,0,1,0,FP_eliminado,La fosa alcanza unos 11.000 metros de profundidad.
+B1_norm,e85::par,no-H,fiel,0,1,0,FP_eliminado,La fosa llega a cerca de 11.000 metros de hondo.
+B1_norm,s01::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con una muestra de 1.800 personas, el fármaco bajó la tensión un doce por ciento y apenas causó efectos adversos."
+B1_norm,s09::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 18 goles de su delantero y solo 29 encajados, el conjunto terminó en tercera posición."
+B1_norm,s26::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Sus 40 aerogeneradores producen 120 megavatios, suficientes para 90.000 hogares."
+B1_norm,s32::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 10 aviones nuevos y 300 empleos, la compañía estrenará 6 rutas hacia el sur de Europa."
+B1_norm,s33::fiel1,no-H,fiel,0,1,0,FP_eliminado,"A lo largo de diez días, el certamen mostró 120 filmes a 50.000 personas y galardonó una ópera prima."
+B1_norm,N09::r2,no-H,fiel,0,1,0,FP_eliminado,"El Sur respondió de media en 9 segundos, dos más que el Norte, y atendió un tres por ciento menos de llamadas que en 2024."
+B1_norm,T09::r1,no-H,fiel,0,1,0,FP_eliminado,"Con 21 triunfos y 9 derrotas, dos victorias más que el Morón."
+B1_norm,T09::r5,no-H,fiel,0,1,0,FP_eliminado,"Acabó 21-9, con 81,4 puntos por partido, y se medirá al Morón en semifinales."
+B1_norm,T11::r1,no-H,fiel,0,1,0,FP_eliminado,"Rubén Gil ganó en 9 horas y 12 minutos y Nerea Ochoa, en 10 horas y 47."
+B1_norm,T13::r2,no-H,fiel,0,1,0,FP_eliminado,"Vendió 1.200 entradas más que en la edición anterior, hasta 9.800."
+B1_norm,T13::r4,no-H,sobregeneralizacion,1,1,0,FN_nuevo,Las funciones del festival fueron gratuitas y reunieron a unas 15.000 personas.
+B1_norm,T21::r1,no-H,fiel,0,1,0,FP_eliminado,"Los alumnos de primero y segundo de ESO que suspendieron Matemáticas el curso anterior reciben dos horas de refuerzo a la semana, en grupos de ocho como mucho."
+B1_norm,G06::r1,no-H,fiel,0,1,0,FP_eliminado,"Durante la campaña de rebajas del 7 de enero, la tienda funcionó peor entre las 11:00 y las 11:40. En ese tramo, la página de producto tardaba de media 6,8 segundos en cargar, cuando lo normal es 0,9. El inicio y el carrito siguieron respondiendo con normalidad. El autoescalado del catálogo intentó sumar seis instancias, pero se topó con el máximo de 12. A las 11:15 se subió ese límite a mano hasta 24 y, a las 11:40, la página de producto ya cargaba en 1,1 segundos."
+B1_norm,G06::r2,no-H,fiel,0,1,0,FP_eliminado,"En esa franja entraron 2.140 pedidos, frente a los 3.900 del día anterior a la misma hora."
+B1_norm,G12::r1,no-H,fiel,0,1,0,FP_eliminado,"En el trimestre hubo dos accidentes con baja, uno en envasado y otro en el almacén, y cinco sin baja. El comité aprobó colocar barreras fotoeléctricas en las dos prensas de la línea 3, con fecha límite el 31 de julio. Durante junio, el turno de noche recibirá formación en manejo de cargas, que el de mañana ya hizo en abril. A petición de la delegada de prevención, un servicio externo medirá el ruido en la nave B."
+B1_norm,G17::r1,no-H,fiel,0,1,0,FP_eliminado,"Tras el alta, el paciente debe tomar un comprimido de amoxicilina con clavulánico de 875/125 mg cada ocho horas durante una semana. Además, se pondrá una inyección subcutánea diaria de enoxaparina de 40 mg durante diez días, siempre a la misma hora. Mientras dure el antibiótico tomará también omeprazol de 20 mg en ayunas. El paracetamol de 1 gramo se tomará cada ocho horas únicamente si hay dolor, sin superar 3 gramos al día."
+B1_norm,R02::r1,no-H,fiel,0,1,0,FP_eliminado,"El espesor máximo del invierno 2023-2024, 94 centímetros, quedó 66 centímetros por debajo de la media de 1991-2020."
+B1_norm,R07::r3,no-H,fiel,0,1,0,FP_eliminado,Por ahora no se ha recuperado ningún fragmento.
+B1_norm,H102::r1,H,fiel,0,1,0,FP_eliminado,"Se vendieron 61.300 tapas, 6.500 más que en la edición de 2025."
+B1_norm,H103::r8,H,fiel,0,1,0,FP_eliminado,"Los alimentos los suministran 19 productores de la comarca, todos con certificación ecológica."
+B1_norm,H108::r8,H,fiel,0,1,0,FP_eliminado,"Seis de cada diez camiones de reparto del centro usan diésel y los demás, gas natural."
+B1_norm,H112::r4,H,fiel,0,1,0,FP_eliminado,"Además de la visita de cada semana, desde octubre de 2025 se llama a diario a los 60 usuarios con más riesgo de aislamiento."
+B1_norm,H113::r9,H,fiel,0,1,0,FP_eliminado,"Herminia Saldaña conduce «Despierta Vallebrío», el matinal de la emisora, que tiene 21.000 oyentes."
+B1_norm,H114::r9,H,fiel,0,1,0,FP_eliminado,"En 2025 se incorporaron 6 periodistas a la redacción, todos en la sección de datos."
+B1_norm,H117::r3,H,distorsion,1,1,0,FN_nuevo,El fútbol sala y el baloncesto sumaron entre los dos 1.980 inscritos.
+B1_norm,H118::r4,H,fiel,0,1,0,FP_eliminado,"De sus 31 entrenadores, 19 no tienen el título de nivel II."
+B1_norm,H120::r9,H,fiel,0,1,0,FP_eliminado,No hay actas de 1937 a 1939 porque se perdieron en el incendio del ayuntamiento de 1938.
+B1_norm,H216::r7,H,fiel,0,0,1,FP_nuevo,En 2027 habrá 30 becas más que en la convocatoria de 2026.
+B1_norm,H303::r6,H,fiel,0,1,0,FP_eliminado,"Tendrá 14 salas de vistas, dos de ellas preparadas para menores y víctimas vulnerables. Sustituirá a las tres sedes judiciales actuales, y el viejo edificio de la calle Mercaderes pasará a ser archivo judicial. La obra la ejecutará Hormigones Teixal, que se la adjudicó en mayo de 2026."
+B1_norm,H303::r7,H,no_respaldado,1,1,0,FN_nuevo,"Concentrará en un único edificio las tres sedes judiciales actuales para ahorrar en alquileres, con 14 salas de vistas."
+B1_norm,H313::r8,H,fiel,0,1,0,FP_eliminado,"Más de dos tercios de la inversión, 19,2 de los 27,4 millones, procede de fondos europeos."
+B1_norm,H316::r1,H,fiel,0,0,1,FP_nuevo,"De las 46 antenas actuales del municipio, 27 no están en azoteas de edificios residenciales."
+B1_norm,H412::r9,H,fiel,0,1,0,FP_eliminado,"Con el 0,52 %, el tipo del IBI de Lerinda queda 0,09 puntos por debajo del de Montesorio."
+B1_norm,g04,no-H,fiel,0,0,1,FP_nuevo,La sonda despegó en marzo y tardó siete meses en llegar a su destino. Orbitó el planeta durante dos años. A lo largo de la misión envió más de 30.000 imágenes a la Tierra.
+B0_sin_NLI,e14::par,no-H,fiel,0,1,0,FP_eliminado,La norma comenzó a aplicarse el 1 de enero y alcanza a diversas comunidades.
+B0_sin_NLI,e17,no-H,fiel,0,1,0,FP_eliminado,El salario mínimo subió a 1.134 euros en 2024.
+B0_sin_NLI,e27::par,no-H,fiel,0,1,0,FP_eliminado,La terapia rebajó la sintomatología en cuatro de cada diez pacientes.
+B0_sin_NLI,e28,no-H,fiel,0,0,1,FP_nuevo,Portugal limita al este y al norte con España.
+B0_sin_NLI,e32,no-H,fiel,0,1,0,FP_eliminado,El corazón humano late unas 70 veces por minuto en reposo.
+B0_sin_NLI,e35::par,no-H,fiel,0,0,1,FP_nuevo,La complejidad del algoritmo es de orden n log n.
+B0_sin_NLI,e40::sutil,no-H,no_respaldado,1,1,0,FN_nuevo,La imponente catedral se terminó en 1882 tras varias décadas de obras.
+B0_sin_NLI,e47::par,no-H,fiel,0,1,0,FP_eliminado,El Sahara ocupa cerca de 9 millones de kilómetros cuadrados.
+B0_sin_NLI,e48::sutil,no-H,no_respaldado,1,1,0,FN_nuevo,La histórica caída del muro ocurrió en 1989.
+B0_sin_NLI,e49,no-H,fiel,0,1,0,FP_eliminado,El cable soporta velocidades de 10 gigabits por segundo.
+B0_sin_NLI,e76,no-H,fiel,0,1,0,FP_eliminado,La luz del Sol tarda unos 8 minutos en llegar a la Tierra.
+B0_sin_NLI,e81::par,no-H,fiel,0,1,0,FP_eliminado,La distancia media de la Tierra al Sol ronda los 150 millones de kilómetros.
+B0_sin_NLI,e83::par,no-H,fiel,0,1,0,FP_eliminado,"El paro se extendió a lo largo de más de una semana, ocho días."
+B0_sin_NLI,e85,no-H,fiel,0,1,0,FP_eliminado,La fosa alcanza unos 11.000 metros de profundidad.
+B0_sin_NLI,e85::par,no-H,fiel,0,1,0,FP_eliminado,La fosa llega a cerca de 11.000 metros de hondo.
+B0_sin_NLI,e98::par,no-H,fiel,0,1,0,FP_eliminado,Octubre dejó 120 litros por metro cuadrado de lluvia.
+B0_sin_NLI,s01,no-H,fiel,0,1,0,FP_eliminado,"El ensayo, con 1.800 participantes, halló que el fármaco reduce la presión un 12 % con efectos adversos leves."
+B0_sin_NLI,s01::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con una muestra de 1.800 personas, el fármaco bajó la tensión un doce por ciento y apenas causó efectos adversos."
+B0_sin_NLI,s03::fiel1,no-H,fiel,0,0,1,FP_nuevo,"Con 310 trabajadores, la compañía ingresó 42 millones y estrenó dos sedes en el ejercicio."
+B0_sin_NLI,s09,no-H,fiel,0,1,0,FP_eliminado,"El club acabó tercero, su delantero marcó 18 goles y el equipo encajó 29 en la temporada."
+B0_sin_NLI,s10::fiel1,no-H,fiel,0,0,1,FP_nuevo,"La norma baja la jornada a 37,5 horas semanales, con entrada escalonada hasta 2026 para plantillas de más de 50 personas."
+B0_sin_NLI,s20::fiel1,no-H,fiel,0,0,1,FP_nuevo,"Con 12.000 vecinos y 5.000 viviendas, el municipio promedia 44 años de edad."
+B0_sin_NLI,s23,no-H,fiel,0,1,0,FP_eliminado,"La línea tendrá 14 estaciones en 18 kilómetros, conectará el norte con el aeropuerto y costará 1.800 millones."
+B0_sin_NLI,s23::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 14 estaciones a lo largo de 18 kilómetros, la línea unirá el norte y el aeropuerto por 1.800 millones."
+B0_sin_NLI,s29::fiel1,no-H,fiel,0,0,1,FP_nuevo,"Con 2 millones de usuarios en ocho países y 60 empleados, la empresa captó 15 millones."
+B0_sin_NLI,s30,no-H,fiel,0,1,0,FP_eliminado,"Tras peatonalizar el centro, el tráfico cayó un 18 %, el transporte público ganó un 25 % de usuarios y se crearon 10 kilómetros de carril bici."
+B0_sin_NLI,s34,no-H,fiel,0,1,0,FP_eliminado,"La biblioteca, con 25.000 socios y un fondo de 150.000 volúmenes, prestó 90.000 libros y organizó 200 actividades."
+B0_sin_NLI,N02::r1,no-H,fiel,0,0,1,FP_nuevo,"Se vendieron 11.400 de los 12.000 bonos, así que 600 quedaron sin vender; cada bono daba 10 euros más de compra de lo que costaba."
+B0_sin_NLI,N11::r1,no-H,fiel,0,1,0,FP_eliminado,"Durante febrero y marzo de 2026 pararán 34 arrastreros, mientras las barcas de artes menores podrán seguir faenando."
+B0_sin_NLI,N14::r1,no-H,fiel,0,1,0,FP_eliminado,"El plan, de 45 millones hasta 2028, prevé reemplazar por biomasa y residuos el 40 % del combustible fósil del horno."
+B0_sin_NLI,N28::r1,no-H,fiel,0,1,0,FP_eliminado,"Entre ambas oficinas gestionaron 238 rodajes, 49 de ellos largometrajes."
+B0_sin_NLI,N29::r1,no-H,fiel,0,1,0,FP_eliminado,"La película muda de 1927 se restauró en 4K durante 14 meses, a partir de copias en nitrato de archivos de Buenos Aires y Lyon, y recuperó 11 minutos que faltaban."
+B0_sin_NLI,T06::r6,no-H,fiel,0,1,0,FP_eliminado,"En 2025 se invitó a 210.000 personas de 50 a 69 años y respondió el 47 %, con más participación femenina (52 %) que masculina (42 %)."
+B0_sin_NLI,T09::r1,no-H,fiel,0,1,0,FP_eliminado,"Con 21 triunfos y 9 derrotas, dos victorias más que el Morón."
+B0_sin_NLI,T09::r4,no-H,no_respaldado,1,1,0,FN_nuevo,"Terminó con un balance de 21-9, lo que le da el factor cancha en la semifinal ante el Morón."
+B0_sin_NLI,T09::r5,no-H,fiel,0,1,0,FP_eliminado,"Acabó 21-9, con 81,4 puntos por partido, y se medirá al Morón en semifinales."
+B0_sin_NLI,T11::r1,no-H,fiel,0,1,0,FP_eliminado,"Rubén Gil ganó en 9 horas y 12 minutos y Nerea Ochoa, en 10 horas y 47."
+B0_sin_NLI,T12::r2,no-H,no_respaldado,1,1,0,FN_nuevo,"Recibió 182.000 visitas, un 14 % más, impulsadas por la exposición de cerámica de l'Alcora, que atrajo a 51.000 personas."
+B0_sin_NLI,T13::r2,no-H,fiel,0,1,0,FP_eliminado,"Vendió 1.200 entradas más que en la edición anterior, hasta 9.800."
+B0_sin_NLI,T13::r4,no-H,sobregeneralizacion,1,1,0,FN_nuevo,Las funciones del festival fueron gratuitas y reunieron a unas 15.000 personas.
+B0_sin_NLI,T18::r1,no-H,fiel,0,1,0,FP_eliminado,"Registró 4.870 bólidos con sus 22 cámaras repartidas entre Antofagasta y Atacama, y en agosto, coincidiendo con las Perseidas, hubo más detecciones que en cualquier otro mes."
+B0_sin_NLI,T18::r2,no-H,fiel,0,1,0,FP_eliminado,"4.870, frente a los 3.100 de 2024, cuando tenía siete cámaras menos."
+B0_sin_NLI,T18::r6,no-H,fiel,0,1,0,FP_eliminado,"La red, que gestiona la Universidad Católica del Norte, contabilizó 4.870 bólidos en 2025."
+B0_sin_NLI,T21::r1,no-H,fiel,0,1,0,FP_eliminado,"Los alumnos de primero y segundo de ESO que suspendieron Matemáticas el curso anterior reciben dos horas de refuerzo a la semana, en grupos de ocho como mucho."
+B0_sin_NLI,T23::r1,no-H,fiel,0,1,0,FP_eliminado,"Hubo 1,1 millones de usos, y las bicicletas eléctricas, que son un tercio de las 450 de la flota, acumularon seis de cada diez."
+B0_sin_NLI,T29::r1,no-H,fiel,0,1,0,FP_eliminado,"Recogió 41 millones de kilos de aceituna, 12 millones más que la campaña anterior."
+B0_sin_NLI,T30::r1,no-H,fiel,0,1,0,FP_eliminado,"El agua usada por hectárea ha caído un 27 %, pero el consumo de electricidad se ha multiplicado por tres a causa del bombeo."
+B0_sin_NLI,T33::r2,no-H,no_respaldado,1,1,0,FN_nuevo,"Fue del 68 %, impulsada por la llegada del Tren Maya."
+B0_sin_NLI,G02::r2,no-H,fiel,0,0,1,FP_nuevo,"El contrato dura un año y se prorroga automáticamente por años, salvo que se denuncie con un mes de antelación."
+B0_sin_NLI,G03::r1,no-H,fiel,0,1,0,FP_eliminado,"Se venden dos carretillas: una eléctrica, la CE-25, por 18.500 euros, y una diésel, la CD-30, por 21.000, lo que suma 39.500 euros sin IVA. El comprador paga el 30 % al firmar y el 70 % restante cuando las recibe. La eléctrica tiene dos años de garantía y la diésel uno, contados desde la entrega. Quedan fuera de la garantía los neumáticos, las horquillas y los daños causados por un mal uso."
+B0_sin_NLI,G03::r2,no-H,fiel,0,1,0,FP_eliminado,"Las carretillas se entregarán en las instalaciones del comprador, en Zaragoza, como mucho 45 días naturales después de la firma. Si la entrega se retrasa, se aplica una penalización del 0,5 % del precio total por cada semana de retraso."
+B0_sin_NLI,G04::r1,no-H,fiel,0,1,0,FP_eliminado,"El 14 de mayo, entre las 09:12 y las 10:47, la API de pagos respondió con errores 503 a un 38 % de las peticiones. Todo empezó tras desplegar la versión 4.18.0 en el clúster pay-eu-1, donde se agotó el pool de conexiones a la base de datos; pay-eu-2 siguió funcionando bien. El fallo venía de que la nueva versión abría una conexión por cada reintento sin soltar la anterior. A las 10:20 se volvió a la 4.17.3 y los errores fueron bajando hasta normalizarse a las 10:47."
+B0_sin_NLI,G06::r1,no-H,fiel,0,1,0,FP_eliminado,"Durante la campaña de rebajas del 7 de enero, la tienda funcionó peor entre las 11:00 y las 11:40. En ese tramo, la página de producto tardaba de media 6,8 segundos en cargar, cuando lo normal es 0,9. El inicio y el carrito siguieron respondiendo con normalidad. El autoescalado del catálogo intentó sumar seis instancias, pero se topó con el máximo de 12. A las 11:15 se subió ese límite a mano hasta 24 y, a las 11:40, la página de producto ya cargaba en 1,1 segundos."
+B0_sin_NLI,G06::r2,no-H,fiel,0,1,0,FP_eliminado,"En esa franja entraron 2.140 pedidos, frente a los 3.900 del día anterior a la misma hora."
+B0_sin_NLI,G09::r1,no-H,fiel,0,1,0,FP_eliminado,"El AQ-25 da 2,5 kW de frío y está pensado para estancias de hasta 25 m², mientras que el AQ-35 llega a 3,5 kW y cubre hasta 35 m². En refrigeración, el pequeño tiene clase A++ y el grande A+, aunque en calefacción los dos son A+. En modo silencio, la unidad interior del AQ-25 se queda en 21 dB(A), frente a los 24 del AQ-35. El control wifi desde el móvil viene de serie en el AQ-35; en el AQ-25 hay que añadir el módulo WF-1."
+B0_sin_NLI,G10::r2,no-H,fiel,0,0,1,FP_nuevo,"Se renovó a Ana Ruiz como administradora por un año. En ruegos y preguntas, un vecino pidió revisar la iluminación del garaje, y la administradora se encargará de pedir presupuesto. La propuesta de poner placas solares en la cubierta se aplazó hasta contar con un segundo presupuesto."
+B0_sin_NLI,G12::r1,no-H,fiel,0,1,0,FP_eliminado,"En el trimestre hubo dos accidentes con baja, uno en envasado y otro en el almacén, y cinco sin baja. El comité aprobó colocar barreras fotoeléctricas en las dos prensas de la línea 3, con fecha límite el 31 de julio. Durante junio, el turno de noche recibirá formación en manejo de cargas, que el de mañana ya hizo en abril. A petición de la delegada de prevención, un servicio externo medirá el ruido en la nave B."
+B0_sin_NLI,G15::r1,no-H,fiel,0,1,0,FP_eliminado,"Con esta póliza se paga un copago por cada acto médico: 5 euros en medicina general, 12 en especialista y 20 en urgencias. En total, cada asegurado pagará como mucho 300 euros al año en copagos. Para hospitalizarse u operarse hay que esperar seis meses, para el parto diez y para las pruebas diagnósticas de alta tecnología tres. Las urgencias vitales se atienden sin carencia alguna."
+B0_sin_NLI,G16::r1,no-H,fiel,0,1,0,FP_eliminado,"Calmidol es ibuprofeno en suspensión, con 100 mg por cada 5 ml, y se usa para la fiebre y el dolor leve o moderado. A los niños de 3 a 6 años, de entre 15 y 20 kilos, se les dan 5 ml cada ocho horas. Entre los 7 y los 9 años la dosis sube a 7,5 ml, y de los 10 a los 12, a 10 ml, siempre con el mismo intervalo. Es preferible tomarlo con comida o leche para reducir las molestias de estómago, y hay que agitar el frasco antes de usarlo."
+B0_sin_NLI,G16::r2,no-H,fiel,0,1,0,FP_eliminado,"No se debe dar Calmidol más de tres días seguidos sin consultar al médico, y una vez abierto el frasco se conserva seis meses."
+B0_sin_NLI,G17::r1,no-H,fiel,0,1,0,FP_eliminado,"Tras el alta, el paciente debe tomar un comprimido de amoxicilina con clavulánico de 875/125 mg cada ocho horas durante una semana. Además, se pondrá una inyección subcutánea diaria de enoxaparina de 40 mg durante diez días, siempre a la misma hora. Mientras dure el antibiótico tomará también omeprazol de 20 mg en ayunas. El paracetamol de 1 gramo se tomará cada ocho horas únicamente si hay dolor, sin superar 3 gramos al día."
+B0_sin_NLI,R02::r1,no-H,fiel,0,1,0,FP_eliminado,"El espesor máximo del invierno 2023-2024, 94 centímetros, quedó 66 centímetros por debajo de la media de 1991-2020."
+B0_sin_NLI,R13::r1,no-H,fiel,0,1,0,FP_eliminado,"El procedimiento clasifica las vulnerabilidades por su puntuación CVSS en crítica, alta, media y baja. Para las críticas distingue según la exposición: 72 horas si el sistema está expuesto a internet y 7 días naturales si es interno. Las altas tienen 30 días naturales y las medias, 90; las bajas pasan al mantenimiento ordinario. Si el parche no puede aplicarse a tiempo, el responsable del sistema puede pedir una excepción al comité de seguridad, justificada por escrito y con medidas compensatorias. Esa excepción dura como mucho 60 días y solo admite una renovación."
+B0_sin_NLI,R15::r5,no-H,contradiccion,1,1,0,FN_nuevo,"Hogar 1G trae router wifi 6 y Hogar 600, wifi 5. Hogar 1G llega a 1 Gbps de bajada, pero su velocidad de subida queda por debajo de la de Hogar 600. En cuanto a garantías, la velocidad mínima por cable Ethernet es del 80 % en Hogar 600 y del 70 % en Hogar 1G, y por wifi no se garantiza ninguna. La instalación es gratuita con permanencia de 12 meses o cuesta 95 euros sin ella."
+B0_sin_NLI,R16::r1,no-H,fiel,0,1,0,FP_eliminado,"Antes de empezar a funcionar, toda vivienda de uso turístico debe inscribirse en el registro municipal, y el número de inscripción tiene que figurar en cualquier anuncio. En la zona de protección del casco histórico no se darán nuevas inscripciones durante cinco años desde que la ordenanza entre en vigor. Fuera de esa zona, las nuevas viviendas turísticas deben estar en planta baja o primera, salvo que todo el edificio se dedique a este uso. La capacidad máxima es de dos personas por dormitorio, con un tope de diez plazas por vivienda. Si los estatutos de la comunidad de propietarios lo prevén, hará falta su autorización."
+B0_sin_NLI,H101::r6,H,fiel,0,0,1,FP_nuevo,"Peñalisa, que produce unas 18 toneladas de queso al año, menos que las 25 de Monteagrio, se impuso en la categoría de curados."
+B0_sin_NLI,H102::r1,H,fiel,0,1,0,FP_eliminado,"Se vendieron 61.300 tapas, 6.500 más que en la edición de 2025."
+B0_sin_NLI,H102::r9,H,fiel,0,0,1,FP_nuevo,"Para que un voto contara, el pasaporte tenía que llevar el sello de un mínimo de ocho bares."
+B0_sin_NLI,H103::r8,H,fiel,0,1,0,FP_eliminado,"Los alimentos los suministran 19 productores de la comarca, todos con certificación ecológica."
+B0_sin_NLI,H108::r8,H,fiel,0,1,0,FP_eliminado,"Seis de cada diez camiones de reparto del centro usan diésel y los demás, gas natural."
+B0_sin_NLI,H111::r5,H,fiel,0,1,0,FP_eliminado,Sed Cero construyó en Ngolé 11 pozos menos que Manantial Abierto en Tambaru.
+B0_sin_NLI,H111::r9,H,fiel,0,1,0,FP_eliminado,"Se formaron 46 comités locales de agua, dos por cada uno de los 23 pozos, para encargarse del mantenimiento."
+B0_sin_NLI,H114::r9,H,fiel,0,1,0,FP_eliminado,"En 2025 se incorporaron 6 periodistas a la redacción, todos en la sección de datos."
+B0_sin_NLI,H115::r2,H,distorsion,1,1,0,FN_nuevo,"Entre falsos y engañosos, Comprobado detectó 1.100 contenidos en 2025."
+B0_sin_NLI,H117::r2,H,fiel,0,1,0,FP_eliminado,Entre la Diputación y los ayuntamientos aportaron 205.000 euros.
+B0_sin_NLI,H117::r3,H,distorsion,1,1,0,FN_nuevo,El fútbol sala y el baloncesto sumaron entre los dos 1.980 inscritos.
+B0_sin_NLI,H118::r1,H,fiel,0,1,0,FP_eliminado,"Tiene 18 equipos de base, tres más que la temporada pasada, y 260 jugadores de 7 a 18 años; su cadete femenino fue campeón autonómico en abril y su cadete masculino, subcampeón."
+B0_sin_NLI,H118::r4,H,fiel,0,1,0,FP_eliminado,"De sus 31 entrenadores, 19 no tienen el título de nivel II."
+B0_sin_NLI,H118::r7,H,fiel,0,1,0,FP_eliminado,"La cuota anual general es de 180 euros, que baja a 140 por hijo en las familias con al menos dos hijos en el club."
+B0_sin_NLI,H118::r9,H,fiel,0,1,0,FP_eliminado,"Entrena en el pabellón municipal Las Moreras, que comparte con el Atlético Montenebro, de fútbol sala."
+B0_sin_NLI,H120::r9,H,fiel,0,1,0,FP_eliminado,No hay actas de 1937 a 1939 porque se perdieron en el incendio del ayuntamiento de 1938.
+B0_sin_NLI,H121::r1,H,fiel,0,1,0,FP_eliminado,Hay 30 entrevistas más a mineros que a mujeres de mineros.
+B0_sin_NLI,H201::r1,H,fiel,0,1,0,FP_eliminado,"La Cuenta Horizonte paga un 2,1 % TAE los primeros seis meses y un 1,2 % TAE desde el séptimo mes."
+B0_sin_NLI,H201::r2,H,fiel,0,1,0,FP_eliminado,"Entre el primer y el segundo trimestre de 2026, Arraval captó 68.500 cuentas Horizonte."
+B0_sin_NLI,H201::r5,H,sobregeneralizacion,1,1,0,FN_nuevo,"Durante los seis primeros meses, cualquier saldo depositado en la Cuenta Horizonte se remunera al 2,1 % TAE."
+B0_sin_NLI,H203::r2,H,distorsion,1,1,0,FN_nuevo,"Su patrimonio aumentó un 12 % en 2025, de 212 a 258 millones de euros."
+B0_sin_NLI,H209::r6,H,fiel,0,1,0,FP_eliminado,La póliza de 2026 incluye por primera vez la cosecha de tomate y pimiento.
+B0_sin_NLI,H209::r9,H,fiel,0,1,0,FP_eliminado,"La prima base de la póliza sube un 6 %, hasta 410 euros por hectárea."
+B0_sin_NLI,H210::r4,H,distorsion,1,1,0,FN_nuevo,El capital asegurado del olivar superó en 35 millones al del viñedo.
+B0_sin_NLI,H211::r5,H,fiel,0,1,0,FP_eliminado,"El presupuesto del programa crecerá 1,5 millones de euros en 2026."
+B0_sin_NLI,H212::r1,H,fiel,0,1,0,FP_eliminado,El centro tiene 1.050 alumnos entre ciclos duales y ordinarios este curso.
+B0_sin_NLI,H212::r3,H,fiel,0,1,0,FP_eliminado,Cinco de los 14 ciclos que ofrece el centro no se imparten en modalidad dual.
+B0_sin_NLI,H213::r2,H,fiel,0,1,0,FP_eliminado,La dirección justifica el ERTE por la caída del 23 % de los pedidos de su principal cliente.
+B0_sin_NLI,H213::r7,H,fiel,0,0,1,FP_nuevo,Afecta a menos de un tercio de los 820 trabajadores de la planta de Vilanzo.
+B0_sin_NLI,H216::r7,H,fiel,0,0,1,FP_nuevo,En 2027 habrá 30 becas más que en la convocatoria de 2026.
+B0_sin_NLI,H217::r7,H,fiel,0,1,0,FP_eliminado,"Las ventas al exterior sumaron 4.820 millones de euros y las compras al exterior bajaron un 2 %, hasta 3.910 millones."
+B0_sin_NLI,H219::r3,H,fiel,0,1,0,FP_eliminado,Portocelo movió 470.000 TEU más que Escaleira en 2025.
+B0_sin_NLI,H219::r9,H,fiel,0,1,0,FP_eliminado,La autoridad portuaria destinará 95 millones a ampliar el muelle Sur entre 2026 y 2029.
+B0_sin_NLI,H220::r6,H,distorsion,1,1,0,FN_nuevo,En 2025 España exportó a Talmira vino y aceite por 75 millones de euros.
+B0_sin_NLI,H303::r7,H,no_respaldado,1,1,0,FN_nuevo,"Concentrará en un único edificio las tres sedes judiciales actuales para ahorrar en alquileres, con 14 salas de vistas."
+B0_sin_NLI,H308::r8,H,fiel,0,1,0,FP_eliminado,"La campaña irá del 1 de junio a mediados de octubre, en concreto hasta el día 15, con seis medios aéreos."
+B0_sin_NLI,H309::r2,H,distorsion,1,1,0,FN_nuevo,"Las sirenas sonaron a las 10:05 y el confinamiento de los colegios se completó en 18 minutos, cuatro menos que en 2024."
+B0_sin_NLI,H309::r6,H,fiel,0,1,0,FP_eliminado,Se celebró el 22 de abril de 2026 con 1.150 participantes y las sirenas sonaron a las 10:05.
+B0_sin_NLI,H312::r3,H,fiel,0,1,0,FP_eliminado,Seis de los 18 refugios estaban en polideportivos y el resto en bibliotecas y centros cívicos.
+B0_sin_NLI,H313::r1,H,fiel,0,1,0,FP_eliminado,"La Diputación aporta 8,2 millones de los 27,4 millones de inversión."
+B0_sin_NLI,H313::r3,H,fiel,0,1,0,FP_eliminado,"Para no sufrir penalizaciones, Redes Ábrego tendrá que haber conectado al menos 172 de los 214 núcleos en diciembre de 2027."
+B0_sin_NLI,H313::r8,H,fiel,0,1,0,FP_eliminado,"Más de dos tercios de la inversión, 19,2 de los 27,4 millones, procede de fondos europeos."
+B0_sin_NLI,H315::r3,H,fiel,0,1,0,FP_eliminado,"La facturación motivó el 44 % de las reclamaciones, más del doble que la portabilidad, con el 17 %."
+B0_sin_NLI,H318::r2,H,distorsion,1,1,0,FN_nuevo,"Entre arrastre y palangre, la cofradía podrá capturar 1.860 toneladas de merluza en 2027."
+B0_sin_NLI,H322::r1,H,fiel,0,1,0,FP_eliminado,"Los fondos europeos aportan 1,96 millones de los 2,8 millones del proyecto."
+B0_sin_NLI,H401::r8,H,sobregeneralizacion,1,1,0,FN_nuevo,"Los municipios de la comarca de Valdesorbe ganaron población en 2025; Torralcina, por ejemplo, pasó de 17.960 a 18.420 habitantes."
+B0_sin_NLI,H402::r2,H,distorsion,1,0,1,FN_eliminado,"Servicios sociales pasa de 3,1 a 3,9 millones de euros, 0,9 millones más, para ampliar la ayuda a domicilio."
+B0_sin_NLI,H404::r2,H,distorsion,1,1,0,FN_nuevo,"Votaron 6.812 de los 9.430 electores censados, de modo que 2.718 se abstuvieron."
+B0_sin_NLI,H408::r3,H,fiel,0,1,0,FP_eliminado,Menos de cuatro de cada diez víctimas presentaron denuncia.
+B0_sin_NLI,H411::r5,H,fiel,0,1,0,FP_eliminado,"El 23 % de los entrevistados sigue sin decidir su voto, y el sondeo, de 600 entrevistas, tiene un margen de error de ±4 puntos."
+B0_sin_NLI,H412::r1,H,fiel,0,1,0,FP_eliminado,"El Ayuntamiento justifica la subida de la tasa de basuras por el nuevo contrato de recogida, que encarece el servicio un 11 %."
+B0_sin_NLI,H412::r2,H,sobregeneralizacion,1,1,0,FN_nuevo,"Los locales comerciales pagarán un 9 % más de tasa de basuras en 2026, y las viviendas, un 4,5 % más."
+B0_sin_NLI,H412::r3,H,sobregeneralizacion,1,1,0,FN_nuevo,Los coches eléctricos tendrán una rebaja del 75 % en el impuesto de vehículos.
+B0_sin_NLI,H412::r9,H,fiel,0,1,0,FP_eliminado,"Con el 0,52 %, el tipo del IBI de Lerinda queda 0,09 puntos por debajo del de Montesorio."
+B0_sin_NLI,H413::r3,H,distorsion,1,0,1,FN_eliminado,"Entre el distrito Centro (70,2 %) y Las Canteras (44,9 %) hubo una diferencia de participación de 15,3 puntos."
+B0_sin_NLI,H414::r6,H,fiel,0,1,0,FP_eliminado,Los 61.600 hogares unipersonales son el 29 % de los 212.400 hogares de la provincia.
+B0_sin_NLI,H416::r1,H,fiel,0,1,0,FP_eliminado,"El plan de 2026 dispone de 1,6 millones de euros más que el de 2025."
+B0_sin_NLI,H418::r1,H,fiel,0,1,0,FP_eliminado,En 2025 las defunciones superaron a los nacimientos en 382 en la isla.
+B0_sin_NLI,g04,no-H,fiel,0,0,1,FP_nuevo,La sonda despegó en marzo y tardó siete meses en llegar a su destino. Orbitó el planeta durante dos años. A lo largo de la misión envió más de 30.000 imágenes a la Tierra.
+B0_sin_NLI,g07,no-H,fiel,0,1,0,FP_eliminado,"La reforma reduce la jornada laboral a 37,5 horas semanales. Entrará en vigor de forma gradual hasta 2026. Afecta a las empresas de más de 50 empleados."
+B3_sin_NLI,e08::par,no-H,fiel,0,0,1,FP_nuevo,"A lo largo de un lustro, el conjunto se proclamó campeón en cinco ocasiones."
+B3_sin_NLI,e09::par,no-H,fiel,0,0,1,FP_nuevo,"En sus 1.200 hectáreas, el parque resguarda diversas especies de aves."
+B3_sin_NLI,e17,no-H,fiel,0,1,0,FP_eliminado,El salario mínimo subió a 1.134 euros en 2024.
+B3_sin_NLI,e17::par,no-H,fiel,0,1,0,FP_eliminado,En 2024 el sueldo mínimo quedó fijado en mil ciento treinta y cuatro euros.
+B3_sin_NLI,e27::par,no-H,fiel,0,1,0,FP_eliminado,La terapia rebajó la sintomatología en cuatro de cada diez pacientes.
+B3_sin_NLI,e28,no-H,fiel,0,0,1,FP_nuevo,Portugal limita al este y al norte con España.
+B3_sin_NLI,e28::par,no-H,fiel,0,0,1,FP_nuevo,"Al norte y al este, Portugal hace frontera con España."
+B3_sin_NLI,e32,no-H,fiel,0,1,0,FP_eliminado,El corazón humano late unas 70 veces por minuto en reposo.
+B3_sin_NLI,e35::par,no-H,fiel,0,0,1,FP_nuevo,La complejidad del algoritmo es de orden n log n.
+B3_sin_NLI,e36::par,no-H,fiel,0,0,1,FP_nuevo,El fondo ofreció un 6 por ciento anual a lo largo de diversos años.
+B3_sin_NLI,e39::par,no-H,fiel,0,0,1,FP_nuevo,Más de 400 millones de personas tienen el español como lengua.
+B3_sin_NLI,e40::sutil,no-H,no_respaldado,1,1,0,FN_nuevo,La imponente catedral se terminó en 1882 tras varias décadas de obras.
+B3_sin_NLI,e47::par,no-H,fiel,0,1,0,FP_eliminado,El Sahara ocupa cerca de 9 millones de kilómetros cuadrados.
+B3_sin_NLI,e49,no-H,fiel,0,1,0,FP_eliminado,El cable soporta velocidades de 10 gigabits por segundo.
+B3_sin_NLI,e76,no-H,fiel,0,1,0,FP_eliminado,La luz del Sol tarda unos 8 minutos en llegar a la Tierra.
+B3_sin_NLI,e83::par,no-H,fiel,0,1,0,FP_eliminado,"El paro se extendió a lo largo de más de una semana, ocho días."
+B3_sin_NLI,e84::par,no-H,fiel,0,0,1,FP_nuevo,El estadio alberga hasta 68.000 espectadores.
+B3_sin_NLI,e85,no-H,fiel,0,1,0,FP_eliminado,La fosa alcanza unos 11.000 metros de profundidad.
+B3_sin_NLI,e85::par,no-H,fiel,0,1,0,FP_eliminado,La fosa llega a cerca de 11.000 metros de hondo.
+B3_sin_NLI,e88::par,no-H,fiel,0,0,1,FP_nuevo,"Durante las crecidas, el río alcanza los 2.000 metros cúbicos por segundo."
+B3_sin_NLI,s01,no-H,fiel,0,1,0,FP_eliminado,"El ensayo, con 1.800 participantes, halló que el fármaco reduce la presión un 12 % con efectos adversos leves."
+B3_sin_NLI,s01::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con una muestra de 1.800 personas, el fármaco bajó la tensión un doce por ciento y apenas causó efectos adversos."
+B3_sin_NLI,s03::fiel1,no-H,fiel,0,0,1,FP_nuevo,"Con 310 trabajadores, la compañía ingresó 42 millones y estrenó dos sedes en el ejercicio."
+B3_sin_NLI,s04::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Tras un viaje de siete meses, la nave pasó dos años en órbita y mandó más de 30.000 fotografías."
+B3_sin_NLI,s05::fiel1,no-H,fiel,0,0,1,FP_nuevo,"Con 850.000 habitantes en el municipio, su conurbación rebasa el millón de personas."
+B3_sin_NLI,s09,no-H,fiel,0,1,0,FP_eliminado,"El club acabó tercero, su delantero marcó 18 goles y el equipo encajó 29 en la temporada."
+B3_sin_NLI,s09::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 18 goles de su delantero y solo 29 encajados, el conjunto terminó en tercera posición."
+B3_sin_NLI,s10::fiel1,no-H,fiel,0,0,1,FP_nuevo,"La norma baja la jornada a 37,5 horas semanales, con entrada escalonada hasta 2026 para plantillas de más de 50 personas."
+B3_sin_NLI,s13,no-H,fiel,0,1,0,FP_eliminado,"La delegación, de 45 atletas, logró 3 oros y 5 platas compitiendo en 12 disciplinas."
+B3_sin_NLI,s15,no-H,fiel,0,1,0,FP_eliminado,"El humedal, de 500 hectáreas, acoge 90 especies de aves y es zona de paso de migratorias."
+B3_sin_NLI,s15::fiel1,no-H,fiel,0,1,0,FP_eliminado,"En sus 500 hectáreas, el humedal alberga 90 especies de aves y sirve de paso a las migratorias."
+B3_sin_NLI,s17::fiel1,no-H,fiel,0,0,1,FP_nuevo,El fallo obliga a la empresa a abonar 2 millones y da la razón a los 300 demandantes.
+B3_sin_NLI,s23,no-H,fiel,0,1,0,FP_eliminado,"La línea tendrá 14 estaciones en 18 kilómetros, conectará el norte con el aeropuerto y costará 1.800 millones."
+B3_sin_NLI,s26,no-H,fiel,0,1,0,FP_eliminado,"El parque eólico, con 40 aerogeneradores, genera 120 megavatios y abastece a 90.000 hogares."
+B3_sin_NLI,s26::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Sus 40 aerogeneradores producen 120 megavatios, suficientes para 90.000 hogares."
+B3_sin_NLI,s28,no-H,fiel,0,1,0,FP_eliminado,La exposición reunió 150 obras de diez museos y recibió 200.000 visitantes en seis meses.
+B3_sin_NLI,s29,no-H,fiel,0,0,1,FP_nuevo,"La startup, con 60 empleados y 2 millones de usuarios en ocho países, levantó 15 millones."
+B3_sin_NLI,s29::fiel1,no-H,fiel,0,0,1,FP_nuevo,"Con 2 millones de usuarios en ocho países y 60 empleados, la empresa captó 15 millones."
+B3_sin_NLI,s30,no-H,fiel,0,1,0,FP_eliminado,"Tras peatonalizar el centro, el tráfico cayó un 18 %, el transporte público ganó un 25 % de usuarios y se crearon 10 kilómetros de carril bici."
+B3_sin_NLI,s30::fiel1,no-H,fiel,0,1,0,FP_eliminado,"La peatonalización redujo el tráfico un 18 %, sumó un 25 % de usuarios al transporte público y añadió 10 kilómetros de carril bici."
+B3_sin_NLI,s31::fiel1,no-H,fiel,0,0,1,FP_nuevo,"Con 500 camas y 1.800 trabajadores, el centro cubrió 45.000 urgencias y operó 3.200 veces."
+B3_sin_NLI,s32,no-H,fiel,0,1,0,FP_eliminado,"La aerolínea abrirá 6 rutas nuevas al sur de Europa, incorporará 10 aviones y creará 300 empleos."
+B3_sin_NLI,s33,no-H,fiel,0,1,0,FP_eliminado,"El festival proyectó 120 películas ante 50.000 asistentes durante diez días, y premió una ópera prima."
+B3_sin_NLI,s34,no-H,fiel,0,1,0,FP_eliminado,"La biblioteca, con 25.000 socios y un fondo de 150.000 volúmenes, prestó 90.000 libros y organizó 200 actividades."
+B3_sin_NLI,s34::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 25.000 socios, el centro prestó 90.000 libros de sus 150.000 volúmenes y programó 200 actividades."
+B3_sin_NLI,s37::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 600 millones en cuatro años, el plan levantará 5.000 viviendas protegidas para jóvenes y familias."
+B3_sin_NLI,s38,no-H,fiel,0,1,0,FP_eliminado,"La cooperativa, con 400 socios, facturó 30 millones y exportó aceite a 15 países, con un sello de calidad."
+B3_sin_NLI,N07::r4,no-H,no_respaldado,1,0,1,FN_eliminado,"Los dos simulacros reunieron a 860 personas, y en Alcorá se activaron los avisos por SMS estrenados en 2024."
+B3_sin_NLI,N09::r1,no-H,fiel,0,1,0,FP_eliminado,"Entre los dos centros atendieron 326.000 llamadas, y en ambos tres de cada diez no eran urgentes."
+B3_sin_NLI,N11::r1,no-H,fiel,0,1,0,FP_eliminado,"Durante febrero y marzo de 2026 pararán 34 arrastreros, mientras las barcas de artes menores podrán seguir faenando."
+B3_sin_NLI,N14::r2,no-H,fiel,0,0,1,FP_nuevo,"La primera fase, un filtro de mangas nuevo, ya terminó en 2025."
+B3_sin_NLI,N17::r1,no-H,fiel,0,0,1,FP_nuevo,"Los fondos FEDER cubrieron 2,72 millones de los 3,4 millones que costó el microscopio."
+B3_sin_NLI,N26::r1,no-H,fiel,0,0,1,FP_nuevo,"Repartió 610 toneladas, un ocho por ciento más que el año anterior, y atiende a 3.900 personas a través de 44 entidades sociales."
+B3_sin_NLI,T05::r5,no-H,fiel,0,0,1,FP_nuevo,"Entre enero y junio de 2026 la lista de espera quirúrgica de Alcañiz pasó de 2.300 a 1.900 pacientes, con una demora media de 84 días y casi la mitad de los casos en traumatología."
+B3_sin_NLI,T08::r2,no-H,fiel,0,0,1,FP_nuevo,"En el medio rural tardaron 23 minutos, tres menos que en 2024."
+B3_sin_NLI,T09::r4,no-H,no_respaldado,1,1,0,FN_nuevo,"Terminó con un balance de 21-9, lo que le da el factor cancha en la semifinal ante el Morón."
+B3_sin_NLI,T09::r5,no-H,fiel,0,1,0,FP_eliminado,"Acabó 21-9, con 81,4 puntos por partido, y se medirá al Morón en semifinales."
+B3_sin_NLI,T10::r3,no-H,fiel,0,0,1,FP_nuevo,"Once medallas, cuatro más que en la edición anterior, con tres oros, cinco platas y tres bronces."
+B3_sin_NLI,T11::r1,no-H,fiel,0,1,0,FP_eliminado,"Rubén Gil ganó en 9 horas y 12 minutos y Nerea Ochoa, en 10 horas y 47."
+B3_sin_NLI,T13::r2,no-H,fiel,0,1,0,FP_eliminado,"Vendió 1.200 entradas más que en la edición anterior, hasta 9.800."
+B3_sin_NLI,T13::r3,no-H,fiel,0,1,0,FP_eliminado,"Se programaron 46 funciones de 19 compañías, siete de ellas extranjeras; se vendieron 9.800 entradas y, según la organización, unas 15.000 personas vieron las funciones gratuitas de calle."
+B3_sin_NLI,T13::r4,no-H,sobregeneralizacion,1,1,0,FN_nuevo,Las funciones del festival fueron gratuitas y reunieron a unas 15.000 personas.
+B3_sin_NLI,T18::r2,no-H,fiel,0,1,0,FP_eliminado,"4.870, frente a los 3.100 de 2024, cuando tenía siete cámaras menos."
+B3_sin_NLI,T21::r1,no-H,fiel,0,1,0,FP_eliminado,"Los alumnos de primero y segundo de ESO que suspendieron Matemáticas el curso anterior reciben dos horas de refuerzo a la semana, en grupos de ocho como mucho."
+B3_sin_NLI,T21::r6,no-H,fiel,0,1,0,FP_eliminado,Cuenta con 96 profesores para 2.900 alumnos y la Consejería evaluará sus resultados cuando acabe el curso.
+B3_sin_NLI,T23::r1,no-H,fiel,0,1,0,FP_eliminado,"Hubo 1,1 millones de usos, y las bicicletas eléctricas, que son un tercio de las 450 de la flota, acumularon seis de cada diez."
+B3_sin_NLI,T24::r5,no-H,no_respaldado,1,1,0,FN_nuevo,"La prolongación tendrá 7 paradas nuevas, costará 38 millones de euros y las obras durarán 22 meses."
+B3_sin_NLI,T27::r3,no-H,fiel,0,0,1,FP_nuevo,"Tardó 94 días de media en las 312 licencias de obra nueva que concedió, frente a los 131 de 2024; las obras menores se resolvieron en 21 días."
+B3_sin_NLI,T29::r2,no-H,fiel,0,0,1,FP_nuevo,"Produjo 8,8 millones de kilos de aceite, de los que tres de cada diez fueron virgen extra."
+B3_sin_NLI,T30::r1,no-H,fiel,0,1,0,FP_eliminado,"El agua usada por hectárea ha caído un 27 %, pero el consumo de electricidad se ha multiplicado por tres a causa del bombeo."
+B3_sin_NLI,T31::r3,no-H,fiel,0,0,1,FP_nuevo,"Se aplica en el 74 % del pimiento en invernadero, cultivo que ocupa unas 12.000 hectáreas."
+B3_sin_NLI,T33::r3,no-H,fiel,0,0,1,FP_nuevo,"Del 68 % en el conjunto del año, con un 87 % en temporada alta, de diciembre a abril."
+B3_sin_NLI,T34::r2,no-H,fiel,0,0,1,FP_nuevo,"21.300 peregrinos, frente a 18.900 en 2024; algo más de la mitad eran extranjeros, sobre todo de Alemania e Italia."
+B3_sin_NLI,G02::r2,no-H,fiel,0,0,1,FP_nuevo,"El contrato dura un año y se prorroga automáticamente por años, salvo que se denuncie con un mes de antelación."
+B3_sin_NLI,G03::r1,no-H,fiel,0,1,0,FP_eliminado,"Se venden dos carretillas: una eléctrica, la CE-25, por 18.500 euros, y una diésel, la CD-30, por 21.000, lo que suma 39.500 euros sin IVA. El comprador paga el 30 % al firmar y el 70 % restante cuando las recibe. La eléctrica tiene dos años de garantía y la diésel uno, contados desde la entrega. Quedan fuera de la garantía los neumáticos, las horquillas y los daños causados por un mal uso."
+B3_sin_NLI,G04::r1,no-H,fiel,0,1,0,FP_eliminado,"El 14 de mayo, entre las 09:12 y las 10:47, la API de pagos respondió con errores 503 a un 38 % de las peticiones. Todo empezó tras desplegar la versión 4.18.0 en el clúster pay-eu-1, donde se agotó el pool de conexiones a la base de datos; pay-eu-2 siguió funcionando bien. El fallo venía de que la nueva versión abría una conexión por cada reintento sin soltar la anterior. A las 10:20 se volvió a la 4.17.3 y los errores fueron bajando hasta normalizarse a las 10:47."
+B3_sin_NLI,G04::r2,no-H,fiel,0,0,1,FP_nuevo,La causa raíz fue que la versión 4.18.0 abría una conexión nueva en cada reintento sin liberar la previa. Esa versión se había desplegado a las 09:05 en el clúster pay-eu-1. A las 09:31 se abrió una incidencia de severidad 1 y se convocó al equipo de guardia.
+B3_sin_NLI,G05::r2,no-H,fiel,0,0,1,FP_nuevo,"No se perdieron datos, aunque durante la mañana del 3 de febrero fs-02 estuvo sin copia del día anterior. La copia de fs-01 se hizo en backup-vol-a y terminó sin errores a las 03:52. Como tarea pendiente queda configurar un aviso para cuando un volumen de copias supere el 85 % de ocupación."
+B3_sin_NLI,G06::r1,no-H,fiel,0,1,0,FP_eliminado,"Durante la campaña de rebajas del 7 de enero, la tienda funcionó peor entre las 11:00 y las 11:40. En ese tramo, la página de producto tardaba de media 6,8 segundos en cargar, cuando lo normal es 0,9. El inicio y el carrito siguieron respondiendo con normalidad. El autoescalado del catálogo intentó sumar seis instancias, pero se topó con el máximo de 12. A las 11:15 se subió ese límite a mano hasta 24 y, a las 11:40, la página de producto ya cargaba en 1,1 segundos."
+B3_sin_NLI,G06::r2,no-H,fiel,0,1,0,FP_eliminado,"En esa franja entraron 2.140 pedidos, frente a los 3.900 del día anterior a la misma hora."
+B3_sin_NLI,G09::r1,no-H,fiel,0,1,0,FP_eliminado,"El AQ-25 da 2,5 kW de frío y está pensado para estancias de hasta 25 m², mientras que el AQ-35 llega a 3,5 kW y cubre hasta 35 m². En refrigeración, el pequeño tiene clase A++ y el grande A+, aunque en calefacción los dos son A+. En modo silencio, la unidad interior del AQ-25 se queda en 21 dB(A), frente a los 24 del AQ-35. El control wifi desde el móvil viene de serie en el AQ-35; en el AQ-25 hay que añadir el módulo WF-1."
+B3_sin_NLI,G10::r2,no-H,fiel,0,0,1,FP_nuevo,"Se renovó a Ana Ruiz como administradora por un año. En ruegos y preguntas, un vecino pidió revisar la iluminación del garaje, y la administradora se encargará de pedir presupuesto. La propuesta de poner placas solares en la cubierta se aplazó hasta contar con un segundo presupuesto."
+B3_sin_NLI,G12::r1,no-H,fiel,0,1,0,FP_eliminado,"En el trimestre hubo dos accidentes con baja, uno en envasado y otro en el almacén, y cinco sin baja. El comité aprobó colocar barreras fotoeléctricas en las dos prensas de la línea 3, con fecha límite el 31 de julio. Durante junio, el turno de noche recibirá formación en manejo de cargas, que el de mañana ya hizo en abril. A petición de la delegada de prevención, un servicio externo medirá el ruido en la nave B."
+B3_sin_NLI,G15::r1,no-H,fiel,0,1,0,FP_eliminado,"Con esta póliza se paga un copago por cada acto médico: 5 euros en medicina general, 12 en especialista y 20 en urgencias. En total, cada asegurado pagará como mucho 300 euros al año en copagos. Para hospitalizarse u operarse hay que esperar seis meses, para el parto diez y para las pruebas diagnósticas de alta tecnología tres. Las urgencias vitales se atienden sin carencia alguna."
+B3_sin_NLI,G16::r1,no-H,fiel,0,1,0,FP_eliminado,"Calmidol es ibuprofeno en suspensión, con 100 mg por cada 5 ml, y se usa para la fiebre y el dolor leve o moderado. A los niños de 3 a 6 años, de entre 15 y 20 kilos, se les dan 5 ml cada ocho horas. Entre los 7 y los 9 años la dosis sube a 7,5 ml, y de los 10 a los 12, a 10 ml, siempre con el mismo intervalo. Es preferible tomarlo con comida o leche para reducir las molestias de estómago, y hay que agitar el frasco antes de usarlo."
+B3_sin_NLI,G16::r2,no-H,fiel,0,1,0,FP_eliminado,"No se debe dar Calmidol más de tres días seguidos sin consultar al médico, y una vez abierto el frasco se conserva seis meses."
+B3_sin_NLI,G17::r1,no-H,fiel,0,1,0,FP_eliminado,"Tras el alta, el paciente debe tomar un comprimido de amoxicilina con clavulánico de 875/125 mg cada ocho horas durante una semana. Además, se pondrá una inyección subcutánea diaria de enoxaparina de 40 mg durante diez días, siempre a la misma hora. Mientras dure el antibiótico tomará también omeprazol de 20 mg en ayunas. El paracetamol de 1 gramo se tomará cada ocho horas únicamente si hay dolor, sin superar 3 gramos al día."
+B3_sin_NLI,G17::r2,no-H,fiel,0,1,0,FP_eliminado,"Debe dejar el ibuprofeno que tomaba antes de ingresar y hacerse una analítica en su centro de salud cinco días después del alta. Si tiene fiebre de más de 38,5 grados o sangrado, debe acudir a urgencias."
+B3_sin_NLI,G18::r2,no-H,fiel,0,0,1,FP_nuevo,Puede causar somnolencia y el prospecto pide precaución al volante. Conviene evitar el alcohol mientras dure el tratamiento. Los comprimidos deben conservarse por debajo de 30 grados.
+B3_sin_NLI,R02::r1,no-H,fiel,0,1,0,FP_eliminado,"El espesor máximo del invierno 2023-2024, 94 centímetros, quedó 66 centímetros por debajo de la media de 1991-2020."
+B3_sin_NLI,R02::r2,no-H,fiel,0,1,0,FP_eliminado,"En la última década, Peña Hendida, a 2.150 metros, ha pasado de una media de 128 a 97 días con el suelo nevado."
+B3_sin_NLI,R06::r1,no-H,fiel,0,0,1,FP_nuevo,"El periodo orbital estimado del Ledesma, 210 años, supera en 136 años al del Arnal-Pereda."
+B3_sin_NLI,R11::r1,no-H,fiel,0,0,1,FP_nuevo,"De las 142 funciones, 112 no fueron de ópera, y la ocupación media de la temporada fue del 78 %."
+B3_sin_NLI,R13::r1,no-H,fiel,0,1,0,FP_eliminado,"El procedimiento clasifica las vulnerabilidades por su puntuación CVSS en crítica, alta, media y baja. Para las críticas distingue según la exposición: 72 horas si el sistema está expuesto a internet y 7 días naturales si es interno. Las altas tienen 30 días naturales y las medias, 90; las bajas pasan al mantenimiento ordinario. Si el parche no puede aplicarse a tiempo, el responsable del sistema puede pedir una excepción al comité de seguridad, justificada por escrito y con medidas compensatorias. Esa excepción dura como mucho 60 días y solo admite una renovación."
+B3_sin_NLI,R13::r2,no-H,fiel,0,1,0,FP_eliminado,"El plazo depende del nivel CVSS y de la exposición del sistema. Una vulnerabilidad crítica en un sistema expuesto a internet debe quedar corregida como máximo tres días después de detectarse; si el sistema es interno, el margen es de una semana. Las altas tienen 30 días naturales y las medias, 90, mientras que las bajas entran en el mantenimiento ordinario. Cuando no se llega a tiempo, cabe pedir al comité de seguridad una excepción por escrito con medidas compensatorias, válida un máximo de 60 días y renovable solo una vez."
+B3_sin_NLI,R16::r1,no-H,fiel,0,1,0,FP_eliminado,"Antes de empezar a funcionar, toda vivienda de uso turístico debe inscribirse en el registro municipal, y el número de inscripción tiene que figurar en cualquier anuncio. En la zona de protección del casco histórico no se darán nuevas inscripciones durante cinco años desde que la ordenanza entre en vigor. Fuera de esa zona, las nuevas viviendas turísticas deben estar en planta baja o primera, salvo que todo el edificio se dedique a este uso. La capacidad máxima es de dos personas por dormitorio, con un tope de diez plazas por vivienda. Si los estatutos de la comunidad de propietarios lo prevén, hará falta su autorización."
+B3_sin_NLI,R18::r1,no-H,fiel,0,1,0,FP_eliminado,"La planta ocupará 96 hectáreas y tendrá 49,5 megavatios de potencia instalada. La declaración obliga a dejar una franja sin paneles de 25 metros a cada lado del arroyo de la Zarza y prohíbe mover tierras entre el 1 de marzo y el 31 de julio, cuando se reproduce el aguilucho cenizo. El vallado perimetral debe dejar un hueco de 20 centímetros sobre el suelo para que pase la fauna pequeña. Bajo los paneles se sembrarán herbáceas autóctonas, y la vegetación se controlará con pastoreo de ovino. Durante los cinco primeros años de funcionamiento habrá seguimiento de la avifauna con informes semestrales."
+B3_sin_NLI,R18::r3,no-H,fiel,0,1,0,FP_eliminado,"El proyecto, de 96 hectáreas, estuvo 30 días hábiles en información pública y recibió alegaciones de dos asociaciones agrarias. Entre las condiciones, el vallado debe dejar 20 centímetros libres sobre el suelo para el paso de la fauna pequeña."
+B3_sin_NLI,H101::r6,H,fiel,0,0,1,FP_nuevo,"Peñalisa, que produce unas 18 toneladas de queso al año, menos que las 25 de Monteagrio, se impuso en la categoría de curados."
+B3_sin_NLI,H101::r9,H,fiel,0,1,0,FP_eliminado,"Un jurado de nueve catadores, con Olvido Carranzal al frente, dio a Peñalisa el máximo galardón de los curados; Monteagrio fue segunda en esa categoría."
+B3_sin_NLI,H102::r1,H,fiel,0,1,0,FP_eliminado,"Se vendieron 61.300 tapas, 6.500 más que en la edición de 2025."
+B3_sin_NLI,H108::r4,H,fiel,0,1,0,FP_eliminado,El nuevo centro tiene 27.000 metros cuadrados más que el almacén al que sustituye.
+B3_sin_NLI,H108::r8,H,fiel,0,1,0,FP_eliminado,"Seis de cada diez camiones de reparto del centro usan diésel y los demás, gas natural."
+B3_sin_NLI,H111::r2,H,fiel,0,0,1,FP_nuevo,"Los donantes particulares aportaron el 30 % de los 690.000 euros, es decir, 207.000 euros."
+B3_sin_NLI,H111::r8,H,fiel,0,0,1,FP_nuevo,"Levantó 23 pozos en Tambaru en 2025, siete menos de los 30 que tenía previstos."
+B3_sin_NLI,H113::r9,H,fiel,0,1,0,FP_eliminado,"Herminia Saldaña conduce «Despierta Vallebrío», el matinal de la emisora, que tiene 21.000 oyentes."
+B3_sin_NLI,H114::r5,H,sobregeneralizacion,1,1,0,FN_nuevo,"Los menores de 30 años pagan 2,99 euros al mes por la suscripción digital."
+B3_sin_NLI,H114::r9,H,fiel,0,1,0,FP_eliminado,"En 2025 se incorporaron 6 periodistas a la redacción, todos en la sección de datos."
+B3_sin_NLI,H115::r2,H,distorsion,1,1,0,FN_nuevo,"Entre falsos y engañosos, Comprobado detectó 1.100 contenidos en 2025."
+B3_sin_NLI,H115::r5,H,fiel,0,0,1,FP_nuevo,"El 46 % de los bulos se movió por apps de mensajería y el 31 %, por redes sociales abiertas."
+B3_sin_NLI,H115::r8,H,fiel,0,0,1,FP_nuevo,"La unidad la forman siete periodistas y, desde junio de 2025, trabaja con una herramienta de rastreo de imágenes creada por la Universidad de Pradoluz."
+B3_sin_NLI,H116::r1,H,fiel,0,0,1,FP_nuevo,Publicó 214 episodios repartidos entre sus cuatro pódcast.
+B3_sin_NLI,H116::r3,H,fiel,0,1,0,FP_eliminado,Los otros dos pódcast de la red acumularon 81.000 reproducciones.
+B3_sin_NLI,H116::r8,H,fiel,0,0,1,FP_nuevo,La red funciona gracias a 11 voluntarios y a una técnica del ayuntamiento que trabaja media jornada.
+B3_sin_NLI,H117::r2,H,fiel,0,1,0,FP_eliminado,Entre la Diputación y los ayuntamientos aportaron 205.000 euros.
+B3_sin_NLI,H117::r3,H,distorsion,1,1,0,FN_nuevo,El fútbol sala y el baloncesto sumaron entre los dos 1.980 inscritos.
+B3_sin_NLI,H118::r1,H,fiel,0,1,0,FP_eliminado,"Tiene 18 equipos de base, tres más que la temporada pasada, y 260 jugadores de 7 a 18 años; su cadete femenino fue campeón autonómico en abril y su cadete masculino, subcampeón."
+B3_sin_NLI,H118::r4,H,fiel,0,1,0,FP_eliminado,"De sus 31 entrenadores, 19 no tienen el título de nivel II."
+B3_sin_NLI,H118::r9,H,fiel,0,1,0,FP_eliminado,"Entrena en el pabellón municipal Las Moreras, que comparte con el Atlético Montenebro, de fútbol sala."
+B3_sin_NLI,H120::r9,H,fiel,0,1,0,FP_eliminado,No hay actas de 1937 a 1939 porque se perdieron en el incendio del ayuntamiento de 1938.
+B3_sin_NLI,H121::r9,H,fiel,0,0,1,FP_nuevo,"Casilda Orbaneja, con 97 años, fue la entrevistada de mayor edad."
+B3_sin_NLI,H203::r2,H,distorsion,1,1,0,FN_nuevo,"Su patrimonio aumentó un 12 % en 2025, de 212 a 258 millones de euros."
+B3_sin_NLI,H203::r8,H,no_respaldado,1,1,0,FN_nuevo,"El patrimonio pasó de 212 a 258 millones en 2025, impulsado por la rentabilidad del 4,6 % del fondo."
+B3_sin_NLI,H211::r5,H,fiel,0,1,0,FP_eliminado,"El presupuesto del programa crecerá 1,5 millones de euros en 2026."
+B3_sin_NLI,H212::r1,H,fiel,0,1,0,FP_eliminado,El centro tiene 1.050 alumnos entre ciclos duales y ordinarios este curso.
+B3_sin_NLI,H212::r3,H,fiel,0,1,0,FP_eliminado,Cinco de los 14 ciclos que ofrece el centro no se imparten en modalidad dual.
+B3_sin_NLI,H213::r7,H,fiel,0,0,1,FP_nuevo,Afecta a menos de un tercio de los 820 trabajadores de la planta de Vilanzo.
+B3_sin_NLI,H215::r3,H,fiel,0,0,1,FP_nuevo,"Según el ayuntamiento de Grisel, el descenso se debe a las obras de la nueva variante."
+B3_sin_NLI,H215::r9,H,fiel,0,0,1,FP_nuevo,La comarca tenía 21.430 afiliados a la Seguridad Social a final de septiembre.
+B3_sin_NLI,H216::r7,H,fiel,0,0,1,FP_nuevo,En 2027 habrá 30 becas más que en la convocatoria de 2026.
+B3_sin_NLI,H216::r9,H,fiel,0,0,1,FP_nuevo,"Las becas cubren tres meses de prácticas, con 1.100 euros mensuales en Alemania y Países Bajos y 900 en Portugal e Italia."
+B3_sin_NLI,H217::r7,H,fiel,0,1,0,FP_eliminado,"Las ventas al exterior sumaron 4.820 millones de euros y las compras al exterior bajaron un 2 %, hasta 3.910 millones."
+B3_sin_NLI,H219::r3,H,fiel,0,1,0,FP_eliminado,Portocelo movió 470.000 TEU más que Escaleira en 2025.
+B3_sin_NLI,H302::r1,H,fiel,0,0,1,FP_nuevo,"De los 412 procedimientos atendidos en 2025, 251 acabaron con algún tipo de acuerdo, total o parcial."
+B3_sin_NLI,H302::r6,H,fiel,0,0,1,FP_nuevo,"La sesión informativa inicial no tiene coste. A partir de ahí, cada parte paga 40 euros por sesión, excepto quienes sean beneficiarios de justicia gratuita."
+B3_sin_NLI,H303::r6,H,fiel,0,1,0,FP_eliminado,"Tendrá 14 salas de vistas, dos de ellas preparadas para menores y víctimas vulnerables. Sustituirá a las tres sedes judiciales actuales, y el viejo edificio de la calle Mercaderes pasará a ser archivo judicial. La obra la ejecutará Hormigones Teixal, que se la adjudicó en mayo de 2026."
+B3_sin_NLI,H303::r7,H,no_respaldado,1,1,0,FN_nuevo,"Concentrará en un único edificio las tres sedes judiciales actuales para ahorrar en alquileres, con 14 salas de vistas."
+B3_sin_NLI,H308::r5,H,no_respaldado,1,1,0,FN_nuevo,"El dispositivo crece en 38 efectivos, hasta 412, para responder a las 1.870 hectáreas quemadas en 2025."
+B3_sin_NLI,H308::r8,H,fiel,0,1,0,FP_eliminado,"La campaña irá del 1 de junio a mediados de octubre, en concreto hasta el día 15, con seis medios aéreos."
+B3_sin_NLI,H309::r2,H,distorsion,1,1,0,FN_nuevo,"Las sirenas sonaron a las 10:05 y el confinamiento de los colegios se completó en 18 minutos, cuatro menos que en 2024."
+B3_sin_NLI,H309::r6,H,fiel,0,1,0,FP_eliminado,Se celebró el 22 de abril de 2026 con 1.150 participantes y las sirenas sonaron a las 10:05.
+B3_sin_NLI,H312::r1,H,fiel,0,0,1,FP_nuevo,"Abrió 18 refugios, siete más que en 2025."
+B3_sin_NLI,H313::r1,H,fiel,0,1,0,FP_eliminado,"La Diputación aporta 8,2 millones de los 27,4 millones de inversión."
+B3_sin_NLI,H313::r3,H,fiel,0,1,0,FP_eliminado,"Para no sufrir penalizaciones, Redes Ábrego tendrá que haber conectado al menos 172 de los 214 núcleos en diciembre de 2027."
+B3_sin_NLI,H314::r1,H,fiel,0,0,1,FP_nuevo,Vialtel apagará su 3G en las provincias del norte el 30 de junio de 2027 y en el resto del país el 31 de diciembre de 2027.
+B3_sin_NLI,H314::r4,H,fiel,0,0,1,FP_nuevo,Los clientes de las provincias del norte perderán el 3G seis meses antes que los del resto del país.
+B3_sin_NLI,H315::r3,H,fiel,0,1,0,FP_eliminado,"La facturación motivó el 44 % de las reclamaciones, más del doble que la portabilidad, con el 17 %."
+B3_sin_NLI,H316::r7,H,fiel,0,0,1,FP_nuevo,"En suelo urbano bastará con presentar una declaración responsable, mientras que en suelo rústico hará falta licencia."
+B3_sin_NLI,H318::r2,H,distorsion,1,1,0,FN_nuevo,"Entre arrastre y palangre, la cofradía podrá capturar 1.860 toneladas de merluza en 2027."
+B3_sin_NLI,H322::r8,H,fiel,0,0,1,FP_nuevo,Las 24 tomas del muelle de bajura servirán para que los barcos apaguen los motores auxiliares mientras están amarrados.
+B3_sin_NLI,H401::r8,H,sobregeneralizacion,1,1,0,FN_nuevo,"Los municipios de la comarca de Valdesorbe ganaron población en 2025; Torralcina, por ejemplo, pasó de 17.960 a 18.420 habitantes."
+B3_sin_NLI,H402::r2,H,distorsion,1,0,1,FN_eliminado,"Servicios sociales pasa de 3,1 a 3,9 millones de euros, 0,9 millones más, para ampliar la ayuda a domicilio."
+B3_sin_NLI,H402::r6,H,fiel,0,0,1,FP_nuevo,"La partida de servicios sociales sube hasta 3,9 millones con el objetivo de ampliar el servicio de ayuda a domicilio."
+B3_sin_NLI,H402::r8,H,fiel,0,0,1,FP_nuevo,"De las 14 enmiendas de la oposición se aceptaron 3, así que 11 no salieron adelante."
+B3_sin_NLI,H404::r6,H,fiel,0,0,1,FP_nuevo,"Izquierda Comarcal, con 1.020 votos, obtuvo más del doble de apoyos que Unión Serrana, que se quedó en 488."
+B3_sin_NLI,H408::r7,H,fiel,0,0,1,FP_nuevo,"Las Tenerías es el barrio con peor percepción de seguridad nocturna (31 %) y El Miravalle, el que la tiene mejor (63 %)."
+B3_sin_NLI,H408::r8,H,fiel,0,0,1,FP_nuevo,"La encuesta, con 2.140 entrevistas, muestra que el 71 % se siente seguro de día y el 46 % de noche, y que la proporción de víctimas de algún delito bajó del 14 % al 12 %."
+B3_sin_NLI,H412::r1,H,fiel,0,1,0,FP_eliminado,"El Ayuntamiento justifica la subida de la tasa de basuras por el nuevo contrato de recogida, que encarece el servicio un 11 %."
+B3_sin_NLI,H412::r2,H,sobregeneralizacion,1,1,0,FN_nuevo,"Los locales comerciales pagarán un 9 % más de tasa de basuras en 2026, y las viviendas, un 4,5 % más."
+B3_sin_NLI,H412::r5,H,distorsion,1,1,0,FN_nuevo,"La recaudación prevista por la tasa de basuras crece un 8 %, de 6,4 a 6,8 millones de euros."
+B3_sin_NLI,H412::r9,H,fiel,0,1,0,FP_eliminado,"Con el 0,52 %, el tipo del IBI de Lerinda queda 0,09 puntos por debajo del de Montesorio."
+B3_sin_NLI,H413::r3,H,distorsion,1,0,1,FN_eliminado,"Entre el distrito Centro (70,2 %) y Las Canteras (44,9 %) hubo una diferencia de participación de 15,3 puntos."
+B3_sin_NLI,H414::r1,H,fiel,0,0,1,FP_nuevo,Los hogares en los que conviven tres o más generaciones se redujeron en 1.800 entre 2015 y 2025.
+B3_sin_NLI,H414::r4,H,fiel,0,0,1,FP_nuevo,En más de ocho de cada diez hogares monoparentales la persona de referencia es una mujer.
+B3_sin_NLI,H414::r8,H,fiel,0,0,1,FP_nuevo,El estudio solo tiene en cuenta los hogares en viviendas familiares y deja fuera residencias y otros establecimientos colectivos.
+B3_sin_NLI,H417::r3,H,fiel,0,0,1,FP_nuevo,"Con el acuerdo de junio de 2024, Futuro Ribagorza y Los Verdes del Esla suman 8 de los 13 concejales."
+B3_sin_NLI,H417::r6,H,fiel,0,0,1,FP_nuevo,"El Partido Montañés logró su mejor resultado en la pedanía de Villar de Esla, con el 58 % de los votos."
+B3_sin_NLI,H418::r1,H,fiel,0,1,0,FP_eliminado,En 2025 las defunciones superaron a los nacimientos en 382 en la isla.
+B3_sin_NLI,H418::r4,H,fiel,0,0,1,FP_nuevo,"Puerto Calima fue el único de los siete municipios de la isla en el que subió la natalidad, un 3 %."
+B3_sin_NLI,H421::r7,H,fiel,0,0,1,FP_nuevo,El Partido Serrano ganó por solo 7 votos: 1.904 frente a los 1.897 de Ciudadanos por Lezna.
+B3_sin_NLI,g04,no-H,fiel,0,0,1,FP_nuevo,La sonda despegó en marzo y tardó siete meses en llegar a su destino. Orbitó el planeta durante dos años. A lo largo de la misión envió más de 30.000 imágenes a la Tierra.
+B3_sin_NLI,g07,no-H,fiel,0,1,0,FP_eliminado,"La reforma reduce la jornada laboral a 37,5 horas semanales. Entrará en vigor de forma gradual hasta 2026. Afecta a las empresas de más de 50 empleados."
+B3_sin_NLI,g10,no-H,fiel,0,0,1,FP_nuevo,El río recuperó ocho especies de peces tras la limpieza. La calidad del agua mejoró de forma sostenida. El proyecto tuvo un coste de 4 millones de euros.
+B3_sin_NLI,g16,no-H,fiel,0,0,1,FP_nuevo,"La excavación sacó a la luz un mosaico de 40 metros cuadrados. Los arqueólogos dataron el yacimiento en el siglo II. Se recuperaron, asimismo, varias monedas de bronce."
+B5_sustituye_matices,e09::par,no-H,fiel,0,0,1,FP_nuevo,"En sus 1.200 hectáreas, el parque resguarda diversas especies de aves."
+B5_sustituye_matices,e17,no-H,fiel,0,1,0,FP_eliminado,El salario mínimo subió a 1.134 euros en 2024.
+B5_sustituye_matices,e17::par,no-H,fiel,0,1,0,FP_eliminado,En 2024 el sueldo mínimo quedó fijado en mil ciento treinta y cuatro euros.
+B5_sustituye_matices,e32,no-H,fiel,0,1,0,FP_eliminado,El corazón humano late unas 70 veces por minuto en reposo.
+B5_sustituye_matices,e43::par,no-H,fiel,0,1,0,FP_eliminado,El relato alude a una docena de trabajos del héroe.
+B5_sustituye_matices,e47::par,no-H,fiel,0,1,0,FP_eliminado,El Sahara ocupa cerca de 9 millones de kilómetros cuadrados.
+B5_sustituye_matices,e49,no-H,fiel,0,1,0,FP_eliminado,El cable soporta velocidades de 10 gigabits por segundo.
+B5_sustituye_matices,e64::par,no-H,fiel,0,0,1,FP_nuevo,"La Revolución Francesa arrancó a finales del siglo XVIII, en mil setecientos ochenta y nueve."
+B5_sustituye_matices,e76,no-H,fiel,0,1,0,FP_eliminado,La luz del Sol tarda unos 8 minutos en llegar a la Tierra.
+B5_sustituye_matices,e85,no-H,fiel,0,1,0,FP_eliminado,La fosa alcanza unos 11.000 metros de profundidad.
+B5_sustituye_matices,e85::par,no-H,fiel,0,1,0,FP_eliminado,La fosa llega a cerca de 11.000 metros de hondo.
+B5_sustituye_matices,e88,no-H,fiel,0,0,1,FP_nuevo,"En crecida, el río llega a 2.000 metros cúbicos por segundo."
+B5_sustituye_matices,e88::par,no-H,fiel,0,0,1,FP_nuevo,"Durante las crecidas, el río alcanza los 2.000 metros cúbicos por segundo."
+B5_sustituye_matices,s01::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con una muestra de 1.800 personas, el fármaco bajó la tensión un doce por ciento y apenas causó efectos adversos."
+B5_sustituye_matices,s09::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 18 goles de su delantero y solo 29 encajados, el conjunto terminó en tercera posición."
+B5_sustituye_matices,s19::fiel1,no-H,fiel,0,0,1,FP_nuevo,"Con 600 alumnos y 45 profesores, el centro aprobó al 92 % e imparte bachillerato y FP."
+B5_sustituye_matices,s20,no-H,fiel,0,0,1,FP_nuevo,El municipio tiene 12.000 habitantes con una edad media de 44 años y 5.000 viviendas.
+B5_sustituye_matices,s26::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Sus 40 aerogeneradores producen 120 megavatios, suficientes para 90.000 hogares."
+B5_sustituye_matices,s29,no-H,fiel,0,0,1,FP_nuevo,"La startup, con 60 empleados y 2 millones de usuarios en ocho países, levantó 15 millones."
+B5_sustituye_matices,s29::fiel1,no-H,fiel,0,0,1,FP_nuevo,"Con 2 millones de usuarios en ocho países y 60 empleados, la empresa captó 15 millones."
+B5_sustituye_matices,s32::fiel1,no-H,fiel,0,1,0,FP_eliminado,"Con 10 aviones nuevos y 300 empleos, la compañía estrenará 6 rutas hacia el sur de Europa."
+B5_sustituye_matices,s33::fiel1,no-H,fiel,0,1,0,FP_eliminado,"A lo largo de diez días, el certamen mostró 120 filmes a 50.000 personas y galardonó una ópera prima."
+B5_sustituye_matices,N09::r1,no-H,fiel,0,1,0,FP_eliminado,"Entre los dos centros atendieron 326.000 llamadas, y en ambos tres de cada diez no eran urgentes."
+B5_sustituye_matices,N09::r2,no-H,fiel,0,1,0,FP_eliminado,"El Sur respondió de media en 9 segundos, dos más que el Norte, y atendió un tres por ciento menos de llamadas que en 2024."
+B5_sustituye_matices,T02::r6,no-H,fiel,0,0,1,FP_nuevo,"Las sociedades constituidas pasaron de 1.720 a 1.940 y las disoluciones bajaron de 610 a 540, es decir, setenta menos que el año anterior."
+B5_sustituye_matices,T09::r1,no-H,fiel,0,1,0,FP_eliminado,"Con 21 triunfos y 9 derrotas, dos victorias más que el Morón."
+B5_sustituye_matices,T09::r4,no-H,no_respaldado,1,1,0,FN_nuevo,"Terminó con un balance de 21-9, lo que le da el factor cancha en la semifinal ante el Morón."
+B5_sustituye_matices,T09::r5,no-H,fiel,0,1,0,FP_eliminado,"Acabó 21-9, con 81,4 puntos por partido, y se medirá al Morón en semifinales."
+B5_sustituye_matices,T10::r3,no-H,fiel,0,0,1,FP_nuevo,"Once medallas, cuatro más que en la edición anterior, con tres oros, cinco platas y tres bronces."
+B5_sustituye_matices,T13::r2,no-H,fiel,0,1,0,FP_eliminado,"Vendió 1.200 entradas más que en la edición anterior, hasta 9.800."
+B5_sustituye_matices,T21::r1,no-H,fiel,0,1,0,FP_eliminado,"Los alumnos de primero y segundo de ESO que suspendieron Matemáticas el curso anterior reciben dos horas de refuerzo a la semana, en grupos de ocho como mucho."
+B5_sustituye_matices,T21::r2,no-H,fiel,0,1,0,FP_eliminado,Lo imparten 96 docentes contratados para ello en 48 institutos canarios.
+B5_sustituye_matices,T22::r5,no-H,fiel,0,0,1,FP_nuevo,"La línea 7 subió un 12 %, hasta 3,2 millones de viajeros, mientras la 3 perdió un 2 %; desde marzo, la 7 pasa cada 8 minutos en hora punta en lugar de cada 12."
+B5_sustituye_matices,T27::r3,no-H,fiel,0,0,1,FP_nuevo,"Tardó 94 días de media en las 312 licencias de obra nueva que concedió, frente a los 131 de 2024; las obras menores se resolvieron en 21 días."
+B5_sustituye_matices,G02::r2,no-H,fiel,0,0,1,FP_nuevo,"El contrato dura un año y se prorroga automáticamente por años, salvo que se denuncie con un mes de antelación."
+B5_sustituye_matices,G04::r2,no-H,fiel,0,0,1,FP_nuevo,La causa raíz fue que la versión 4.18.0 abría una conexión nueva en cada reintento sin liberar la previa. Esa versión se había desplegado a las 09:05 en el clúster pay-eu-1. A las 09:31 se abrió una incidencia de severidad 1 y se convocó al equipo de guardia.
+B5_sustituye_matices,G06::r2,no-H,fiel,0,1,0,FP_eliminado,"En esa franja entraron 2.140 pedidos, frente a los 3.900 del día anterior a la misma hora."
+B5_sustituye_matices,G12::r1,no-H,fiel,0,1,0,FP_eliminado,"En el trimestre hubo dos accidentes con baja, uno en envasado y otro en el almacén, y cinco sin baja. El comité aprobó colocar barreras fotoeléctricas en las dos prensas de la línea 3, con fecha límite el 31 de julio. Durante junio, el turno de noche recibirá formación en manejo de cargas, que el de mañana ya hizo en abril. A petición de la delegada de prevención, un servicio externo medirá el ruido en la nave B."
+B5_sustituye_matices,G17::r1,no-H,fiel,0,1,0,FP_eliminado,"Tras el alta, el paciente debe tomar un comprimido de amoxicilina con clavulánico de 875/125 mg cada ocho horas durante una semana. Además, se pondrá una inyección subcutánea diaria de enoxaparina de 40 mg durante diez días, siempre a la misma hora. Mientras dure el antibiótico tomará también omeprazol de 20 mg en ayunas. El paracetamol de 1 gramo se tomará cada ocho horas únicamente si hay dolor, sin superar 3 gramos al día."
+B5_sustituye_matices,G23::r1,no-H,fiel,0,0,1,FP_nuevo,"La factura FE-2026-118734 cubre 31 días, del 3 de julio al 2 de agosto, con 4,6 kW de potencia contratada. En ese tiempo se consumieron 312 kWh: 96 en punta, 104 en llano y 112 en valle. Por energía se cobran 41,27 euros y por potencia 15,40. Sumando el alquiler del contador, el impuesto eléctrico y el IVA, el total asciende a 73,18 euros, que se cargarán el 12 de agosto."
+B5_sustituye_matices,R02::r1,no-H,fiel,0,1,0,FP_eliminado,"El espesor máximo del invierno 2023-2024, 94 centímetros, quedó 66 centímetros por debajo de la media de 1991-2020."
+B5_sustituye_matices,R15::r2,no-H,fiel,0,1,0,FP_eliminado,"Las dos modalidades se diferencian en velocidad y en el router: Hogar 600 trae wifi 5 y Hogar 1G, wifi 6. En Hogar 1G la mínima garantizada por cable es el 70 % de lo contratado. La instalación es gratuita con 12 meses de permanencia o cuesta 95 euros sin ella. Lo que llegue por wifi queda sin garantía."
+B5_sustituye_matices,H102::r1,H,fiel,0,1,0,FP_eliminado,"Se vendieron 61.300 tapas, 6.500 más que en la edición de 2025."
+B5_sustituye_matices,H108::r1,H,fiel,0,1,0,FP_eliminado,"Abrió en abril de 2026, ocupa 48.000 metros cuadrados y da servicio a 130 tiendas."
+B5_sustituye_matices,H108::r8,H,fiel,0,1,0,FP_eliminado,"Seis de cada diez camiones de reparto del centro usan diésel y los demás, gas natural."
+B5_sustituye_matices,H109::r9,H,fiel,0,0,1,FP_nuevo,"Además de cuatro trabajadores en plantilla, el banco tiene 85 voluntarios estables, en su mayoría jubilados."
+B5_sustituye_matices,H112::r8,H,fiel,0,0,1,FP_nuevo,"212 voluntarios, con 3 horas semanales de media cada uno, acompañaron en 2025 a 340 mayores de 75 años que viven solos; la lista de espera bajó a 95 personas y el 72 % de los 180 encuestados se sentía menos solo a los seis meses."
+B5_sustituye_matices,H113::r9,H,fiel,0,1,0,FP_eliminado,"Herminia Saldaña conduce «Despierta Vallebrío», el matinal de la emisora, que tiene 21.000 oyentes."
+B5_sustituye_matices,H114::r9,H,fiel,0,1,0,FP_eliminado,"En 2025 se incorporaron 6 periodistas a la redacción, todos en la sección de datos."
+B5_sustituye_matices,H117::r3,H,distorsion,1,1,0,FN_nuevo,El fútbol sala y el baloncesto sumaron entre los dos 1.980 inscritos.
+B5_sustituye_matices,H118::r4,H,fiel,0,1,0,FP_eliminado,"De sus 31 entrenadores, 19 no tienen el título de nivel II."
+B5_sustituye_matices,H120::r9,H,fiel,0,1,0,FP_eliminado,No hay actas de 1937 a 1939 porque se perdieron en el incendio del ayuntamiento de 1938.
+B5_sustituye_matices,H202::r1,H,fiel,0,1,0,FP_eliminado,La Hipoteca Joven financia hasta el 95 % del valor de tasación a menores de 36 años si la vivienda va a ser su residencia habitual.
+B5_sustituye_matices,H203::r9,H,fiel,0,1,0,FP_eliminado,"En 2025 rentó un 4,6 %, cerró el año con 258 millones de patrimonio y cobra un 0,95 % de gestión a la clase general y un 0,45 % a la institucional."
+B5_sustituye_matices,H212::r3,H,fiel,0,1,0,FP_eliminado,Cinco de los 14 ciclos que ofrece el centro no se imparten en modalidad dual.
+B5_sustituye_matices,H213::r9,H,fiel,0,1,0,FP_eliminado,"El ERTE, firmado el 3 de febrero de 2026, afecta a 260 empleados de Vilanzo durante un máximo de 90 días por persona hasta el 31 de julio, con un complemento hasta el 85 % del salario bruto; la planta de Soterraña queda excluida."
+B5_sustituye_matices,H215::r3,H,fiel,0,0,1,FP_nuevo,"Según el ayuntamiento de Grisel, el descenso se debe a las obras de la nueva variante."
+B5_sustituye_matices,H218::r7,H,fiel,0,0,1,FP_nuevo,"En 2025, 83 de las 214 pymes participantes no lograron ninguna venta exterior en los doce meses siguientes."
+B5_sustituye_matices,H220::r1,H,fiel,0,0,1,FP_nuevo,El arancel al vino embotellado bajará 18 puntos el primer año.
+B5_sustituye_matices,H222::r4,H,fiel,0,0,1,FP_nuevo,Más de siete de cada diez pares fabricados en 2025 se exportaron.
+B5_sustituye_matices,H303::r6,H,fiel,0,1,0,FP_eliminado,"Tendrá 14 salas de vistas, dos de ellas preparadas para menores y víctimas vulnerables. Sustituirá a las tres sedes judiciales actuales, y el viejo edificio de la calle Mercaderes pasará a ser archivo judicial. La obra la ejecutará Hormigones Teixal, que se la adjudicó en mayo de 2026."
+B5_sustituye_matices,H303::r7,H,no_respaldado,1,1,0,FN_nuevo,"Concentrará en un único edificio las tres sedes judiciales actuales para ahorrar en alquileres, con 14 salas de vistas."
+B5_sustituye_matices,H303::r8,H,fiel,0,1,0,FP_eliminado,"La construcción, adjudicada a Hormigones Teixal, tiene un plazo de dos años y medio contados desde el acta de replanteo."
+B5_sustituye_matices,H306::r7,H,fiel,0,0,1,FP_nuevo,"De los 2.140 juicios celebrados en 2025, 1.380 no fueron por despido."
+B5_sustituye_matices,H312::r1,H,fiel,0,0,1,FP_nuevo,"Abrió 18 refugios, siete más que en 2025."
+B5_sustituye_matices,H313::r1,H,fiel,0,1,0,FP_eliminado,"La Diputación aporta 8,2 millones de los 27,4 millones de inversión."
+B5_sustituye_matices,H313::r3,H,fiel,0,1,0,FP_eliminado,"Para no sufrir penalizaciones, Redes Ábrego tendrá que haber conectado al menos 172 de los 214 núcleos en diciembre de 2027."
+B5_sustituye_matices,H313::r8,H,fiel,0,1,0,FP_eliminado,"Más de dos tercios de la inversión, 19,2 de los 27,4 millones, procede de fondos europeos."
+B5_sustituye_matices,H314::r5,H,distorsion,1,1,0,FN_nuevo,"Vialtel calcula que el apagado liberará 15 MHz de espectro, que destinará a 5G."
+B5_sustituye_matices,H315::r8,H,fiel,0,0,1,FP_nuevo,"Recibió 38.600 reclamaciones, un seis por ciento menos que el año anterior, y tardó de media 4,1 meses en resolverlas, por debajo del máximo de seis."
+B5_sustituye_matices,H316::r1,H,fiel,0,0,1,FP_nuevo,"De las 46 antenas actuales del municipio, 27 no están en azoteas de edificios residenciales."
+B5_sustituye_matices,H401::r8,H,sobregeneralizacion,1,1,0,FN_nuevo,"Los municipios de la comarca de Valdesorbe ganaron población en 2025; Torralcina, por ejemplo, pasó de 17.960 a 18.420 habitantes."
+B5_sustituye_matices,H404::r4,H,fiel,0,1,0,FP_eliminado,"AVT ganó con 2.651 votos y 7 concejales, dos más que en 2019, y su candidata, Clotilde Olivenza, fue investida con el apoyo de Unión Serrana; el Partido Ribereño bajó de 7 a 5 ediles."
+B5_sustituye_matices,H408::r3,H,fiel,0,1,0,FP_eliminado,Menos de cuatro de cada diez víctimas presentaron denuncia.
+B5_sustituye_matices,H408::r5,H,distorsion,1,1,0,FN_nuevo,La Universidad de Ribafría hizo el trabajo de campo y la encuesta se repetirá en 2028.
+B5_sustituye_matices,H411::r1,H,fiel,0,0,1,FP_nuevo,"Unidos por Gandarela mejoraría 2,6 puntos respecto a 2023, del 33,8 % al 36,4 %."
+B5_sustituye_matices,H411::r7,H,fiel,0,1,0,FP_eliminado,"Con 600 entrevistas, el sondeo da a Unidos por Gandarela el 36,4 %, al Bloque Ciudadano el 29,1 % y a Alternativa Verde el 11,7 %, lo que permitiría a esta última entrar por primera vez en el pleno con 2 concejales."
+B5_sustituye_matices,H412::r3,H,sobregeneralizacion,1,1,0,FN_nuevo,Los coches eléctricos tendrán una rebaja del 75 % en el impuesto de vehículos.
+B5_sustituye_matices,H412::r6,H,fiel,0,1,0,FP_eliminado,"Quedarán exentos de la tasa de basuras los hogares en los que todos sus miembros estén desempleados, si lo solicitan antes del 31 de marzo."
+B5_sustituye_matices,H412::r9,H,fiel,0,1,0,FP_eliminado,"Con el 0,52 %, el tipo del IBI de Lerinda queda 0,09 puntos por debajo del de Montesorio."
+B5_sustituye_matices,H413::r3,H,distorsion,1,0,1,FN_eliminado,"Entre el distrito Centro (70,2 %) y Las Canteras (44,9 %) hubo una diferencia de participación de 15,3 puntos."
+B5_sustituye_matices,H416::r2,H,sobregeneralizacion,1,1,0,FN_nuevo,Los municipios de menos de 1.000 habitantes reciben como mínimo 90.000 euros cada uno.
+B5_sustituye_matices,g07,no-H,fiel,0,1,0,FP_eliminado,"La reforma reduce la jornada laboral a 37,5 horas semanales. Entrará en vigor de forma gradual hasta 2026. Afecta a las empresas de más de 50 empleados."

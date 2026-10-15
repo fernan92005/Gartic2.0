@@ -1,0 +1,110 @@
+[
+  {
+    "variant": "B0",
+    "n": 63,
+    "fn": 2,
+    "recall": 0.9682539682539683,
+    "cost": 8,
+    "corrected": 0,
+    "new": 0
+  },
+  {
+    "variant": "B1",
+    "n": 63,
+    "fn": 2,
+    "recall": 0.9682539682539683,
+    "cost": 8,
+    "corrected": 0,
+    "new": 0
+  },
+  {
+    "variant": "B2",
+    "n": 63,
+    "fn": 3,
+    "recall": 0.9523809523809523,
+    "cost": 12,
+    "corrected": 0,
+    "new": 1
+  },
+  {
+    "variant": "B3",
+    "n": 63,
+    "fn": 4,
+    "recall": 0.9365079365079365,
+    "cost": 16,
+    "corrected": 0,
+    "new": 2
+  },
+  {
+    "variant": "B4",
+    "n": 63,
+    "fn": 2,
+    "recall": 0.9682539682539683,
+    "cost": 8,
+    "corrected": 0,
+    "new": 0
+  },
+  {
+    "variant": "B5",
+    "n": 63,
+    "fn": 3,
+    "recall": 0.9523809523809523,
+    "cost": 12,
+    "corrected": 0,
+    "new": 1
+  },
+  {
+    "variant": "B6",
+    "n": 63,
+    "fn": 5,
+    "recall": 0.9206349206349207,
+    "cost": 20,
+    "corrected": 0,
+    "new": 3
+  },
+  {
+    "variant": "B7",
+    "n": 63,
+    "fn": 3,
+    "recall": 0.9523809523809523,
+    "cost": 12,
+    "corrected": 0,
+    "new": 1
+  },
+  {
+    "variant": "B1_norm",
+    "n": 63,
+    "fn": 2,
+    "recall": 0.9682539682539683,
+    "cost": 8,
+    "corrected": 0,
+    "new": 0
+  },
+  {
+    "variant": "B0_sin_NLI",
+    "n": 63,
+    "fn": 6,
+    "recall": 0.9047619047619048,
+    "cost": 24,
+    "corrected": 0,
+    "new": 4
+  },
+  {
+    "variant": "B3_sin_NLI",
+    "n": 63,
+    "fn": 5,
+    "recall": 0.9206349206349207,
+    "cost": 20,
+    "corrected": 0,
+    "new": 3
+  },
+  {
+    "variant": "B5_sustituye_matices",
+    "n": 63,
+    "fn": 5,
+    "recall": 0.9206349206349207,
+    "cost": 20,
+    "corrected": 0,
+    "new": 3
+  }
+]

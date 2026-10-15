@@ -1,0 +1,136 @@
+{
+  "target": "entregas/joseca_v1/mi_bot.py",
+  "sha256": "edd2cfda1bb3e5d6c811ced2c1e0c0b3553aeaefd2080256e921fd8ccf36a510",
+  "features": [
+    "llm_no_respaldada",
+    "llm_contradicha",
+    "llm_sin_veredicto",
+    "llm_conf_min_respaldada",
+    "nli_resp_todas_min_orac",
+    "nli_resp_todas_min_frag",
+    "nli_contr_todas_max_orac",
+    "nli_contr_todas_max_frag",
+    "nli_mejor_fuente_min_orac",
+    "nli_contr_fuente_max_frag",
+    "nli_resp_fuente_citada_min",
+    "num_inexplicados",
+    "num_derivado_casual",
+    "num_sospechosos_grandes",
+    "num_derivado_local",
+    "num_derivado_anclado",
+    "num_cuenta_falsa",
+    "num_cuenta_correcta",
+    "num_hay_cifras",
+    "num_proporcion_falsa",
+    "nombre_inventado",
+    "matiz_perdido_tramo_restrictivo",
+    "matiz_perdido_fuente_restrictivo",
+    "matiz_perdido_tramo_condicional",
+    "matiz_perdido_fuente_condicional",
+    "matiz_perdido_tramo_aproximado",
+    "matiz_perdido_fuente_aproximado",
+    "matiz_perdido_tramo_parcial",
+    "matiz_perdido_fuente_parcial",
+    "huecos_tramo_max",
+    "anadido_universal",
+    "anadido_causal",
+    "anadido_causal_todas",
+    "palabras_nuevas_frac",
+    "llm_ok_y_num_sospechoso",
+    "llm_ok_y_nli_bajo",
+    "llm_contra_sin_apoyo",
+    "n_oraciones",
+    "llmok_num_inexplicados",
+    "llmok_num_derivado_casual",
+    "llmok_num_sospechosos_grandes",
+    "llmok_num_derivado_local",
+    "llmok_num_derivado_anclado",
+    "llmok_num_cuenta_falsa",
+    "llmok_num_cuenta_correcta",
+    "llmok_num_hay_cifras",
+    "llmok_num_proporcion_falsa",
+    "llmok_nombre_inventado",
+    "llmok_matiz_perdido_tramo_restrictivo",
+    "llmok_matiz_perdido_fuente_restrictivo",
+    "llmok_matiz_perdido_tramo_condicional",
+    "llmok_matiz_perdido_fuente_condicional",
+    "llmok_matiz_perdido_tramo_aproximado",
+    "llmok_matiz_perdido_fuente_aproximado",
+    "llmok_matiz_perdido_tramo_parcial",
+    "llmok_matiz_perdido_fuente_parcial",
+    "llmok_huecos_tramo_max",
+    "llmok_anadido_universal",
+    "llmok_anadido_causal",
+    "llmok_anadido_causal_todas"
+  ],
+  "feature_count": 60,
+  "threshold": 0.15,
+  "config": {
+    "weight_h": 5.0,
+    "l2": 10.0,
+    "max_parameter_error": 4.830368889874315e-07,
+    "matches_rounded_parameters": true
+  },
+  "config_audit": [
+    {
+      "weight_h": 1.0,
+      "l2": 3.0,
+      "max_parameter_error": 0.4076722860280688,
+      "matches_rounded_parameters": false
+    },
+    {
+      "weight_h": 1.0,
+      "l2": 10.0,
+      "max_parameter_error": 0.4262045274249092,
+      "matches_rounded_parameters": false
+    },
+    {
+      "weight_h": 1.0,
+      "l2": 30.0,
+      "max_parameter_error": 0.6465874538118134,
+      "matches_rounded_parameters": false
+    },
+    {
+      "weight_h": 3.0,
+      "l2": 3.0,
+      "max_parameter_error": 0.4887166319784715,
+      "matches_rounded_parameters": false
+    },
+    {
+      "weight_h": 3.0,
+      "l2": 10.0,
+      "max_parameter_error": 0.17265589551822658,
+      "matches_rounded_parameters": false
+    },
+    {
+      "weight_h": 3.0,
+      "l2": 30.0,
+      "max_parameter_error": 0.4628563133856798,
+      "matches_rounded_parameters": false
+    },
+    {
+      "weight_h": 5.0,
+      "l2": 3.0,
+      "max_parameter_error": 0.514861803149,
+      "matches_rounded_parameters": false
+    },
+    {
+      "weight_h": 5.0,
+      "l2": 10.0,
+      "max_parameter_error": 4.830368889874315e-07,
+      "matches_rounded_parameters": true
+    },
+    {
+      "weight_h": 5.0,
+      "l2": 30.0,
+      "max_parameter_error": 0.34582226967081453,
+      "matches_rounded_parameters": false
+    }
+  ],
+  "leaderboard_evidence_commit": "b6e5a9787f4de02b984ca982fd6556b8f047866c",
+  "leaderboard_evidence_message": "Bot v2 del Guardián (entrega 1: 0,353 pública, AUROC 0,905) y script de entrenamiento\n\n- kit/mi_bot.py: características (juez LLM, NLI, cifras y cuentas, matices\n  perdidos, causas y alcance añadidos) combinadas con regresión logística.\n  Python puro; los pesos van dentro del fichero.\n- kit/entrenar.py: validación por familias H, elección del corte, ablación\n  y escritura de los pesos en mi_bot.py (usa numpy).\n- .gitignore: cachés de Python, entornos y predicciones locales.\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\n\n",
+  "leaderboard_caveat": "Coincidencia exacta con el archivo del commit que registra las métricas; no se dispone del recibo del servidor ni de etiquetas de test.",
+  "e4_sha256": "cc27f79f220da13664361a30d8426cd0dcbbbcfe70a825972b70a8e5437c53e3",
+  "kit_mi_bot_exists": false,
+  "previous_experiments_present": false
+}

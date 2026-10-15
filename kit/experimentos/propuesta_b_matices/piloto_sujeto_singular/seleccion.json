@@ -1,0 +1,160 @@
+{
+  "selected": null,
+  "gate": [
+    {
+      "variant": "B1",
+      "passed": false,
+      "checks": {
+        "positive_folds": false,
+        "adjusted_ci_positive": false,
+        "repeat_positive": true,
+        "auroc_non_decreasing": false,
+        "global_cost_non_increasing": true,
+        "multi_cost_non_increasing": true,
+        "sobregeneralizacion_fn_non_increasing": true
+      },
+      "fold_deltas": [
+        0.0,
+        0.08064516129032262,
+        -0.015625,
+        0.016393442622950838
+      ],
+      "delta_h": 0.02008032128514059,
+      "delta_auroc_h": -0.0031554790590936355,
+      "delta_sob_fn": 0
+    },
+    {
+      "variant": "B2",
+      "passed": false,
+      "checks": {
+        "positive_folds": false,
+        "adjusted_ci_positive": false,
+        "repeat_positive": true,
+        "auroc_non_decreasing": true,
+        "global_cost_non_increasing": true,
+        "multi_cost_non_increasing": true,
+        "sobregeneralizacion_fn_non_increasing": false
+      },
+      "fold_deltas": [
+        0.0,
+        0.14516129032258063,
+        -0.078125,
+        -0.08196721311475408
+      ],
+      "delta_h": -0.004016064257028162,
+      "delta_auroc_h": 0.0009323006310958393,
+      "delta_sob_fn": 1
+    },
+    {
+      "variant": "B3",
+      "passed": false,
+      "checks": {
+        "positive_folds": true,
+        "adjusted_ci_positive": false,
+        "repeat_positive": true,
+        "auroc_non_decreasing": false,
+        "global_cost_non_increasing": true,
+        "multi_cost_non_increasing": true,
+        "sobregeneralizacion_fn_non_increasing": false
+      },
+      "fold_deltas": [
+        0.032258064516129004,
+        0.08064516129032262,
+        -0.15625,
+        0.032786885245901565
+      ],
+      "delta_h": -0.004016064257028162,
+      "delta_auroc_h": -0.005199368904188151,
+      "delta_sob_fn": 2
+    },
+    {
+      "variant": "B4",
+      "passed": false,
+      "checks": {
+        "positive_folds": false,
+        "adjusted_ci_positive": false,
+        "repeat_positive": false,
+        "auroc_non_decreasing": false,
+        "global_cost_non_increasing": false,
+        "multi_cost_non_increasing": false,
+        "sobregeneralizacion_fn_non_increasing": true
+      },
+      "fold_deltas": [
+        0.0,
+        0.0,
+        0.015625,
+        0.0
+      ],
+      "delta_h": 0.004016064257028051,
+      "delta_auroc_h": -0.0003944348823866628,
+      "delta_sob_fn": 0
+    },
+    {
+      "variant": "B5",
+      "passed": false,
+      "checks": {
+        "positive_folds": false,
+        "adjusted_ci_positive": false,
+        "repeat_positive": false,
+        "auroc_non_decreasing": true,
+        "global_cost_non_increasing": true,
+        "multi_cost_non_increasing": true,
+        "sobregeneralizacion_fn_non_increasing": false
+      },
+      "fold_deltas": [
+        0.048387096774193505,
+        0.14516129032258063,
+        -0.140625,
+        -0.016393442622950838
+      ],
+      "delta_h": 0.008032128514056214,
+      "delta_auroc_h": 0.0002689328743544772,
+      "delta_sob_fn": 1
+    },
+    {
+      "variant": "B6",
+      "passed": false,
+      "checks": {
+        "positive_folds": false,
+        "adjusted_ci_positive": false,
+        "repeat_positive": true,
+        "auroc_non_decreasing": false,
+        "global_cost_non_increasing": true,
+        "multi_cost_non_increasing": true,
+        "sobregeneralizacion_fn_non_increasing": false
+      },
+      "fold_deltas": [
+        -0.016129032258064613,
+        0.17741935483870963,
+        -0.234375,
+        0.06557377049180324
+      ],
+      "delta_h": -0.004016064257028162,
+      "delta_auroc_h": -0.005002151462994875,
+      "delta_sob_fn": 3
+    },
+    {
+      "variant": "B7",
+      "passed": false,
+      "checks": {
+        "positive_folds": false,
+        "adjusted_ci_positive": false,
+        "repeat_positive": true,
+        "auroc_non_decreasing": false,
+        "global_cost_non_increasing": true,
+        "multi_cost_non_increasing": true,
+        "sobregeneralizacion_fn_non_increasing": false
+      },
+      "fold_deltas": [
+        -0.016129032258064613,
+        0.17741935483870963,
+        -0.15625,
+        0.08196721311475408
+      ],
+      "delta_h": 0.02008032128514059,
+      "delta_auroc_h": -0.0034423407917384408,
+      "delta_sob_fn": 3
+    }
+  ],
+  "caveat": "Selección exploratoria sobre datos de desarrollo ya inspeccionados. No sustituye validación nueva ni permite prometer una mejora pública."
+}

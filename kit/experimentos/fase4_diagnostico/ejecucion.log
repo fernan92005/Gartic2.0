@@ -1,0 +1,8 @@
+JOSECA fold 0 current 0.3830556540233959 nested 0.17999999999999997
+JOSECA fold 1 current 0.31913978494623657 nested 0.19999999999999998
+JOSECA fold 2 current 0.3615556318681319 nested 0.23999999999999996
+JOSECA fold 3 current 0.13814207650273228 nested 0.16999999999999998
+VERIFICACIÓN OK: métrica oficial, folds externos/internos, scores y hashes.
+JOSECA OOF {'H': {'n': 473, 'tn': 114, 'fp': 135, 'fn': 12, 'tp': 212, 'cost': 183, 'score': 0.2650602409638554, 'auroc': 0.8597963281698222}, 'no-H': {'n': 807, 'tn': 164, 'fp': 198, 'fn': 6, 'tp': 439, 'cost': 222, 'score': 0.3867403314917127, 'auroc': 0.9661183189521385}, 'todos': {'n': 1280, 'tn': 278, 'fp': 333, 'fn': 18, 'tp': 651, 'cost': 405, 'score': 0.337152209492635, 'auroc': 0.934220408602624}, 'objective': 0.30156426812221254}
+JOSECA NESTED {'H': {'n': 473, 'tn': 133, 'fp': 116, 'fn': 21, 'tp': 203, 'cost': 200, 'score': 0.19678714859437751, 'auroc': 0.8597963281698222}, 'no-H': {'n': 807, 'tn': 213, 'fp': 149, 'fn': 9, 'tp': 436, 'cost': 185, 'score': 0.48895027624309395, 'auroc': 0.9661183189521385}, 'todos': {'n': 1280, 'tn': 346, 'fp': 265, 'fn': 30, 'tp': 639, 'cost': 385, 'score': 0.369885433715221, 'auroc': 0.934220408602624}, 'objective': 0.2844360868889924}
+INTEGRIDAD OK

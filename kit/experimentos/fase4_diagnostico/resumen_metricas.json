@@ -1,0 +1,936 @@
+{
+  "provenance": {
+    "target": "entregas/joseca_v1/mi_bot.py",
+    "sha256": "edd2cfda1bb3e5d6c811ced2c1e0c0b3553aeaefd2080256e921fd8ccf36a510",
+    "features": [
+      "llm_no_respaldada",
+      "llm_contradicha",
+      "llm_sin_veredicto",
+      "llm_conf_min_respaldada",
+      "nli_resp_todas_min_orac",
+      "nli_resp_todas_min_frag",
+      "nli_contr_todas_max_orac",
+      "nli_contr_todas_max_frag",
+      "nli_mejor_fuente_min_orac",
+      "nli_contr_fuente_max_frag",
+      "nli_resp_fuente_citada_min",
+      "num_inexplicados",
+      "num_derivado_casual",
+      "num_sospechosos_grandes",
+      "num_derivado_local",
+      "num_derivado_anclado",
+      "num_cuenta_falsa",
+      "num_cuenta_correcta",
+      "num_hay_cifras",
+      "num_proporcion_falsa",
+      "nombre_inventado",
+      "matiz_perdido_tramo_restrictivo",
+      "matiz_perdido_fuente_restrictivo",
+      "matiz_perdido_tramo_condicional",
+      "matiz_perdido_fuente_condicional",
+      "matiz_perdido_tramo_aproximado",
+      "matiz_perdido_fuente_aproximado",
+      "matiz_perdido_tramo_parcial",
+      "matiz_perdido_fuente_parcial",
+      "huecos_tramo_max",
+      "anadido_universal",
+      "anadido_causal",
+      "anadido_causal_todas",
+      "palabras_nuevas_frac",
+      "llm_ok_y_num_sospechoso",
+      "llm_ok_y_nli_bajo",
+      "llm_contra_sin_apoyo",
+      "n_oraciones",
+      "llmok_num_inexplicados",
+      "llmok_num_derivado_casual",
+      "llmok_num_sospechosos_grandes",
+      "llmok_num_derivado_local",
+      "llmok_num_derivado_anclado",
+      "llmok_num_cuenta_falsa",
+      "llmok_num_cuenta_correcta",
+      "llmok_num_hay_cifras",
+      "llmok_num_proporcion_falsa",
+      "llmok_nombre_inventado",
+      "llmok_matiz_perdido_tramo_restrictivo",
+      "llmok_matiz_perdido_fuente_restrictivo",
+      "llmok_matiz_perdido_tramo_condicional",
+      "llmok_matiz_perdido_fuente_condicional",
+      "llmok_matiz_perdido_tramo_aproximado",
+      "llmok_matiz_perdido_fuente_aproximado",
+      "llmok_matiz_perdido_tramo_parcial",
+      "llmok_matiz_perdido_fuente_parcial",
+      "llmok_huecos_tramo_max",
+      "llmok_anadido_universal",
+      "llmok_anadido_causal",
+      "llmok_anadido_causal_todas"
+    ],
+    "feature_count": 60,
+    "threshold": 0.15,
+    "config": {
+      "weight_h": 5.0,
+      "l2": 10.0,
+      "max_parameter_error": 4.830368889874315e-07,
+      "matches_rounded_parameters": true
+    },
+    "config_audit": [
+      {
+        "weight_h": 1.0,
+        "l2": 3.0,
+        "max_parameter_error": 0.4076722860280688,
+        "matches_rounded_parameters": false
+      },
+      {
+        "weight_h": 1.0,
+        "l2": 10.0,
+        "max_parameter_error": 0.4262045274249092,
+        "matches_rounded_parameters": false
+      },
+      {
+        "weight_h": 1.0,
+        "l2": 30.0,
+        "max_parameter_error": 0.6465874538118134,
+        "matches_rounded_parameters": false
+      },
+      {
+        "weight_h": 3.0,
+        "l2": 3.0,
+        "max_parameter_error": 0.4887166319784715,
+        "matches_rounded_parameters": false
+      },
+      {
+        "weight_h": 3.0,
+        "l2": 10.0,
+        "max_parameter_error": 0.17265589551822658,
+        "matches_rounded_parameters": false
+      },
+      {
+        "weight_h": 3.0,
+        "l2": 30.0,
+        "max_parameter_error": 0.4628563133856798,
+        "matches_rounded_parameters": false
+      },
+      {
+        "weight_h": 5.0,
+        "l2": 3.0,
+        "max_parameter_error": 0.514861803149,
+        "matches_rounded_parameters": false
+      },
+      {
+        "weight_h": 5.0,
+        "l2": 10.0,
+        "max_parameter_error": 4.830368889874315e-07,
+        "matches_rounded_parameters": true
+      },
+      {
+        "weight_h": 5.0,
+        "l2": 30.0,
+        "max_parameter_error": 0.34582226967081453,
+        "matches_rounded_parameters": false
+      }
+    ],
+    "leaderboard_evidence_commit": "b6e5a9787f4de02b984ca982fd6556b8f047866c",
+    "leaderboard_evidence_message": "Bot v2 del Guardián (entrega 1: 0,353 pública, AUROC 0,905) y script de entrenamiento\n\n- kit/mi_bot.py: características (juez LLM, NLI, cifras y cuentas, matices\n  perdidos, causas y alcance añadidos) combinadas con regresión logística.\n  Python puro; los pesos van dentro del fichero.\n- kit/entrenar.py: validación por familias H, elección del corte, ablación\n  y escritura de los pesos en mi_bot.py (usa numpy).\n- .gitignore: cachés de Python, entornos y predicciones locales.\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\n\n",
+    "leaderboard_caveat": "Coincidencia exacta con el archivo del commit que registra las métricas; no se dispone del recibo del servidor ni de etiquetas de test.",
+    "e4_sha256": "cc27f79f220da13664361a30d8426cd0dcbbbcfe70a825972b70a8e5437c53e3",
+    "kit_mi_bot_exists": false,
+    "previous_experiments_present": false
+  },
+  "counts": {
+    "total": 1707,
+    "development": 1280,
+    "h_development": 473,
+    "historical": 427,
+    "h_historical": 158,
+    "groups": 337,
+    "groups_development": 253
+  },
+  "joseca_oof": {
+    "H": {
+      "n": 473,
+      "tn": 114,
+      "fp": 135,
+      "fn": 12,
+      "tp": 212,
+      "cost": 183,
+      "score": 0.2650602409638554,
+      "auroc": 0.8597963281698222
+    },
+    "no-H": {
+      "n": 807,
+      "tn": 164,
+      "fp": 198,
+      "fn": 6,
+      "tp": 439,
+      "cost": 222,
+      "score": 0.3867403314917127,
+      "auroc": 0.9661183189521385
+    },
+    "todos": {
+      "n": 1280,
+      "tn": 278,
+      "fp": 333,
+      "fn": 18,
+      "tp": 651,
+      "cost": 405,
+      "score": 0.337152209492635,
+      "auroc": 0.934220408602624
+    },
+    "objective": 0.30156426812221254
+  },
+  "joseca_nested_weighted": {
+    "H": {
+      "n": 473,
+      "tn": 133,
+      "fp": 116,
+      "fn": 21,
+      "tp": 203,
+      "cost": 200,
+      "score": 0.19678714859437751,
+      "auroc": 0.8597963281698222
+    },
+    "no-H": {
+      "n": 807,
+      "tn": 213,
+      "fp": 149,
+      "fn": 9,
+      "tp": 436,
+      "cost": 185,
+      "score": 0.48895027624309395,
+      "auroc": 0.9661183189521385
+    },
+    "todos": {
+      "n": 1280,
+      "tn": 346,
+      "fp": 265,
+      "fn": 30,
+      "tp": 639,
+      "cost": 385,
+      "score": 0.369885433715221,
+      "auroc": 0.934220408602624
+    },
+    "objective": 0.2844360868889924
+  },
+  "joseca_nested_H": {
+    "H": {
+      "n": 473,
+      "tn": 121,
+      "fp": 128,
+      "fn": 19,
+      "tp": 205,
+      "cost": 204,
+      "score": 0.1807228915662651,
+      "auroc": 0.8597963281698222
+    },
+    "no-H": {
+      "n": 807,
+      "tn": 183,
+      "fp": 179,
+      "fn": 8,
+      "tp": 437,
+      "cost": 211,
+      "score": 0.4171270718232044,
+      "auroc": 0.9661183189521385
+    },
+    "todos": {
+      "n": 1280,
+      "tn": 304,
+      "fp": 307,
+      "fn": 27,
+      "tp": 642,
+      "cost": 415,
+      "score": 0.32078559738134205,
+      "auroc": 0.934220408602624
+    },
+    "objective": 0.2516441456433469
+  },
+  "candela_hgb_oof": {
+    "H": {
+      "n": 473,
+      "tn": 125,
+      "fp": 124,
+      "fn": 12,
+      "tp": 212,
+      "cost": 172,
+      "score": 0.3092369477911646,
+      "auroc": 0.8682946069994264
+    },
+    "no-H": {
+      "n": 807,
+      "tn": 230,
+      "fp": 132,
+      "fn": 3,
+      "tp": 442,
+      "cost": 144,
+      "score": 0.6022099447513812,
+      "auroc": 0.9869638090508411
+    },
+    "todos": {
+      "n": 1280,
+      "tn": 355,
+      "fp": 256,
+      "fn": 15,
+      "tp": 654,
+      "cost": 316,
+      "score": 0.48281505728314233,
+      "auroc": 0.9542517718264307
+    },
+    "objective": 0.39712884687922956
+  },
+  "candela_e4_oof": {
+    "H": {
+      "n": 473,
+      "tn": 125,
+      "fp": 124,
+      "fn": 8,
+      "tp": 216,
+      "cost": 156,
+      "score": 0.37349397590361444,
+      "auroc": 0.882781124497992
+    },
+    "no-H": {
+      "n": 807,
+      "tn": 230,
+      "fp": 132,
+      "fn": 3,
+      "tp": 442,
+      "cost": 144,
+      "score": 0.6022099447513812,
+      "auroc": 0.9869824321807685
+    },
+    "todos": {
+      "n": 1280,
+      "tn": 355,
+      "fp": 256,
+      "fn": 11,
+      "tp": 658,
+      "cost": 300,
+      "score": 0.5090016366612111,
+      "auroc": 0.958398469513821
+    },
+    "objective": 0.44210876655794445
+  },
+  "joseca_frozen_train": {
+    "H": {
+      "n": 631,
+      "tn": 161,
+      "fp": 173,
+      "fn": 13,
+      "tp": 284,
+      "cost": 225,
+      "score": 0.3263473053892215,
+      "auroc": 0.9101292364765419
+    },
+    "no-H": {
+      "n": 1076,
+      "tn": 208,
+      "fp": 275,
+      "fn": 12,
+      "tp": 581,
+      "cost": 323,
+      "score": 0.33126293995859213,
+      "auroc": 0.9693246607243234
+    },
+    "todos": {
+      "n": 1707,
+      "tn": 369,
+      "fp": 448,
+      "fn": 25,
+      "tp": 865,
+      "cost": 548,
+      "score": 0.3292533659730722,
+      "auroc": 0.9510678970748008
+    },
+    "objective": 0.3278219957600327
+  },
+  "joseca_frozen_historical": {
+    "H": {
+      "n": 158,
+      "tn": 37,
+      "fp": 48,
+      "fn": 1,
+      "tp": 72,
+      "cost": 52,
+      "score": 0.388235294117647,
+      "auroc": 0.9215149073327962
+    },
+    "no-H": {
+      "n": 269,
+      "tn": 50,
+      "fp": 71,
+      "fn": 4,
+      "tp": 144,
+      "cost": 87,
+      "score": 0.28099173553719003,
+      "auroc": 0.9705718114809024
+    },
+    "todos": {
+      "n": 427,
+      "tn": 87,
+      "fp": 119,
+      "fn": 5,
+      "tp": 216,
+      "cost": 139,
+      "score": 0.3252427184466019,
+      "auroc": 0.9569476782497912
+    },
+    "objective": 0.35606222654350994
+  },
+  "candela_frozen_train": {
+    "H": {
+      "n": 631,
+      "tn": 200,
+      "fp": 134,
+      "fn": 8,
+      "tp": 289,
+      "cost": 166,
+      "score": 0.5029940119760479,
+      "auroc": 0.9547672332103471
+    },
+    "no-H": {
+      "n": 1076,
+      "tn": 320,
+      "fp": 163,
+      "fn": 5,
+      "tp": 588,
+      "cost": 183,
+      "score": 0.6211180124223603,
+      "auroc": 0.9907094152273418
+    },
+    "todos": {
+      "n": 1707,
+      "tn": 520,
+      "fp": 297,
+      "fn": 13,
+      "tp": 877,
+      "cost": 349,
+      "score": 0.5728274173806609,
+      "auroc": 0.9796652593071392
+    },
+    "objective": 0.5384312121099416
+  },
+  "candela_frozen_historical": {
+    "H": {
+      "n": 158,
+      "tn": 43,
+      "fp": 42,
+      "fn": 8,
+      "tp": 65,
+      "cost": 74,
+      "score": 0.12941176470588234,
+      "auroc": 0.839645447219984
+    },
+    "no-H": {
+      "n": 269,
+      "tn": 77,
+      "fp": 44,
+      "fn": 3,
+      "tp": 145,
+      "cost": 56,
+      "score": 0.5371900826446281,
+      "auroc": 0.980902389993299
+    },
+    "todos": {
+      "n": 427,
+      "tn": 120,
+      "fp": 86,
+      "fn": 11,
+      "tp": 210,
+      "cost": 130,
+      "score": 0.3689320388349514,
+      "auroc": 0.9422308131617099
+    },
+    "objective": 0.2517452600875061
+  },
+  "author_repeated_h": [
+    {
+      "seed": 0,
+      "scope": "H OOF del protocolo autor; no-H siempre entrena",
+      "n": 631,
+      "tn": 164,
+      "fp": 170,
+      "fn": 19,
+      "tp": 278,
+      "cost": 246,
+      "score": 0.26347305389221554,
+      "auroc": 0.8769834069235267
+    },
+    {
+      "seed": 1,
+      "scope": "H OOF del protocolo autor; no-H siempre entrena",
+      "n": 631,
+      "tn": 164,
+      "fp": 170,
+      "fn": 17,
+      "tp": 280,
+      "cost": 238,
+      "score": 0.28742514970059885,
+      "auroc": 0.8759652412347023
+    },
+    {
+      "seed": 2,
+      "scope": "H OOF del protocolo autor; no-H siempre entrena",
+      "n": 631,
+      "tn": 168,
+      "fp": 166,
+      "fn": 19,
+      "tp": 278,
+      "cost": 242,
+      "score": 0.27544910179640714,
+      "auroc": 0.8756224923889594
+    }
+  ],
+  "bootstrap_current": {
+    "H": [
+      0.13358174196553335,
+      0.38596491228070173
+    ],
+    "no-H": [
+      0.3177842565597667,
+      0.45070527643472774
+    ],
+    "todos": [
+      0.2672075441667993,
+      0.4
+    ],
+    "objective": [
+      0.20753864882878167,
+      0.3879016208731238
+    ],
+    "recall_distorsion": [
+      0.9548865653717628,
+      0.9921576286764706
+    ],
+    "recall_contradiccion": [
+      0.9565122044241038,
+      1.0
+    ],
+    "recall_no_respaldado": [
+      0.9712602152680885,
+      1.0
+    ],
+    "recall_sobregeneralizacion": [
+      0.8673469387755102,
+      0.978494623655914
+    ]
+  },
+  "bootstrap_nested": {
+    "H": [
+      0.0535714285714286,
+      0.3390421284224247
+    ],
+    "no-H": [
+      0.4069608270223175,
+      0.566481076058024
+    ],
+    "todos": [
+      0.29179296493323204,
+      0.44521523883881037
+    ],
+    "objective": [
+      0.183038635097024,
+      0.3878199131542693
+    ],
+    "recall_distorsion": [
+      0.9458483754512635,
+      0.9858682040791024
+    ],
+    "recall_contradiccion": [
+      0.931291129244538,
+      0.9921890140503876
+    ],
+    "recall_no_respaldado": [
+      0.9545454545454546,
+      0.9946808510638298
+    ],
+    "recall_sobregeneralizacion": [
+      0.7951672762478486,
+      0.9302526062550119
+    ]
+  },
+  "environment": {
+    "python": "3.13.15 (main, Aug  5 2026, 12:25:43) [Clang 21.0.0 (clang-2100.1.1.101)]",
+    "numpy": "2.5.4",
+    "sklearn": "1.9.1",
+    "git_commit": "aac467786f7c0bd6c42147c62c33c878ad88de03"
+  },
+  "bootstrap_paired_delta": {
+    "H": [
+      -0.1775040028464686,
+      0.019535094734251947
+    ],
+    "no-H": [
+      0.04837741935483871,
+      0.1532307777286787
+    ],
+    "todos": [
+      -0.022921820880752102,
+      0.08095010295706673
+    ],
+    "objective": [
+      -0.0936943222719002,
+      0.045560818266969554
+    ],
+    "replicas": 2000,
+    "seed": 20261015,
+    "direction": "alternativo menos actual"
+  },
+  "joseca_nested_official": {
+    "H": {
+      "n": 473,
+      "tn": 154,
+      "fp": 95,
+      "fn": 31,
+      "tp": 193,
+      "cost": 219,
+      "score": 0.12048192771084343,
+      "auroc": 0.8597963281698222
+    },
+    "no-H": {
+      "n": 807,
+      "tn": 256,
+      "fp": 106,
+      "fn": 15,
+      "tp": 430,
+      "cost": 166,
+      "score": 0.5414364640883977,
+      "auroc": 0.9661183189521385
+    },
+    "todos": {
+      "n": 1280,
+      "tn": 410,
+      "fp": 201,
+      "fn": 46,
+      "tp": 623,
+      "cost": 385,
+      "score": 0.369885433715221,
+      "auroc": 0.934220408602624
+    },
+    "objective": 0.2467682886241097
+  },
+  "bootstrap_official": {
+    "H": [
+      -0.04670554933952344,
+      0.288486842105263
+    ],
+    "no-H": [
+      0.4502657553546835,
+      0.6289878725325764
+    ],
+    "todos": [
+      0.27550769488123117,
+      0.46101723023301566
+    ],
+    "objective": [
+      0.12299483566751292,
+      0.3720034415431726
+    ],
+    "recall_distorsion": [
+      0.9190117053673391,
+      0.9695846295656181
+    ],
+    "recall_contradiccion": [
+      0.931291129244538,
+      0.9921890140503876
+    ],
+    "recall_no_respaldado": [
+      0.907511774780561,
+      0.9743975903614456
+    ],
+    "recall_sobregeneralizacion": [
+      0.7450980392156863,
+      0.8979591836734694
+    ]
+  },
+  "bootstrap_paired_official_delta": {
+    "H": [
+      -0.3027561003464159,
+      -0.007872477854330717
+    ],
+    "no-H": [
+      0.07909604519774012,
+      0.2256312337137209
+    ],
+    "todos": [
+      -0.04570069821369416,
+      0.10894914824364879
+    ],
+    "objective": [
+      -0.1659451599363877,
+      0.04720092003704847
+    ],
+    "replicas": 2000,
+    "seed": 20261015,
+    "direction": "alternativo menos actual"
+  },
+  "feature_zero_ablation": {
+    "llm": {
+      "H": {
+        "n": 473,
+        "tn": 33,
+        "fp": 216,
+        "fn": 7,
+        "tp": 217,
+        "cost": 244,
+        "score": 0.02008032128514059,
+        "auroc": 0.8394112162937464
+      },
+      "no-H": {
+        "n": 807,
+        "tn": 63,
+        "fp": 299,
+        "fn": 3,
+        "tp": 442,
+        "cost": 311,
+        "score": 0.14088397790055252,
+        "auroc": 0.9406232540815693
+      },
+      "todos": {
+        "n": 1280,
+        "tn": 96,
+        "fp": 515,
+        "fn": 10,
+        "tp": 659,
+        "cost": 555,
+        "score": 0.09165302782324058,
+        "auroc": 0.9065757573533547
+      },
+      "objective": 0.05632141826976417
+    },
+    "nli": {
+      "H": {
+        "n": 473,
+        "tn": 12,
+        "fp": 237,
+        "fn": 3,
+        "tp": 221,
+        "cost": 249,
+        "score": 0.0,
+        "auroc": 0.848348752151463
+      },
+      "no-H": {
+        "n": 807,
+        "tn": 16,
+        "fp": 346,
+        "fn": 0,
+        "tp": 445,
+        "cost": 346,
+        "score": 0.04419889502762431,
+        "auroc": 0.930588490905705
+      },
+      "todos": {
+        "n": 1280,
+        "tn": 28,
+        "fp": 583,
+        "fn": 3,
+        "tp": 666,
+        "cost": 595,
+        "score": 0.026186579378068786,
+        "auroc": 0.9030431134238024
+      },
+      "objective": 0.013259668508287291
+    },
+    "numeros": {
+      "H": {
+        "n": 473,
+        "tn": 47,
+        "fp": 202,
+        "fn": 7,
+        "tp": 217,
+        "cost": 230,
+        "score": 0.07630522088353409,
+        "auroc": 0.8151893287435457
+      },
+      "no-H": {
+        "n": 807,
+        "tn": 114,
+        "fp": 248,
+        "fn": 3,
+        "tp": 442,
+        "cost": 260,
+        "score": 0.2817679558011049,
+        "auroc": 0.9630206716742193
+      },
+      "todos": {
+        "n": 1280,
+        "tn": 161,
+        "fp": 450,
+        "fn": 10,
+        "tp": 659,
+        "cost": 490,
+        "score": 0.19803600654664488,
+        "auroc": 0.9188176896410845
+      },
+      "objective": 0.13794404135880534
+    },
+    "matices": {
+      "H": {
+        "n": 473,
+        "tn": 137,
+        "fp": 112,
+        "fn": 23,
+        "tp": 201,
+        "cost": 204,
+        "score": 0.1807228915662651,
+        "auroc": 0.8501506024096386
+      },
+      "no-H": {
+        "n": 807,
+        "tn": 178,
+        "fp": 184,
+        "fn": 8,
+        "tp": 437,
+        "cost": 216,
+        "score": 0.4033149171270718,
+        "auroc": 0.9677199081258925
+      },
+      "todos": {
+        "n": 1280,
+        "tn": 315,
+        "fp": 296,
+        "fn": 31,
+        "tp": 638,
+        "cost": 420,
+        "score": 0.3126022913256956,
+        "auroc": 0.9291514070638202
+      },
+      "objective": 0.2475004992345071
+    },
+    "texto": {
+      "H": {
+        "n": 473,
+        "tn": 72,
+        "fp": 177,
+        "fn": 7,
+        "tp": 217,
+        "cost": 205,
+        "score": 0.17670682730923692,
+        "auroc": 0.8488597246127367
+      },
+      "no-H": {
+        "n": 807,
+        "tn": 98,
+        "fp": 264,
+        "fn": 2,
+        "tp": 443,
+        "cost": 272,
+        "score": 0.24861878453038677,
+        "auroc": 0.9700477993668136
+      },
+      "todos": {
+        "n": 1280,
+        "tn": 170,
+        "fp": 441,
+        "fn": 9,
+        "tp": 660,
+        "cost": 477,
+        "score": 0.21931260229132565,
+        "auroc": 0.9331659975682491
+      },
+      "objective": 0.19828041447558187
+    },
+    "otros": {
+      "H": {
+        "n": 473,
+        "tn": 99,
+        "fp": 150,
+        "fn": 12,
+        "tp": 212,
+        "cost": 198,
+        "score": 0.20481927710843373,
+        "auroc": 0.857716580608147
+      },
+      "no-H": {
+        "n": 807,
+        "tn": 126,
+        "fp": 236,
+        "fn": 4,
+        "tp": 441,
+        "cost": 252,
+        "score": 0.30386740331491713,
+        "auroc": 0.9678440623254082
+      },
+      "todos": {
+        "n": 1280,
+        "tn": 225,
+        "fp": 386,
+        "fn": 16,
+        "tp": 653,
+        "cost": 450,
+        "score": 0.2635024549918167,
+        "auroc": 0.934242426466451
+      },
+      "objective": 0.23453371497037873
+    }
+  },
+  "descriptive_global_best": {
+    "weighted_threshold": 0.15999999999999998,
+    "h_threshold": 0.15999999999999998,
+    "weighted": {
+      "H": {
+        "n": 473,
+        "tn": 123,
+        "fp": 126,
+        "fn": 14,
+        "tp": 210,
+        "cost": 182,
+        "score": 0.26907630522088355,
+        "auroc": 0.8597963281698222
+      },
+      "no-H": {
+        "n": 807,
+        "tn": 177,
+        "fp": 185,
+        "fn": 6,
+        "tp": 439,
+        "cost": 209,
+        "score": 0.42265193370165743,
+        "auroc": 0.9661183189521385
+      },
+      "todos": {
+        "n": 1280,
+        "tn": 300,
+        "fp": 311,
+        "fn": 20,
+        "tp": 649,
+        "cost": 391,
+        "score": 0.36006546644844517,
+        "auroc": 0.934220408602624
+      },
+      "objective": 0.3151489937651157
+    },
+    "h": {
+      "H": {
+        "n": 473,
+        "tn": 123,
+        "fp": 126,
+        "fn": 14,
+        "tp": 210,
+        "cost": 182,
+        "score": 0.26907630522088355,
+        "auroc": 0.8597963281698222
+      },
+      "no-H": {
+        "n": 807,
+        "tn": 177,
+        "fp": 185,
+        "fn": 6,
+        "tp": 439,
+        "cost": 209,
+        "score": 0.42265193370165743,
+        "auroc": 0.9661183189521385
+      },
+      "todos": {
+        "n": 1280,
+        "tn": 300,
+        "fp": 311,
+        "fn": 20,
+        "tp": 649,
+        "cost": 391,
+        "score": 0.36006546644844517,
+        "auroc": 0.934220408602624
+      },
+      "objective": 0.3151489937651157
+    },
+    "caveat": "Selección retrospectiva en OOF, no estimación independiente y no se adopta"
+  }
+}

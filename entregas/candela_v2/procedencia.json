@@ -1,0 +1,17 @@
+{
+  "baseline": "entregas/joseca_v3",
+  "experiment_source": "kit/experimentos/propuesta_b_matices",
+  "decision": "Conservar v3; ninguna variante B supera los controles",
+  "files": {
+    "mi_bot.py": {
+      "sha256": "ff65cd4dcbd63cacce311ada7e28980a5879e9ceb00b9d2962cc963493c95de9",
+      "identical_to_baseline": true
+    },
+    "entrenar.py": {
+      "sha256": "87dea323ed70fc68dd4e01aa8e021479f7ec6da3c3433902e6043faedca2a845",
+      "identical_to_baseline": true
+    }
+  },
+  "experiment_files_copied": 51,
+  "candidate_exported": false
+}

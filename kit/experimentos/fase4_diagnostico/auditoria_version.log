@@ -1,0 +1,10 @@
+{'weight_h': 1.0, 'l2': 3.0, 'max_parameter_error': 0.4076722860280688, 'matches_rounded_parameters': False}
+{'weight_h': 1.0, 'l2': 10.0, 'max_parameter_error': 0.4262045274249092, 'matches_rounded_parameters': False}
+{'weight_h': 1.0, 'l2': 30.0, 'max_parameter_error': 0.6465874538118134, 'matches_rounded_parameters': False}
+{'weight_h': 3.0, 'l2': 3.0, 'max_parameter_error': 0.4887166319784715, 'matches_rounded_parameters': False}
+{'weight_h': 3.0, 'l2': 10.0, 'max_parameter_error': 0.17265589551822658, 'matches_rounded_parameters': False}
+{'weight_h': 3.0, 'l2': 30.0, 'max_parameter_error': 0.4628563133856798, 'matches_rounded_parameters': False}
+{'weight_h': 5.0, 'l2': 3.0, 'max_parameter_error': 0.514861803149, 'matches_rounded_parameters': False}
+{'weight_h': 5.0, 'l2': 10.0, 'max_parameter_error': 4.830368889874315e-07, 'matches_rounded_parameters': True}
+{'weight_h': 5.0, 'l2': 30.0, 'max_parameter_error': 0.34582226967081453, 'matches_rounded_parameters': False}
+Identificación exacta: {'weight_h': 5.0, 'l2': 10.0, 'max_parameter_error': 4.830368889874315e-07, 'matches_rounded_parameters': True}

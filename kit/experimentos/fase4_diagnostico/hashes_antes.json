@@ -1,0 +1,16 @@
+{
+  "README.md": "e0878e11362a51ddb0dc41faed463f2abbb7941f93d5b6c8683e265d2651c885",
+  ".gitignore": "f4ae700e6bcbf9a3910bc77833f1776d5b5fc2d691f744b895dbaf72f9ffd7cf",
+  "Enunciado_El_Guardian.docx": "f7117358bd033493695a3e05becf6f0de32aaebcb8ee3d0e6e0edd76c10b1a3f",
+  "kit/ejemplo_bot.py": "aa16f9145d065f61f8bafe651298acbc9f7103abed27f1f12de41391b01e6207",
+  "kit/train.jsonl": "a958983bf6311cc484e2ef1d7b7bfb5868c1366b1c215e8d0f5fd213dacebee6",
+  "kit/generar_predicciones.py": "6f59dde11cc3e236f339bb2c8c5102d6a0d83d82bcdf69604c276d5414a4f2a6",
+  "kit/EJEMPLOS.md": "b629a8c1354618582d24d149fec29e8e51d278250447210ea19f5d1f86b3a1c1",
+  "kit/README.md": "b97226462bcf90962fa84456fb6276b6b21c4307b9fc548de389da1c53ad239e",
+  "kit/evaluar_local.py": "fa3c21fde3d4e6fa1ce115e9206164e523b93cd45aa238dd3dbb06bc2ed486c1",
+  "kit/test_publico.jsonl": "0e3d6ab24880fb852d9c6141b8c8f5d34a532ac85f8e962c9d0b376c6315db35",
+  "entregas/README.md": "f06e0998c63acba55b6bccd86734c2ec657f8e4abbc2631e04d6a5b53ec824d8",
+  "entregas/joseca_v1/entrenar.py": "a4912cd0e0f650cc47719bb6122a5fcef443936cb5887137edd56c1856ff0d05",
+  "entregas/joseca_v1/mi_bot.py": "edd2cfda1bb3e5d6c811ced2c1e0c0b3553aeaefd2080256e921fd8ccf36a510",
+  "entregas/candela_v1/mi_bot.py": "cc27f79f220da13664361a30d8426cd0dcbbbcfe70a825972b70a8e5437c53e3"
+}

@@ -1,0 +1,13 @@
+dominio,verificador,activaciones,alucinadas_activadas,fieles_activados,fp_introducidos,fn_corregidos,delta_coste,delta_score,distorsion,contradiccion,no_respaldado,sobregeneralizacion
+todos,pair_bad,5,5,0,0,2,-8,0.013093289689034449,5,0,0,0
+todos,source_math_bad,5,5,0,0,2,-8,0.013093289689034449,2,2,1,0
+todos,binding_bad,0,0,0,0,0,0,0.0,0,0,0,0
+todos,union_max,10,10,0,0,4,-16,0.026186579378068786,7,2,1,0
+H,pair_bad,5,5,0,0,2,-8,0.032128514056224966,5,0,0,0
+H,source_math_bad,3,3,0,0,2,-8,0.032128514056224966,2,0,1,0
+H,binding_bad,0,0,0,0,0,0,0.0,0,0,0,0
+H,union_max,8,8,0,0,4,-16,0.06425702811244982,7,0,1,0
+no-H,pair_bad,0,0,0,0,0,0,0.0,0,0,0,0
+no-H,source_math_bad,2,2,0,0,0,0,0.0,0,2,0,0
+no-H,binding_bad,0,0,0,0,0,0,0.0,0,0,0,0
+no-H,union_max,2,2,0,0,0,0,0.0,0,2,0,0

@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "variant_repeat_pairs": 20,
+  "group_disjoint_outer_inner": true,
+  "validation_once": true,
+  "threshold_only_inner": true,
+  "official_metric_parity": true,
+  "per_type_cost_identity": true,
+  "transition_cost_identity": true,
+  "originals_unchanged": true,
+  "candidate": null
+}

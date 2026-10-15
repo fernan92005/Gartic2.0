@@ -1,0 +1,11 @@
+patron,fieles_cohorte,fp,coste_fp,fraccion_fp
+Síntesis correcta multifuente (proxy),170,116,116,0.3483483483483483
+Paráfrasis / vocabulario nuevo (proxy),364,151,151,0.45345345345345345
+Aritmética válida según comprobador (proxy),93,9,9,0.02702702702702703
+Posible conversión de unidades,14,8,8,0.024024024024024024
+Contradicción NLI espuria (cualquier fuente),193,111,111,0.3333333333333333
+MiniMax pesimista en fiel,12,12,12,0.036036036036036036
+Bajo respaldo en fuente citada,321,184,184,0.5525525525525525
+"Fragmento bajo, oración alta",22,16,16,0.04804804804804805
+Sospecha numérica del Joseca,42,33,33,0.0990990990990991
+Alerta E4 (no componente Joseca),0,0,0,0.0

@@ -1,0 +1,17 @@
+# Python: cachés y compilados que se generan al ejecutar los scripts
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Predicciones generadas en local (las que se entregan van en entregas/<equipo>/entrega_N/)
+kit/predicciones.csv
+
+# Ficheros del sistema y del editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
